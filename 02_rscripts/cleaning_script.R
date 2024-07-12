@@ -1,9 +1,11 @@
 library(here)
 library(readr)
+library(dplyr)
+library(stringr)
 
 #### Reading data ####
 
-dtf_msw3_full <- read_csv(here("01_data",
+dtf_msw3_raw <- read_csv(here("01_data",
                                "01_raw-data",
                                "msw3_all_UTF-8.csv"))
 
@@ -47,6 +49,7 @@ vct_colnames <- c(
 )
 
 ### Character fixing vector ###
+# Badly encoded characters from original non-UTF-8 file
 
 vct_char_fix <- c(
   "&#131;" = "ć",
@@ -82,3 +85,36 @@ vct_char_fix <- c(
   "Ibß±ez" = "Ibañez",
   "Tar~bulus" = "Tar'bulus"
 )
+
+#### Cleaning data ####
+
+dtf_msw3_clean <- dtf_msw3_raw %>%
+  rename(all_of(vct_colnames)) %>% # Renaming columns
+  mutate(across(1:34, ~ str_replace_all(., vct_char_fix))) %>% # Fixing characters
+  mutate(msw3_accepted_author = str_replace_all(msw3_accepted_author, # Cleaning html tags and other small typos messing with author names
+                                                pattern = "<i>In</i>",
+                                                replacement = "In"),
+         msw3_accepted_author = str_replace_all(msw3_accepted_author,
+                                                pattern = "<i>In </i>",
+                                                replacement = "in "),
+         msw3_accepted_author = str_replace_all(msw3_accepted_author,
+                                                pattern = "<i>in </i>",
+                                                replacement = "in "),
+         msw3_accepted_author = str_replace_all(msw3_accepted_author,
+                                                pattern = "<i>in</i>",
+                                                replacement = "in"),
+         msw3_accepted_author = str_replace_all(msw3_accepted_author,
+                                                pattern = ", and",
+                                                replacement = " and"),
+         msw3_accepted_author = str_replace_all(msw3_accepted_author,
+                                                pattern = ",",
+                                                replacement = " and"),
+         msw3_accepted_author = str_replace_all(msw3_accepted_author,
+                                                pattern = "\\[Baron\\]",
+                                                replacement = "'Baron'"),
+         msw3_synonymy = str_replace_all(msw3_synonymy,
+                                         pattern = "IUCN \\– Lower Risk \\(nt\\)\\.",
+                                         replacement = ""))
+  
+
+         
