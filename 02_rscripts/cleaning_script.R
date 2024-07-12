@@ -11,6 +11,7 @@ dtf_msw3_raw <- read_csv(here("01_data",
 
 #### Setting up cleaning vectors ####
 ### Colnames vector ###
+
 vct_colnames <- c(
   "msw3_number_ID" = "ID",
   "msw3_accepted_sist_order" = "Order",
@@ -49,7 +50,7 @@ vct_colnames <- c(
 )
 
 ### Character fixing vector ###
-# Badly encoded characters from original non-UTF-8 file
+#*Badly encoded characters from original non-UTF-8 file
 
 vct_char_fix <- c(
   "&#131;" = "ć",
@@ -115,6 +116,98 @@ dtf_msw3_clean <- dtf_msw3_raw %>%
          msw3_synonymy = str_replace_all(msw3_synonymy,
                                          pattern = "IUCN \\– Lower Risk \\(nt\\)\\.",
                                          replacement = ""))
-  
 
-         
+
+
+
+#### Notes to self ####
+# - Accepted genus column was individually checked for "non-genus-looking" names, it's alright
+dtf_msw3_specificProblems <- dtf_msw3_clean %>% 
+  filter(msw3_accepted_sist_tribe == "Gray") # From original file, I think I can just delete it later
+
+## Checking names in accepted genus column for "non-genus-looking" strings, it's alright
+#a <- dtf_msw3_clean %>%
+#filter(!str_detect(string = msw3_accepted_sist_genus,
+#                   pattern = "mys$")) %>% 
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "don$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "ops$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "x$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "dorcas$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "tragus$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "dontia$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "dontes$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "ceros$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "ictis$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "cyon$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "gale$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "is$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "es$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "lus$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "cus$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "pus$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "urus$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "ura$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "bus$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "ia$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "ius$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "rus$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "mus$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "nus$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "tus$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "eus$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "sus$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "us$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "oma$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "oda$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "on$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "ola$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "ta$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "na$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "ra$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "la$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "ma$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "as$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "s$")) %>%
+#  filter(!str_detect(string = msw3_accepted_sist_genus,
+#                     pattern = "a$")) %>%
+#  group_by(msw3_accepted_sist_genus) %>%
+#  summarise(n = n())
