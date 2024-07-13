@@ -119,13 +119,22 @@ dtf_msw3_clean <- dtf_msw3_raw %>%
 
 
 
-
 #### Notes to self ####
-# - Accepted genus column was individually checked for "non-genus-looking" names, it's alright
-dtf_msw3_specificProblems <- dtf_msw3_clean %>% 
-  filter(msw3_accepted_sist_tribe == "Gray") # From original file, I think I can just delete it later
 
-## Checking names in accepted genus column for "non-genus-looking" strings, it's alright
+## Taking note of problems
+dtf_msw3_specificProblems <- dtf_msw3_clean %>% 
+  filter(msw3_accepted_sist_tribe == "Gray") %>% # From original file, I think I can just delete it later
+  bind_rows((
+    dtf_msw3_clean %>% # Comments and other notations
+      filter(str_detect(msw3_accepted_sist_subgenus,
+                        pattern = "\\.|\\?|\\[|\\]| |Comment|comment"))
+  ))
+  
+## Checking names in accepted genus column for "non-genus-looking" strings, it's
+##alright. The idea of the following code is to incrementally exclude names based 
+##on their endings, which were checked by removing the "!" before each "str_detect".
+##I did the same thing to check the subgenus and epithet columns.
+
 #a <- dtf_msw3_clean %>%
 #filter(!str_detect(string = msw3_accepted_sist_genus,
 #                   pattern = "mys$")) %>% 
@@ -211,3 +220,4 @@ dtf_msw3_specificProblems <- dtf_msw3_clean %>%
 #                     pattern = "a$")) %>%
 #  group_by(msw3_accepted_sist_genus) %>%
 #  summarise(n = n())
+
