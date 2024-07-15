@@ -137,12 +137,13 @@ a <- dtf_msw3_clean %>%
   group_by(msw3_original_name) %>%
   summarise() 
 
-## Checking names in accepted genus column for "non-genus-looking" strings, it's
-##alright. The idea of the following code is to incrementally exclude names based 
-##on their endings, which were checked by removing the "!" before each "str_detect".
-##I did the same thing to check the subgenus and epithet columns.
-##Subspecies were not thoroughly checked for errors
-## To clean: - original name
+
+## Checking for anomalous values in each column. All columns from order to original
+## name comments were thoroughly checked, but epithet. All errors found in checked
+## columns were fixed so far, but the errors in the subgenus column. Bellow there's
+## an example of the code used to check the larger taxonomic columns, like genus
+## and epithet. The idea is to incrementally exclude names based on their endings, 
+## which were checked by removing the "!" before each "str_detect".
 
 #a <- dtf_msw3_clean %>%
 #filter(!str_detect(string = msw3_accepted_sist_genus,
