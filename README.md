@@ -31,13 +31,14 @@ University of São Paulo (USP), Brazil.
 
 The data used in this project comes from [the
 website](https://www.departments.bucknell.edu/biology/resources/msw3/ "Bucknell University's website where users can download the original data")
-dedicated to the book Mammal Species of the World (Wilson and Reeder
-2005), a slightly outdated (but still useful) reference of Mammal
+dedicated to the book Mammal Species of the World (MSW3, Wilson and
+Reeder 2005), a slightly outdated (but still useful) reference of Mammal
 Taxonomy. It has historical value, but also holds information that’s yet
-to be fully processed by the newer Mammal Diversity Database (Upham et
-al. 2024), specially regarding genus or higher level taxonomic synonyms.
-As such, it can be used as a source of data for projects that need this
-kind of information.
+to be fully processed by the newer [Mammal Diversity
+Database](https://www.mammaldiversity.org/ "Link to the Mammal Diversity Database homepage")
+(Upham et al. 2024), specially regarding genus or higher level taxonomic
+synonyms. As such, it can be used as a source of data for projects that
+need this kind of information.
 
 A careful cleaning effort is needed because the available [download
 link](https://www.departments.bucknell.edu/biology/resources/msw3/export.asp "Click to download the original Mammal Species of the World data")
@@ -52,13 +53,13 @@ as .json files, the data repository describes itself as incomplete.
 
 ### Aims
 
-This project aims to provide a synonymy of genera and higher level
-taxonomic ranks. Because The Mammal Diversity Database (2005) already
-provides better access to original citations, type localities and
-updated [IUCN’s Red
+This project aims to provide a synonymy of mammal genera and higher
+level taxonomic ranks. Because The Mammal Diversity Database (2024)
+already provides better access to original citations, type localities
+and updated [IUCN’s Red
 List](https://www.iucnredlist.org/ "Link to the Red List website, by IUCN")
-threat assessments, this work focuses on cleaning the taxonomic
-synonyms.
+threat assessments, this work focuses on cleaning the taxonomic synonyms
+from the MSW3.
 
 ### About the code
 
