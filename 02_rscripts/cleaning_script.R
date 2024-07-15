@@ -96,7 +96,7 @@ vct_char_fix <- c(
 dtf_msw3_clean <- dtf_msw3_raw %>%
   rename(all_of(vct_colnames)) %>% # Renaming columns
   mutate(across(1:34, ~ str_replace_all(., vct_char_fix))) %>% # Fixing characters
-  mutate(# Cleaning html tags and other small typos messing with strings on specific columns
+  mutate(# Cleaning html tags, small typos and NAs on specific columns
          msw3_accepted_author_name = str_replace_all(msw3_accepted_author_name, 
                                                 pattern = "<i>In</i>|<i>in</i>",
                                                 replacement = "in"),
@@ -112,6 +112,8 @@ dtf_msw3_clean <- dtf_msw3_raw %>%
          msw3_original_name = str_replace_all(msw3_original_name, 
                                           pattern = "<i>|</i>",
                                           replacement = ""),
+         msw3_accepted_status_valid_name = str_replace_na(msw3_accepted_status_valid_name,
+                                                          replacement = "yes"), #There's a single NA (ID: 12100705), and it is considered valid on the website (https://www.departments.bucknell.edu/biology/resources/msw3/browse.asp?id=12100705)
          ## Creating new columns
          msw3_original_name_comments = case_when(
                                           msw3_original_name == "? Orig descr as full species" ~ "Original description as full species"),
@@ -122,7 +124,11 @@ dtf_msw3_clean <- dtf_msw3_raw %>%
          msw3_synonymy = na_if(msw3_synonymy,
                                "IUCN – Lower Risk (nt)."),
          msw3_accepted_sist_tribe = na_if(msw3_accepted_sist_tribe,
-                                          "Gray"))
+                                          "Gray"),
+         ## Fixing column problems
+         msw3_accepted_status_valid_name = str_to_lower(msw3_accepted_status_valid_name)) # There were several 
+  
+         
 
 
 
@@ -130,20 +136,15 @@ dtf_msw3_clean <- dtf_msw3_raw %>%
 
 ## Taking note of problems
 dtf_msw3_specificProblems <- dtf_msw3_clean %>% 
-  filter(msw3_accepted_sist_tribe == "Gray") %>% # From original file, I think I can just delete it later
+  filter(msw3_accepted_author_name == "new subfamily.") %>% # Check how more recent authors cite this
   bind_rows((
     dtf_msw3_clean %>% # Comments and other notations
       filter(str_detect(msw3_accepted_sist_subgenus,
                         pattern = "\\.|\\?|\\[|\\]| |Comment|comment"))
   ))
-  
-a <- dtf_msw3_clean %>%
-  group_by(msw3_original_name) %>%
-  summarise() 
 
-
-## Checking for anomalous values in each column. All columns from order to original
-## name comments were thoroughly checked, but epithet. All errors found in checked
+## Checking for anomalous values in each column. All columns from order to valid name
+## status were thoroughly checked, but subspecies and extinction status. All errors found in checked
 ## columns were fixed so far, but the errors in the subgenus column. Bellow there's
 ## an example of the code used to check the larger taxonomic columns, like genus
 ## and epithet. The idea is to incrementally exclude names based on their endings, 
