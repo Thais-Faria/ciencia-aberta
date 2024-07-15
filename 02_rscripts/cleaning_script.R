@@ -92,30 +92,33 @@ vct_char_fix <- c(
 dtf_msw3_clean <- dtf_msw3_raw %>%
   rename(all_of(vct_colnames)) %>% # Renaming columns
   mutate(across(1:34, ~ str_replace_all(., vct_char_fix))) %>% # Fixing characters
-  mutate(msw3_accepted_author = str_replace_all(msw3_accepted_author, # Cleaning html tags and other small typos messing with author names
-                                                pattern = "<i>In</i>",
-                                                replacement = "In"),
-         msw3_accepted_author = str_replace_all(msw3_accepted_author,
-                                                pattern = "<i>In </i>",
-                                                replacement = "in "),
-         msw3_accepted_author = str_replace_all(msw3_accepted_author,
-                                                pattern = "<i>in </i>",
-                                                replacement = "in "),
-         msw3_accepted_author = str_replace_all(msw3_accepted_author,
-                                                pattern = "<i>in</i>",
+  mutate(# Cleaning html tags and other small typos messing with strings
+         msw3_accepted_author = str_replace_all(msw3_accepted_author, 
+                                                pattern = "<i>In</i>|<i>in</i>",
                                                 replacement = "in"),
          msw3_accepted_author = str_replace_all(msw3_accepted_author,
-                                                pattern = ", and",
-                                                replacement = " and"),
+                                                pattern = "<i>In </i>|<i>in </i>",
+                                                replacement = "in "),
          msw3_accepted_author = str_replace_all(msw3_accepted_author,
-                                                pattern = ",",
+                                                pattern = ", and|,",
                                                 replacement = " and"),
          msw3_accepted_author = str_replace_all(msw3_accepted_author,
                                                 pattern = "\\[Baron\\]",
                                                 replacement = "'Baron'"),
-         msw3_synonymy = str_replace_all(msw3_synonymy,
-                                         pattern = "IUCN \\– Lower Risk \\(nt\\)\\.",
-                                         replacement = ""))
+         msw3_original_name = str_replace_all(msw3_original_name, 
+                                          pattern = "<i>|</i>",
+                                          replacement = ""),
+         ## Creating new columns
+         msw3_original_name_comments = case_when(
+                                          msw3_original_name == "? Orig descr as full species" ~ "Original description as full species"),
+                                          .after = "msw3_original_name",
+         ## Deleting weird values from specific cells
+         msw3_original_name = na_if(msw3_original_name,
+                                    "? Orig descr as full species"),
+         msw3_synonymy = na_if(msw3_synonymy,
+                               "IUCN – Lower Risk (nt)."),
+         msw3_accepted_sist_tribe = na_if(msw3_accepted_sist_tribe,
+                                          "Gray"))
 
 
 
@@ -130,10 +133,16 @@ dtf_msw3_specificProblems <- dtf_msw3_clean %>%
                         pattern = "\\.|\\?|\\[|\\]| |Comment|comment"))
   ))
   
+a <- dtf_msw3_clean %>%
+  group_by(msw3_original_name) %>%
+  summarise() 
+
 ## Checking names in accepted genus column for "non-genus-looking" strings, it's
 ##alright. The idea of the following code is to incrementally exclude names based 
 ##on their endings, which were checked by removing the "!" before each "str_detect".
 ##I did the same thing to check the subgenus and epithet columns.
+##Subspecies were not thoroughly checked for errors
+## To clean: - original name
 
 #a <- dtf_msw3_clean %>%
 #filter(!str_detect(string = msw3_accepted_sist_genus,
