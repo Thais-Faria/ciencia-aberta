@@ -1,5 +1,16 @@
 # README
 Thaís G. P. Faria
+2024-07-15
+
+- [Overview](#overview)
+  - [What is this project?](#what-is-this-project)
+  - [About the data](#about-the-data)
+  - [Aims](#aims)
+  - [About the code](#about-the-code)
+- [About this repo](#about-this-repo)
+  - [How is it organized?](#how-is-it-organized)
+  - [How can I use it?](#how-can-i-use-it)
+- [References](#references)
 
 ## Overview
 
