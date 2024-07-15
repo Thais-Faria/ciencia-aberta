@@ -6,11 +6,14 @@ library(stringr)
 #### Reading data ####
 
 dtf_msw3_raw <- read_csv(here("01_data",
-                               "01_raw-data",
-                               "msw3_all_UTF-8.csv"))
+                              "01_raw-data",
+                              "msw3_all_UTF-8.csv"))
 
 #### Setting up cleaning vectors ####
+
 ### Colnames vector ###
+# The following vector will be used to standardize column names. The syntax is
+# "new_column_name" = "original_column_name"
 
 vct_colnames <- c(
   "msw3_number_ID" = "ID",
@@ -29,7 +32,7 @@ vct_colnames <- c(
   "msw3_accepted_status_extinct" = "Extinct?",
   "msw3_original_name" = "OriginalName",
   "msw3_accepted_status_valid_name" = "ValidName",
-  "msw3_accepted_author" = "Author",
+  "msw3_accepted_author_name" = "Author",
   "msw3_accepted_author_year" = "Date",
   "msw3_accepted_author_year_corrected" = "ActualDate",
   "msw3_accepted_citation_journal" = "CitationName",
@@ -50,7 +53,8 @@ vct_colnames <- c(
 )
 
 ### Character fixing vector ###
-#*Badly encoded characters from original non-UTF-8 file
+# The following vector will be used to clean character encoding problems from the
+# original data file. The syntax is "old string" = "corrected character"
 
 vct_char_fix <- c(
   "&#131;" = "ć",
@@ -92,17 +96,17 @@ vct_char_fix <- c(
 dtf_msw3_clean <- dtf_msw3_raw %>%
   rename(all_of(vct_colnames)) %>% # Renaming columns
   mutate(across(1:34, ~ str_replace_all(., vct_char_fix))) %>% # Fixing characters
-  mutate(# Cleaning html tags and other small typos messing with strings
-         msw3_accepted_author = str_replace_all(msw3_accepted_author, 
+  mutate(# Cleaning html tags and other small typos messing with strings on specific columns
+         msw3_accepted_author_name = str_replace_all(msw3_accepted_author_name, 
                                                 pattern = "<i>In</i>|<i>in</i>",
                                                 replacement = "in"),
-         msw3_accepted_author = str_replace_all(msw3_accepted_author,
+         msw3_accepted_author_name = str_replace_all(msw3_accepted_author_name,
                                                 pattern = "<i>In </i>|<i>in </i>",
                                                 replacement = "in "),
-         msw3_accepted_author = str_replace_all(msw3_accepted_author,
+         msw3_accepted_author_name = str_replace_all(msw3_accepted_author_name,
                                                 pattern = ", and|,",
                                                 replacement = " and"),
-         msw3_accepted_author = str_replace_all(msw3_accepted_author,
+         msw3_accepted_author_name = str_replace_all(msw3_accepted_author_name,
                                                 pattern = "\\[Baron\\]",
                                                 replacement = "'Baron'"),
          msw3_original_name = str_replace_all(msw3_original_name, 
