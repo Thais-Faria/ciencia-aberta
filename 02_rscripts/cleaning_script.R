@@ -1,11 +1,12 @@
 library(here)
 library(readr)
+library(tidyr)
 library(dplyr)
 library(stringr)
 
 #### Reading data ####
 
-dtf_msw3_raw <- read_csv(here("01_data",
+dtf_msw3_full_raw <- read_csv(here("01_data",
                               "01_raw-data",
                               "msw3_all_UTF-8.csv"))
 
@@ -28,7 +29,7 @@ vct_colnames <- c(
   "msw3_accepted_sist_subgenus" = "Subgenus",
   "msw3_accepted_sist_epithet" = "Species",
   "msw3_accepted_sist_subspecies" = "Subspecies",
-  "msw3_accepted_taxon_level" = "TaxonLevel",
+  "msw3_accepted_taxon_rank" = "TaxonLevel",
   "msw3_accepted_status_extinct" = "Extinct?",
   "msw3_original_name" = "OriginalName",
   "msw3_accepted_status_valid_name" = "ValidName",
@@ -91,9 +92,9 @@ vct_char_fix <- c(
   "Tar~bulus" = "Tar'bulus"
 )
 
-#### Cleaning data ####
+#### Basic data cleaning ####
 
-dtf_msw3_clean <- dtf_msw3_raw %>%
+dtf_msw3_full_clean <- dtf_msw3_full_raw %>%
   rename(all_of(vct_colnames)) %>% # Renaming columns
   mutate(across(1:34, ~ str_replace_all(., vct_char_fix))) %>% # Fixing characters
   mutate(# Cleaning html tags, small typos and NAs on specific columns
@@ -114,7 +115,7 @@ dtf_msw3_clean <- dtf_msw3_raw %>%
                                           replacement = ""),
          msw3_accepted_status_valid_name = str_replace_na(msw3_accepted_status_valid_name,
                                                           replacement = "yes"), #There's a single NA (ID: 12100705), and it is considered valid on the website (https://www.departments.bucknell.edu/biology/resources/msw3/browse.asp?id=12100705)
-         ## Creating new columns
+         ## Creating new basic columns
          msw3_original_name_comments = case_when(
                                           msw3_original_name == "? Orig descr as full species" ~ "Original description as full species"),
                                           .after = "msw3_original_name",
@@ -126,22 +127,53 @@ dtf_msw3_clean <- dtf_msw3_raw %>%
          msw3_accepted_sist_tribe = na_if(msw3_accepted_sist_tribe,
                                           "Gray"),
          ## Fixing column problems
-         msw3_accepted_status_valid_name = str_to_lower(msw3_accepted_status_valid_name)) # There were several 
-  
-         
+         msw3_accepted_status_valid_name = str_to_lower(msw3_accepted_status_valid_name))
 
+#### Data wrangling ####
+### Genus synonymy ###
 
+dtf_msw3_genus_synonyms <- dtf_msw3_full_clean %>% 
+  filter(msw3_accepted_taxon_rank == "GENUS") %>%
+  select(msw3_number_ID,
+         msw3_accepted_sist_order,
+         msw3_accepted_sist_family,
+         msw3_accepted_sist_genus,
+         msw3_synonymy) %>%
+  mutate(msw3_synonymy = na_if(msw3_synonymy,
+                               "<i>                                       </i>"),
+         msw3_synonymy = str_replace_all(msw3_synonymy,
+                                         pattern = "<i>|</i>|<b>|</b>|\\.$",
+                                         replacement = " "),
+         msw3_synonymy = str_replace_all(msw3_synonymy,
+                                         pattern = "   ",
+                                         replacement = " "),
+         msw3_synonymy = str_replace_all(msw3_synonymy,
+                                         pattern = "  ",
+                                         replacement = " "),
+         msw3_synonymy = str_replace_all(msw3_synonymy,
+                                         pattern = "  ",
+                                         replacement = " "),
+         msw3_synonymy = str_replace_all(msw3_synonymy,
+                                         pattern = "^ | $",
+                                         replacement = ""),
+         msw3_synonymy = str_replace(msw3_synonymy,
+                                     pattern = "Kretzoi, 1929, Pardus Fitzinger, 1868",
+                                     replacement = "Kretzoi, 1929; Pardus Fitzinger, 1868")) %>%
+  separate_rows(msw3_synonymy, sep = "; ")
 
 #### Notes to self ####
 
 ## Taking note of problems
-dtf_msw3_specificProblems <- dtf_msw3_clean %>% 
+dtf_msw3_full_specificProblems <- dtf_msw3_full_clean %>% 
   filter(msw3_accepted_author_name == "new subfamily.") %>% # Check how more recent authors cite this
   bind_rows((
-    dtf_msw3_clean %>% # Comments and other notations
+    dtf_msw3_full_clean %>% # Comments and other notations
       filter(str_detect(msw3_accepted_sist_subgenus,
                         pattern = "\\.|\\?|\\[|\\]| |Comment|comment"))
   ))
+
+dtf_msw3_genus_specificProblems <- dtf_msw3_genus_synonyms %>%
+  filter(str_detect(msw3_synonymy, pattern = "^[:upper:]", negate = TRUE))
 
 ## Checking for anomalous values in each column. All columns from order to valid name
 ## status were thoroughly checked, but subspecies and extinction status. All errors found in checked
