@@ -65,11 +65,11 @@ from the MSW3.
 
 The code is written in R (Ihaka and Gentleman 1996) following the
 Tidyverse framework (Wickham et al. 2019). Specifically, it uses the
-packages `readr`, `dplyr` and `stringr` for data cleaning and wrangling,
-as well as `ggplot` for data visualization. As an effort to keep it’s
-reproducibility, it also uses an `.RProj` file along with the `here`
-package to ensure compatibility with different operational systems, as
-recommended by Jenny Brian
+packages `readr`, `dplyr`, `tidyr` and `stringr` for data cleaning and
+wrangling, as well as `ggplot` for data visualization. As an effort to
+keep it’s reproducibility, it also uses an `.RProj` file along with the
+`here` package to ensure compatibility with different operational
+systems, as recommended by Jenny Brian
 [here](https://github.com/jennybc/here_here "Link to J. Brian's Ode to the Here Package, on GitHub").
 Finally, for R package versioning, it uses…(still deciding on it).
 
