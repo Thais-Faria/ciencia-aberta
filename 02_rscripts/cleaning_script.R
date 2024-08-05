@@ -1,3 +1,7 @@
+#### Loading packages ####
+# Add installation option
+# Use groundhog?
+
 library(here)
 library(readr)
 library(tidyr)
@@ -7,8 +11,8 @@ library(stringr)
 #### Reading data ####
 
 dtf_msw3_full_raw <- read_csv(here("01_data",
-                              "01_raw-data",
-                              "msw3_all_UTF-8.csv"))
+                                   "01_raw-data",
+                                   "msw3_all_UTF-8.csv"))
 
 #### Setting up cleaning vectors ####
 
@@ -86,7 +90,7 @@ vct_char_fix <- c(
   "`" = "",
   " ," = ", ",
   ",," = ",",
-  "Pi±os" = "Pinos",
+  "Pi±os" = "Piños",
   "Iba±ez" = "Ibañez",
   "Ibß±ez" = "Ibañez",
   "Tar~bulus" = "Tar'bulus"
