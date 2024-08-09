@@ -68,10 +68,12 @@ Tidyverse framework (Wickham et al. 2019). Specifically, it uses the
 packages `readr`, `dplyr`, `tidyr` and `stringr` for data cleaning and
 wrangling, as well as `ggplot` for data visualization. As an effort to
 keep it’s reproducibility, it also uses an `.RProj` file along with the
-`here` package to ensure compatibility with different operational
-systems, as recommended by Jenny Brian
+`here` package (Müller 2020) to ensure compatibility with different
+operational systems, as recommended by Jenny Brian
 [here](https://github.com/jennybc/here_here "Link to J. Brian's Ode to the Here Package, on GitHub").
-Finally, for R package versioning, it uses…(still deciding on it).
+Finally, for R package versioning, it uses the package `groundhog`
+(Simonsohn and Gruson 2024), which allows the user to choose a date and
+download the package versions that were available on CRAN on that date.
 
 ## About this repo
 
@@ -93,6 +95,21 @@ entry-spacing="0">
 Ihaka, Ross, and Robert Gentleman. 1996. “R: A Language for Data
 Analysis and Graphics.” *Journal of Computational and Graphical
 Statistics* 5 (3): 299–314.
+
+</div>
+
+<div id="ref-here" class="csl-entry">
+
+Müller, Kirill. 2020. “Here: A Simpler Way to Find Your Files.”
+<https://CRAN.R-project.org/package=here>.
+
+</div>
+
+<div id="ref-groundhog" class="csl-entry">
+
+Simonsohn, Uri, and Hugo Gruson. 2024. “Groundhog: Version-Control for
+CRAN, GitHub, and GitLab Packages.”
+<https://CRAN.R-project.org/package=groundhog>.
 
 </div>
 
