@@ -73,7 +73,8 @@ operational systems, as recommended by Jenny Brian
 [here](https://github.com/jennybc/here_here "Link to J. Brian's Ode to the Here Package, on GitHub").
 Finally, for R package versioning, it uses the package `groundhog`
 (Simonsohn and Gruson 2024), which allows the user to choose a date and
-download the package versions that were available on CRAN on that date.
+download from CRAN the package versions that were available on that
+date.
 
 ## About this repo
 
