@@ -42,7 +42,7 @@ vct_colnames <- c(
   "msw3_accepted_status_extinct" = "Extinct?",            #Unchecked
   "msw3_original_name" = "OriginalName",                  #Clean
   "msw3_accepted_status_valid_name" = "ValidName",        #Clean
-  "msw3_accepted_author_name" = "Author",
+  "msw3_accepted_author_name" = "Author",                 #Clean
   "msw3_accepted_author_year" = "Date",                   #Checked - Missing info
   "msw3_accepted_author_year_corrected" = "ActualDate",   #Clean
   "msw3_accepted_citation_journal" = "CitationName",      #Ignored
@@ -56,10 +56,10 @@ vct_colnames <- c(
   "msw3_accepted_distribution_notes" = "Distribution",    #Clean - might have other undetected problems
   "msw3_accepted_status_iucn" = "Status",                 #Ignored
   "msw3_synonymy" = "Synonyms",
-  "msw3_accepted_notes" = "Comments",
-  "msw3_accepted_sort_file" = "File",
-  "msw3_accepted_sort_sortorder" = "SortOrder",
-  "msw3_accepted_sort_displayorder" = "DisplayOrder"
+  "msw3_accepted_notes" = "Comments",                     #Ignored
+  "msw3_accepted_sort_file" = "File",                     #Ignored
+  "msw3_accepted_sort_sortorder" = "SortOrder",           #Ignored
+  "msw3_accepted_sort_displayorder" = "DisplayOrder"      #Ignored
 )
 
 ### Character fixing vector ###
@@ -121,6 +121,9 @@ dtf_msw3_full_clean <- dtf_msw3_full_raw %>%
                                                 pattern = ", and|,",
                                                 replacement = " and"),
     msw3_accepted_author_name = str_replace_all(msw3_accepted_author_name,
+                                                pattern = "and Jr\\.",
+                                                replacement = "Jr."),
+    msw3_accepted_author_name = str_replace_all(msw3_accepted_author_name,
                                                 pattern = "\\[Baron\\]",
                                                 replacement = "'Baron'"),
     msw3_original_name = str_replace_all(msw3_original_name, 
@@ -133,10 +136,10 @@ dtf_msw3_full_clean <- dtf_msw3_full_raw %>%
                                    pattern = "<b> </b>",
                                    replacement = " "),
     msw3_type_name = str_replace_all(msw3_type_name, 
-                                     pattern = "<i>|</i>|<u>|</u>|<b>|</b>|<sup>|</sup>", 
+                                     pattern = "<i>|</i>|<u>|</u>|<b>|</b>|<sup>|</sup>|\\.$", 
                                      replacement = ""),
     msw3_type_locality = str_replace_all(msw3_type_locality, 
-                                         pattern = "<i>|</i>|<u>|</u>|<b>|</b>", 
+                                         pattern = "<i>|</i>|<u>|</u>|<b>|</b>|\\.$", 
                                          replacement = ""),
     msw3_type_locality = str_replace_all(msw3_type_locality, 
                                          pattern = "<sup>o</sup>", 
@@ -147,7 +150,7 @@ dtf_msw3_full_clean <- dtf_msw3_full_raw %>%
     msw3_accepted_status_valid_name = str_replace_na(msw3_accepted_status_valid_name,
                                                      replacement = "yes"), #There's a single NA (ID: 12100705), and it is considered valid on the website (https://www.departments.bucknell.edu/biology/resources/msw3/browse.asp?id=12100705)
     msw3_accepted_distribution_notes = str_replace_all(msw3_accepted_distribution_notes, 
-                                                       pattern = "<i>|</i>|<u>|</u>|<b>|</b>", 
+                                                       pattern = "<i>|</i>|<u>|</u>|<b>|</b>|\\.", 
                                                        replacement = ""),
     msw3_accepted_distribution_notes = str_replace_all(msw3_accepted_distribution_notes, 
                                                        pattern = "<sup>o</sup>", 
@@ -171,7 +174,9 @@ dtf_msw3_full_clean <- dtf_msw3_full_raw %>%
 
 #### Data wrangling ####
 ### Genus synonymy ###
-
+msw3_accepted_author_name = str_replace_all(msw3_accepted_author_name,
+                                            pattern = " and ",
+                                            replacement = ";"),  
 dtf_msw3_genus_synonyms <- dtf_msw3_full_clean %>% 
   filter(msw3_accepted_taxon_rank == "GENUS") %>%
   select(msw3_number_ID,
