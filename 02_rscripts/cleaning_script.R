@@ -1,12 +1,17 @@
 #### Loading packages ####
 # Add installation option
-# Use groundhog?
 
-library(here)
-library(readr)
-library(tidyr)
-library(dplyr)
-library(stringr)
+library(groundhog)
+groundhog.day <- "2024-08-01"
+groundhog.packages <- c("here",
+                        "readr",
+                        "tidyr",
+                        "dplyr",
+                        "stringr")
+groundhog.library(groundhog.packages, 
+                  groundhog.day)
+rm(groundhog.day,
+   groundhog.packages)
 
 #### Reading data ####
 
@@ -22,32 +27,32 @@ dtf_msw3_full_raw <- read_csv(here("01_data",
 
 vct_colnames <- c(
   "msw3_number_ID" = "ID",
-  "msw3_accepted_sist_order" = "Order",
-  "msw3_accepted_sist_suborder" = "Suborder",
-  "msw3_accepted_sist_infraorder" = "Infraorder",
-  "msw3_accepted_sist_superfamily" = "Superfamily",
-  "msw3_accepted_sist_family" = "Family",
-  "msw3_accepted_sist_subfamily" = "Subfamily",
-  "msw3_accepted_sist_tribe" = "Tribe",
-  "msw3_accepted_sist_genus" = "Genus",
-  "msw3_accepted_sist_subgenus" = "Subgenus",
-  "msw3_accepted_sist_epithet" = "Species",
-  "msw3_accepted_sist_subspecies" = "Subspecies",
-  "msw3_accepted_taxon_rank" = "TaxonLevel",
-  "msw3_accepted_status_extinct" = "Extinct?",
-  "msw3_original_name" = "OriginalName",
-  "msw3_accepted_status_valid_name" = "ValidName",
+  "msw3_accepted_sist_order" = "Order",                   #Clean
+  "msw3_accepted_sist_suborder" = "Suborder",             #Clean
+  "msw3_accepted_sist_infraorder" = "Infraorder",         #Clean
+  "msw3_accepted_sist_superfamily" = "Superfamily",       #Clean
+  "msw3_accepted_sist_family" = "Family",                 #Clean
+  "msw3_accepted_sist_subfamily" = "Subfamily",           #Clean
+  "msw3_accepted_sist_tribe" = "Tribe",                   #Clean
+  "msw3_accepted_sist_genus" = "Genus",                   #Clean
+  "msw3_accepted_sist_subgenus" = "Subgenus",             #Checked - Needs cleaning
+  "msw3_accepted_sist_epithet" = "Species",               #Clean
+  "msw3_accepted_sist_subspecies" = "Subspecies",         #Unchecked
+  "msw3_accepted_taxon_rank" = "TaxonLevel",              #Clean
+  "msw3_accepted_status_extinct" = "Extinct?",            #Unchecked
+  "msw3_original_name" = "OriginalName",                  #Clean
+  "msw3_accepted_status_valid_name" = "ValidName",        #Clean
   "msw3_accepted_author_name" = "Author",
-  "msw3_accepted_author_year" = "Date",
-  "msw3_accepted_author_year_corrected" = "ActualDate",
-  "msw3_accepted_citation_journal" = "CitationName",
-  "msw3_accepted_citation_volume" = "CitationVolume",
-  "msw3_accepted_citation_issue" = "CitationIssue",
-  "msw3_accepted_citation_pages" = "CitationPages",
-  "msw3_accepted_citation_notes" = "CitationType",
+  "msw3_accepted_author_year" = "Date",                   #Checked - Missing info
+  "msw3_accepted_author_year_corrected" = "ActualDate",   #Clean
+  "msw3_accepted_citation_journal" = "CitationName",      #Ignored
+  "msw3_accepted_citation_volume" = "CitationVolume",     #Ignored
+  "msw3_accepted_citation_issue" = "CitationIssue",       #Ignored
+  "msw3_accepted_citation_pages" = "CitationPages",       #Ignored
+  "msw3_accepted_citation_notes" = "CitationType",        #Ignored
   "msw3_type_name" = "TypeSpecies",
-  "msw3_common_name" = "CommonName",
-  "msw3_type_locality" = "TypeLocality",
+  "msw3_common_name" = "CommonName",                      #Clean - might have other undetected problems
+  "msw3_type_locality" = "TypeLocality",                  #Clean - might have other undetected problems
   "msw3_accepted_distribution_notes" = "Distribution",
   "msw3_accepted_status_iucn" = "Status",
   "msw3_synonymy" = "Synonyms",
@@ -90,6 +95,10 @@ vct_char_fix <- c(
   "`" = "",
   " ," = ", ",
   ",," = ",",
+  "’" = "'",
+  "‘" = "'",
+  "“" = '"',
+  "”" = '"', 
   "Pi±os" = "Piños",
   "Iba±ez" = "Ibañez",
   "Ibß±ez" = "Ibañez",
@@ -117,6 +126,21 @@ dtf_msw3_full_clean <- dtf_msw3_full_raw %>%
          msw3_original_name = str_replace_all(msw3_original_name, 
                                           pattern = "<i>|</i>",
                                           replacement = ""),
+         msw3_common_name = str_replace(msw3_common_name,
+                                        pattern = "\\.$",
+                                        replacement = ""),
+         msw3_common_name = str_replace(msw3_common_name,
+                                        pattern = "<b> </b>",
+                                        replacement = " "),
+         msw3_type_locality = str_replace_all(msw3_type_locality, 
+                                              pattern = "<i>|</i>|<u>|</u>|<b>|</b>", 
+                                              replacement = ""),
+         msw3_type_locality = str_replace_all(msw3_type_locality, 
+                                              pattern = "<sup>o</sup>", 
+                                              replacement = "°"),
+         msw3_type_locality = str_replace_all(msw3_type_locality, 
+                                              pattern = "<sup>|</sup>", 
+                                              replacement = ""),
          msw3_accepted_status_valid_name = str_replace_na(msw3_accepted_status_valid_name,
                                                           replacement = "yes"), #There's a single NA (ID: 12100705), and it is considered valid on the website (https://www.departments.bucknell.edu/biology/resources/msw3/browse.asp?id=12100705)
          ## Creating new basic columns
@@ -165,6 +189,15 @@ dtf_msw3_genus_synonyms <- dtf_msw3_full_clean %>%
                                      replacement = "Kretzoi, 1929; Pardus Fitzinger, 1868")) %>%
   separate_rows(msw3_synonymy, sep = "; ")
 
+
+
+
+
+a <- dtf_msw3_full_clean %>%
+  group_by(msw3_accepted_sist_order) %>%
+  summarise()
+
+
 #### Notes to self ####
 
 ## Taking note of problems
@@ -174,10 +207,14 @@ dtf_msw3_full_specificProblems <- dtf_msw3_full_clean %>%
     dtf_msw3_full_clean %>% # Comments and other notations
       filter(str_detect(msw3_accepted_sist_subgenus,
                         pattern = "\\.|\\?|\\[|\\]| |Comment|comment"))
+  ),(
+    dtf_msw3_full_clean %>% # Authority year as NA
+      filter(is.na(msw3_accepted_author_year))
   ))
 
 dtf_msw3_genus_specificProblems <- dtf_msw3_genus_synonyms %>%
   filter(str_detect(msw3_synonymy, pattern = "^[:upper:]", negate = TRUE))
+
 
 ## Checking for anomalous values in each column. All columns from order to valid name
 ## status were thoroughly checked, but subspecies and extinction status. All errors found in checked
@@ -271,4 +308,7 @@ dtf_msw3_genus_specificProblems <- dtf_msw3_genus_synonyms %>%
 #                     pattern = "a$")) %>%
 #  group_by(msw3_accepted_sist_genus) %>%
 #  summarise(n = n())
+
+
+
 
