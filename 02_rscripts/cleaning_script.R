@@ -174,9 +174,7 @@ dtf_msw3_full_clean <- dtf_msw3_full_raw %>%
 
 #### Data wrangling ####
 ### Genus synonymy ###
-msw3_accepted_author_name = str_replace_all(msw3_accepted_author_name,
-                                            pattern = " and ",
-                                            replacement = ";"),  
+
 dtf_msw3_genus_synonyms <- dtf_msw3_full_clean %>% 
   filter(msw3_accepted_taxon_rank == "GENUS") %>%
   select(msw3_number_ID,
