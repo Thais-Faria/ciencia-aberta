@@ -50,11 +50,11 @@ vct_colnames <- c(
   "msw3_accepted_citation_issue" = "CitationIssue",       #Ignored
   "msw3_accepted_citation_pages" = "CitationPages",       #Ignored
   "msw3_accepted_citation_notes" = "CitationType",        #Ignored
-  "msw3_type_name" = "TypeSpecies",
+  "msw3_type_name" = "TypeSpecies",                       #Clean
   "msw3_common_name" = "CommonName",                      #Clean - might have other undetected problems
   "msw3_type_locality" = "TypeLocality",                  #Clean - might have other undetected problems
-  "msw3_accepted_distribution_notes" = "Distribution",
-  "msw3_accepted_status_iucn" = "Status",
+  "msw3_accepted_distribution_notes" = "Distribution",    #Clean - might have other undetected problems
+  "msw3_accepted_status_iucn" = "Status",                 #Ignored
   "msw3_synonymy" = "Synonyms",
   "msw3_accepted_notes" = "Comments",
   "msw3_accepted_sort_file" = "File",
@@ -111,51 +111,63 @@ dtf_msw3_full_clean <- dtf_msw3_full_raw %>%
   rename(all_of(vct_colnames)) %>% # Renaming columns
   mutate(across(1:34, ~ str_replace_all(., vct_char_fix))) %>% # Fixing characters
   mutate(# Cleaning html tags, small typos and NAs on specific columns
-         msw3_accepted_author_name = str_replace_all(msw3_accepted_author_name, 
+    msw3_accepted_author_name = str_replace_all(msw3_accepted_author_name, 
                                                 pattern = "<i>In</i>|<i>in</i>",
                                                 replacement = "in"),
-         msw3_accepted_author_name = str_replace_all(msw3_accepted_author_name,
+    msw3_accepted_author_name = str_replace_all(msw3_accepted_author_name,
                                                 pattern = "<i>In </i>|<i>in </i>",
                                                 replacement = "in "),
-         msw3_accepted_author_name = str_replace_all(msw3_accepted_author_name,
+    msw3_accepted_author_name = str_replace_all(msw3_accepted_author_name,
                                                 pattern = ", and|,",
                                                 replacement = " and"),
-         msw3_accepted_author_name = str_replace_all(msw3_accepted_author_name,
+    msw3_accepted_author_name = str_replace_all(msw3_accepted_author_name,
                                                 pattern = "\\[Baron\\]",
                                                 replacement = "'Baron'"),
-         msw3_original_name = str_replace_all(msw3_original_name, 
-                                          pattern = "<i>|</i>",
-                                          replacement = ""),
-         msw3_common_name = str_replace(msw3_common_name,
-                                        pattern = "\\.$",
-                                        replacement = ""),
-         msw3_common_name = str_replace(msw3_common_name,
-                                        pattern = "<b> </b>",
-                                        replacement = " "),
-         msw3_type_locality = str_replace_all(msw3_type_locality, 
-                                              pattern = "<i>|</i>|<u>|</u>|<b>|</b>", 
-                                              replacement = ""),
-         msw3_type_locality = str_replace_all(msw3_type_locality, 
-                                              pattern = "<sup>o</sup>", 
-                                              replacement = "°"),
-         msw3_type_locality = str_replace_all(msw3_type_locality, 
-                                              pattern = "<sup>|</sup>", 
-                                              replacement = ""),
-         msw3_accepted_status_valid_name = str_replace_na(msw3_accepted_status_valid_name,
-                                                          replacement = "yes"), #There's a single NA (ID: 12100705), and it is considered valid on the website (https://www.departments.bucknell.edu/biology/resources/msw3/browse.asp?id=12100705)
-         ## Creating new basic columns
-         msw3_original_name_comments = case_when(
-                                          msw3_original_name == "? Orig descr as full species" ~ "Original description as full species"),
-                                          .after = "msw3_original_name",
-         ## Deleting weird values from specific cells
-         msw3_original_name = na_if(msw3_original_name,
-                                    "? Orig descr as full species"),
-         msw3_synonymy = na_if(msw3_synonymy,
-                               "IUCN – Lower Risk (nt)."),
-         msw3_accepted_sist_tribe = na_if(msw3_accepted_sist_tribe,
-                                          "Gray"),
-         ## Fixing column problems
-         msw3_accepted_status_valid_name = str_to_lower(msw3_accepted_status_valid_name))
+    msw3_original_name = str_replace_all(msw3_original_name, 
+                                         pattern = "<i>|</i>",
+                                         replacement = ""),
+    msw3_common_name = str_replace(msw3_common_name,
+                                   pattern = "\\.$",
+                                   replacement = ""),
+    msw3_common_name = str_replace(msw3_common_name,
+                                   pattern = "<b> </b>",
+                                   replacement = " "),
+    msw3_type_name = str_replace_all(msw3_type_name, 
+                                     pattern = "<i>|</i>|<u>|</u>|<b>|</b>|<sup>|</sup>", 
+                                     replacement = ""),
+    msw3_type_locality = str_replace_all(msw3_type_locality, 
+                                         pattern = "<i>|</i>|<u>|</u>|<b>|</b>", 
+                                         replacement = ""),
+    msw3_type_locality = str_replace_all(msw3_type_locality, 
+                                         pattern = "<sup>o</sup>", 
+                                         replacement = "°"),
+    msw3_type_locality = str_replace_all(msw3_type_locality, 
+                                         pattern = "<sup>|</sup>", 
+                                         replacement = ""),
+    msw3_accepted_status_valid_name = str_replace_na(msw3_accepted_status_valid_name,
+                                                     replacement = "yes"), #There's a single NA (ID: 12100705), and it is considered valid on the website (https://www.departments.bucknell.edu/biology/resources/msw3/browse.asp?id=12100705)
+    msw3_accepted_distribution_notes = str_replace_all(msw3_accepted_distribution_notes, 
+                                                       pattern = "<i>|</i>|<u>|</u>|<b>|</b>", 
+                                                       replacement = ""),
+    msw3_accepted_distribution_notes = str_replace_all(msw3_accepted_distribution_notes, 
+                                                       pattern = "<sup>o</sup>", 
+                                                       replacement = "°"),
+    msw3_accepted_distribution_notes = str_replace_all(msw3_accepted_distribution_notes, 
+                                                       pattern = "<sup>|</sup>", 
+                                                       replacement = ""),
+    ## Creating new basic columns
+    msw3_original_name_comments = case_when(
+      msw3_original_name == "? Orig descr as full species" ~ "Original description as full species"),
+    .after = "msw3_original_name",
+    ## Deleting weird values from specific cells
+    msw3_original_name = na_if(msw3_original_name,
+                               "? Orig descr as full species"),
+    msw3_synonymy = na_if(msw3_synonymy,
+                          "IUCN – Lower Risk (nt)."),
+    msw3_accepted_sist_tribe = na_if(msw3_accepted_sist_tribe,
+                                     "Gray"),
+    ## Fixing column problems
+    msw3_accepted_status_valid_name = str_to_lower(msw3_accepted_status_valid_name))
 
 #### Data wrangling ####
 ### Genus synonymy ###
@@ -191,11 +203,6 @@ dtf_msw3_genus_synonyms <- dtf_msw3_full_clean %>%
 
 
 
-
-
-a <- dtf_msw3_full_clean %>%
-  group_by(msw3_accepted_sist_order) %>%
-  summarise()
 
 
 #### Notes to self ####
