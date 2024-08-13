@@ -243,4 +243,4 @@ dtf_msw3_genus_synonyms <- dtf_msw3_full_clean %>%
 write_csv(dtf_msw3_genus_synonyms,
           here("01_data",
                "02_clean-data",
-               "msw3_genus-synonymy.csv"))
+               "msw3_genus_synonymy.csv"))
