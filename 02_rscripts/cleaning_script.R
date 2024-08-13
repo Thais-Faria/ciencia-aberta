@@ -1,5 +1,5 @@
 #### Loading packages ####
-# Add installation option
+# -> Add installation option
 
 library(groundhog)
 groundhog.day <- "2024-08-01"
@@ -22,8 +22,8 @@ dtf_msw3_full_raw <- read_csv(here("01_data",
 #### Setting up cleaning vectors ####
 
 ### Colnames vector ###
-# The following vector will be used to standardize column names. The syntax is
-# "new_column_name" = "original_column_name"
+# The following vector will be used to standardize column names. The syntax is #
+# "new_column_name" = "original_column_name"                                   #
 
 vct_colnames <- c(
   "msw3_number_ID" = "ID",
@@ -55,7 +55,7 @@ vct_colnames <- c(
   "msw3_type_locality" = "TypeLocality",                  #Clean - might have other undetected problems
   "msw3_accepted_distribution_notes" = "Distribution",    #Clean - might have other undetected problems
   "msw3_accepted_status_iucn" = "Status",                 #Ignored
-  "msw3_synonymy" = "Synonyms",
+  "msw3_synonymy" = "Synonyms",                           #Clean - partially (Genus = ok)
   "msw3_accepted_notes" = "Comments",                     #Ignored
   "msw3_accepted_sort_file" = "File",                     #Ignored
   "msw3_accepted_sort_sortorder" = "SortOrder",           #Ignored
@@ -63,8 +63,8 @@ vct_colnames <- c(
 )
 
 ### Character fixing vector ###
-# The following vector will be used to clean character encoding problems from the
-# original data file. The syntax is "old string" = "corrected character"
+# The following vector will be used to clean character encoding problems from the #
+# original data file. The syntax is "old string" = "corrected character"          #
 
 vct_char_fix <- c(
   "&#131;" = "ć",
@@ -108,9 +108,9 @@ vct_char_fix <- c(
 #### Basic data cleaning ####
 
 dtf_msw3_full_clean <- dtf_msw3_full_raw %>%
-  rename(all_of(vct_colnames)) %>% # Renaming columns
-  mutate(across(1:34, ~ str_replace_all(., vct_char_fix))) %>% # Fixing characters
-  mutate(# Cleaning html tags, small typos and NAs on specific columns
+  rename(all_of(vct_colnames)) %>% # Renaming columns #
+  mutate(across(1:34, ~ str_replace_all(., vct_char_fix))) %>% # Fixing characters #
+  mutate(# Cleaning html tags, small typos and NAs on specific columns #
     msw3_accepted_author_name = str_replace_all(msw3_accepted_author_name, 
                                                 pattern = "<i>In</i>|<i>in</i>",
                                                 replacement = "in"),
@@ -148,7 +148,7 @@ dtf_msw3_full_clean <- dtf_msw3_full_raw %>%
                                          pattern = "<sup>|</sup>", 
                                          replacement = ""),
     msw3_accepted_status_valid_name = str_replace_na(msw3_accepted_status_valid_name,
-                                                     replacement = "yes"), #There's a single NA (ID: 12100705), and it is considered valid on the website (https://www.departments.bucknell.edu/biology/resources/msw3/browse.asp?id=12100705)
+                                                     replacement = "yes"), # There's a single NA (ID: 12100705), and it is considered valid on the website (https://www.departments.bucknell.edu/biology/resources/msw3/browse.asp?id=12100705) #
     msw3_accepted_distribution_notes = str_replace_all(msw3_accepted_distribution_notes, 
                                                        pattern = "<i>|</i>|<u>|</u>|<b>|</b>|\\.", 
                                                        replacement = ""),
@@ -158,21 +158,21 @@ dtf_msw3_full_clean <- dtf_msw3_full_raw %>%
     msw3_accepted_distribution_notes = str_replace_all(msw3_accepted_distribution_notes, 
                                                        pattern = "<sup>|</sup>", 
                                                        replacement = ""),
-    ## Creating new basic columns
+    # Creating new basic columns #
     msw3_original_name_comments = case_when(
       msw3_original_name == "? Orig descr as full species" ~ "Original description as full species"),
     .after = "msw3_original_name",
-    ## Deleting weird values from specific cells
+    # Deleting weird values from specific cells #
     msw3_original_name = na_if(msw3_original_name,
                                "? Orig descr as full species"),
     msw3_synonymy = na_if(msw3_synonymy,
                           "IUCN – Lower Risk (nt)."),
     msw3_accepted_sist_tribe = na_if(msw3_accepted_sist_tribe,
                                      "Gray"),
-    ## Fixing column problems
+    # Fixing column problems #
     msw3_accepted_status_valid_name = str_to_lower(msw3_accepted_status_valid_name))
 
-#### Data wrangling ####
+#### Specific data cleaning and wrangling ####
 ### Genus synonymy ###
 
 dtf_msw3_genus_synonyms <- dtf_msw3_full_clean %>% 
@@ -182,7 +182,11 @@ dtf_msw3_genus_synonyms <- dtf_msw3_full_clean %>%
          msw3_accepted_sist_family,
          msw3_accepted_sist_genus,
          msw3_synonymy) %>%
-  mutate(msw3_synonymy = na_if(msw3_synonymy,
+  # The following are steps to clean several specific string formatting problems.             # 
+  # they basically consist of replacing messy punctuation with standardized punctuation in    #
+  # order to enable the creation of new columns later. The cases consisting of addition       #
+  # of information are followed by specific comments, as well as other special cases          #
+  mutate(msw3_synonymy = na_if(msw3_synonymy, 
                                "<i>                                       </i>"),
          msw3_synonymy = str_replace_all(msw3_synonymy,
                                          pattern = "<i>|</i>|<b>|</b>|\\.$",
@@ -314,7 +318,6 @@ dtf_msw3_genus_synonyms <- dtf_msw3_full_clean %>%
          msw3_synonymy = str_replace_all(msw3_synonymy,
                                          pattern = "in Van Beneden and Gervais, 1880",
                                          replacement = "[in Van Beneden and Gervais, 1880]"),
-         
          msw3_synonymy = str_replace_all(msw3_synonymy,       
                                          pattern = "\\? Tribonophorus Burnett, 1829",
                                          replacement = "Tribonophorus Burnett, 1829 [?]"),
@@ -329,17 +332,17 @@ dtf_msw3_genus_synonyms <- dtf_msw3_full_clean %>%
                                          replacement = "Anonymous, 1846 [? de Blainville]"),
          msw3_synonymy = str_replace_all(msw3_synonymy,
                                          pattern = "Prodelphinus Gervais",
-                                         replacement = "Prodelphinus Gervais, 1880"), #Info available on notes column
+                                         replacement = "Prodelphinus Gervais, 1880"), # Info available on notes column. #
          msw3_synonymy = str_replace_all(msw3_synonymy,
                                          pattern = "Sminthus",
-                                         replacement = "Sminthus Nordmann, 1840"), #Info available on source website
+                                         replacement = "Sminthus Nordmann, 1840"), # Info available on source website: https://www.departments.bucknell.edu/biology/resources/msw3/browse.asp?s=y&id=12900063 #
          msw3_synonymy = str_replace_all(msw3_synonymy,
                                          pattern = "Fischer \\[von Waldheim\\]|Fischer de Waldheim|Fischer \\(von Waldheim\\)",
                                          replacement = "Fischer von Waldheim"),
          msw3_synonymy = str_replace_all(msw3_synonymy,
                                          pattern = "Anon,|Anon\\.,",
                                          replacement = "Anonymous"),
-         msw3_synonymy = str_replace_all(msw3_synonymy,
+         msw3_synonymy = str_replace_all(msw3_synonymy, # The three following replacements are related to the genus Callithrix. Its synonyms were originally listed by subgenus, but they were aggregate here under Callithrix. #
                                          pattern = "Listed for the four subgenera separately, because they are ranked as full genera by some: \\(1\\) Subgenus Callithrix Erxleben, 1777: ",
                                          replacement = ""),
          msw3_synonymy = str_replace_all(msw3_synonymy,
@@ -348,19 +351,20 @@ dtf_msw3_genus_synonyms <- dtf_msw3_full_clean %>%
          msw3_synonymy = str_replace_all(msw3_synonymy,
                                          pattern = "\\. \\(3\\) Subgenus Cebuella Gray, 1866: no synonyms. \\(4\\) Subgenus Calibella van Roosmalen and van Roosmalen, 2003: no synonyms",
                                          replacement = ""),
-         msw3_synonymy = str_replace_all(msw3_synonymy,
+         msw3_synonymy = str_replace_all(msw3_synonymy, # The original database lists the earlier year as the correct one for almost all cases. This is 1 of 2 cases were the publication year is a time range, and was kept like this to match the other case and avoid loss of information. #
                                          pattern = "1834-36",
                                          replacement = "1834-1836"),
+         # Creating new columns #
          msw3_synonymy = str_replace_all(msw3_synonymy,
                                          pattern = " \\[",
-                                         replacement = "~\\[")) %>%
+                                         replacement = "_\\[")) %>%
   separate_rows(msw3_synonymy, sep = "; ") %>%
   separate_wider_delim(msw3_synonymy, 
-                       delim = "~",
+                       delim = "_",
                        names = c("msw3_synonym", 
                                  "msw3_synonym_note"),
                        too_few = "align_start") %>%
-  mutate(msw3_synonym = str_replace(msw3_synonym,
+  mutate(msw3_synonym = str_replace(msw3_synonym, # The str_replace function only replaces the first match for each row, an ideal behavior for separating the genus name (the first word) from the authority information #
                                     pattern = "[:space:]",
                                     replacement = "_")) %>%
   separate_wider_delim(msw3_synonym,
@@ -387,6 +391,15 @@ dtf_msw3_genus_synonyms <- dtf_msw3_full_clean %>%
                                                 pattern = "\\.$|,$",
                                                 replacement = ""))
 
+
+#### Saving clean databases ####
+### Genus synonymy ###
+write_csv(dtf_msw3_genus_synonyms,
+          here("01_data",
+               "02_clean-data",
+               "msw3_genus-synonymy.csv"))
+
+
 #### Notes to self ####
 
 ## Taking note of problems
@@ -400,14 +413,6 @@ dtf_msw3_full_specificProblems <- dtf_msw3_full_clean %>%
     dtf_msw3_full_clean %>% # Authority year as NA
       filter(is.na(msw3_accepted_author_year))
   ))
-
-dtf_msw3_genus_specificProblems <- dtf_msw3_genus_synonyms %>%
-  filter(str_detect(msw3_synonymy, pattern = "^[:upper:]", negate = TRUE))
-
-## Snippets of problematic strings on "synonyms columns"
-
-#Listed for the four subgenera separately, because they are ranked as full genera by some: (1) Subgenus Callithrix Erxleben, 1777: Anthopithecus F. Cuvier, 1829
-
 
 ## Checking for anomalous values in each column. All columns from order to valid name
 ## status were thoroughly checked, but subspecies and extinction status. All errors found in checked
@@ -501,7 +506,3 @@ dtf_msw3_genus_specificProblems <- dtf_msw3_genus_synonyms %>%
 #                     pattern = "a$")) %>%
 #  group_by(msw3_accepted_sist_genus) %>%
 #  summarise(n = n())
-
-
-
-

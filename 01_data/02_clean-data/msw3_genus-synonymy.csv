@@ -1,0 +1,2812 @@
+msw3_number_ID,msw3_accepted_sist_order,msw3_accepted_sist_family,msw3_accepted_sist_genus,msw3_synonym_name,msw3_synonym_author_name,msw3_synonym_author_year,msw3_synonym_note
+10300003,MONOTREMATA,Tachyglossidae,Tachyglossus,Acanthonotus,Goldfuss,1809,NA
+10300003,MONOTREMATA,Tachyglossidae,Tachyglossus,Echidna,G. Cuvier,1797,NA
+10300003,MONOTREMATA,Tachyglossidae,Tachyglossus,Echinopus,G. Fischer,1814,NA
+10300003,MONOTREMATA,Tachyglossidae,Tachyglossus,Syphonia,Rafinesque,1815,NA
+10300010,MONOTREMATA,Tachyglossidae,Zaglossus,Acanthoglossus,Gervais,1877,NA
+10300010,MONOTREMATA,Tachyglossidae,Zaglossus,Bruynia,Dubois,1882,NA
+10300010,MONOTREMATA,Tachyglossidae,Zaglossus,Proechidna,Dubois,1884,NA
+10300010,MONOTREMATA,Tachyglossidae,Zaglossus,Prozaglossus,Kerbert,1913,NA
+10300019,MONOTREMATA,Ornithorhynchidae,Ornithorhynchus,Dermipus,Wiedermann,1800,NA
+10300019,MONOTREMATA,Ornithorhynchidae,Ornithorhynchus,Platypus,Shaw,1799,"[not of Herbst, 1793]"
+10400004,DIDELPHIMORPHIA,Didelphidae,Caluromys,Didelphis,Linnaeus,1758,[part]
+10400004,DIDELPHIMORPHIA,Didelphidae,Caluromys,Gamba,Liais,1872,[part]
+10400004,DIDELPHIMORPHIA,Didelphidae,Caluromys,Mallodelphys,Thomas,1920,"[type species Didelphis laniger Desmarest, 1820, by original designation, valid as a subgenus]"
+10400004,DIDELPHIMORPHIA,Didelphidae,Caluromys,Philander,Burmeister,1856,"[preoccupied by Philander Brisson, 1762, and Philander Tiedemann, 1808]"
+10400004,DIDELPHIMORPHIA,Didelphidae,Caluromys,Sarigua,Muirhead,1819,[part]
+10400026,DIDELPHIMORPHIA,Didelphidae,Caluromysiops,NA,NA,NA,NA
+10400028,DIDELPHIMORPHIA,Didelphidae,Glironia,NA,NA,NA,NA
+10400031,DIDELPHIMORPHIA,Didelphidae,Chironectes,Gamba,Liais,1872,[part]
+10400031,DIDELPHIMORPHIA,Didelphidae,Chironectes,Memina,G. Fischer,1814,NA
+10400031,DIDELPHIMORPHIA,Didelphidae,Chironectes,Sarigua,Muirhead,1819,[part]
+10400037,DIDELPHIMORPHIA,Didelphidae,Didelphis,Dasyurotherium,Liais,1872,[replacement name for Thylacotherium Lund]
+10400037,DIDELPHIMORPHIA,Didelphidae,Didelphis,Dimerodon,Ameghino,1889,NA
+10400037,DIDELPHIMORPHIA,Didelphidae,Didelphis,Gamba,Liais,1872,[part]
+10400037,DIDELPHIMORPHIA,Didelphidae,Didelphis,Gambatherium,Liais,1872,[replacement name for Thylacotherium Lund]
+10400037,DIDELPHIMORPHIA,Didelphidae,Didelphis,Leucodidelphis,Ihering,1914,NA
+10400037,DIDELPHIMORPHIA,Didelphidae,Didelphis,Opossum,Schmid,1818,[part]
+10400037,DIDELPHIMORPHIA,Didelphidae,Didelphis,Sarigua,Muirhead,1819,[part]
+10400037,DIDELPHIMORPHIA,Didelphidae,Didelphis,Thylacotherium,Lund,1839,[preoccupied]
+10400050,DIDELPHIMORPHIA,Didelphidae,Gracilinanus,Didelphis,Linnaeus,1758,[part]
+10400050,DIDELPHIMORPHIA,Didelphidae,Gracilinanus,Grymaeomys,Burmeister,1854,[part]
+10400062,DIDELPHIMORPHIA,Didelphidae,Hyladelphys,NA,NA,NA,NA
+10400064,DIDELPHIMORPHIA,Didelphidae,Lestodelphys,Notodelphys,Thomas,1921,[preoccupied]
+10400066,DIDELPHIMORPHIA,Didelphidae,Lutreolina,Didelphis,Linnaeus,1758,[part]
+10400066,DIDELPHIMORPHIA,Didelphidae,Lutreolina,Sarigua,Muirhead,1819,[part]
+10400070,DIDELPHIMORPHIA,Didelphidae,Marmosa,Asagis,Gloger,1841,NA
+10400070,DIDELPHIMORPHIA,Didelphidae,Marmosa,Cuica,Liais,1872,NA
+10400070,DIDELPHIMORPHIA,Didelphidae,Marmosa,Didelphis,Linnaeus,1758,[part]
+10400070,DIDELPHIMORPHIA,Didelphidae,Marmosa,Grayium,Kretzoi and Kretzoi,2000,NA
+10400070,DIDELPHIMORPHIA,Didelphidae,Marmosa,Grymaeomys,Burmeister,1854,NA
+10400070,DIDELPHIMORPHIA,Didelphidae,Marmosa,Notagogus,Gloger,1841,NA
+10400070,DIDELPHIMORPHIA,Didelphidae,Marmosa,Opossum,Schmid,1818,[part]
+10400070,DIDELPHIMORPHIA,Didelphidae,Marmosa,Sarigua,Muirhead,1819,[part]
+10400070,DIDELPHIMORPHIA,Didelphidae,Marmosa,Stegomarmosa,Pine,1972,NA
+10400091,DIDELPHIMORPHIA,Didelphidae,Marmosops,Didelphis,Linnaeus,1758,[part]
+10400091,DIDELPHIMORPHIA,Didelphidae,Marmosops,Grymaeomys,Burmeister,1854,[part]
+10400091,DIDELPHIMORPHIA,Didelphidae,Marmosops,Thylamys,Gray,1821,[part]
+10400109,DIDELPHIMORPHIA,Didelphidae,Metachirus,Cuica,Liais,1872,[part]
+10400116,DIDELPHIMORPHIA,Didelphidae,Micoureus,Grymaeomys,Burmeister,1854,[part]
+10400133,DIDELPHIMORPHIA,Didelphidae,Monodelphis,Hemiurus,Gervais,1855,NA
+10400133,DIDELPHIMORPHIA,Didelphidae,Monodelphis,Microdelphys,Burmeister,1856,NA
+10400133,DIDELPHIMORPHIA,Didelphidae,Monodelphis,Minuania,Cabrera,1919,NA
+10400133,DIDELPHIMORPHIA,Didelphidae,Monodelphis,Monodelphiops,Matschie,1916,NA
+10400133,DIDELPHIMORPHIA,Didelphidae,Monodelphis,Peramys,Lesson,1842,NA
+10400152,DIDELPHIMORPHIA,Didelphidae,Philander,Gamba,Liais,1872,[part]
+10400152,DIDELPHIMORPHIA,Didelphidae,Philander,Hylothylax,Cabrera,1919,NA
+10400152,DIDELPHIMORPHIA,Didelphidae,Philander,Metachirops,Matschie,1916,NA
+10400152,DIDELPHIMORPHIA,Didelphidae,Philander,Philander,Tiedemann,1808,NA
+10400152,DIDELPHIMORPHIA,Didelphidae,Philander,Sarigua,Muirhead,1919,[part]
+10400161,DIDELPHIMORPHIA,Didelphidae,Thylamys,Grymaeomys,Burmeister,1854,[part]
+10400161,DIDELPHIMORPHIA,Didelphidae,Thylamys,Microdelphys,Burmeister,1856,[part]
+10400161,DIDELPHIMORPHIA,Didelphidae,Thylamys,Sarigua,Muirhead,1819,[part]
+10400172,DIDELPHIMORPHIA,Didelphidae,Tlacuatzin,NA,NA,NA,NA
+10500003,PAUCITUBERCULATA,Caenolestidae,Caenolestes,Hyracodon,Tomes,1863,[preoccupied]
+10500013,PAUCITUBERCULATA,Caenolestidae,Lestoros,Cryptolestes,Tate,1934,[preoccupied]
+10500013,PAUCITUBERCULATA,Caenolestidae,Lestoros,Orolestes,Thomas,1917,[preoccupied]
+10500015,PAUCITUBERCULATA,Caenolestidae,Rhyncholestes,NA,NA,NA,NA
+10600003,MICROBIOTHERIA,Microbiotheriidae,Dromiciops,NA,NA,NA,NA
+10700003,NOTORYCTEMORPHIA,Notoryctidae,Notoryctes,Neoryctes,Stirling,1891,NA
+10700003,NOTORYCTEMORPHIA,Notoryctidae,Notoryctes,Psammoryctes,Stirling,1889,NA
+10800003,DASYUROMORPHIA,Thylacinidae,Thylacinus,Lycaon,Wagler,1830,"[preoccupied by Lycaon Brooks, 1827, a canid]"
+10800003,DASYUROMORPHIA,Thylacinidae,Thylacinus,Paracyon,Gray,1843,NA
+10800003,DASYUROMORPHIA,Thylacinidae,Thylacinus,Peralopex,Gloger,1841,NA
+10800006,DASYUROMORPHIA,Myrmecobiidae,Myrmecobius,NA,NA,NA,NA
+10800013,DASYUROMORPHIA,Dasyuridae,Dasycercus,Amperta,Cabrera,1919,NA
+10800013,DASYUROMORPHIA,Dasyuridae,Dasycercus,Chaetocercus,Krefft,1867,"[preoccupied by Gray, 1855]"
+10800015,DASYUROMORPHIA,Dasyuridae,Dasykaluta,NA,NA,NA,NA
+10800017,DASYUROMORPHIA,Dasyuridae,Dasyuroides,NA,NA,NA,NA
+10800019,DASYUROMORPHIA,Dasyuridae,Dasyurus,Dasyurinus,Matschie,1916,NA
+10800019,DASYUROMORPHIA,Dasyuridae,Dasyurus,Dasyurops,Matschie,1916,NA
+10800019,DASYUROMORPHIA,Dasyuridae,Dasyurus,Nasira,Harvey,1841,NA
+10800019,DASYUROMORPHIA,Dasyuridae,Dasyurus,Notoctonus,Pocock,1926,NA
+10800019,DASYUROMORPHIA,Dasyuridae,Dasyurus,Satanellus,Pocock,1926,NA
+10800019,DASYUROMORPHIA,Dasyuridae,Dasyurus,Stictophonus,Pocock,1926,NA
+10800026,DASYUROMORPHIA,Dasyuridae,Myoictis,NA,NA,NA,NA
+10800029,DASYUROMORPHIA,Dasyuridae,Neophascogale,NA,NA,NA,NA
+10800031,DASYUROMORPHIA,Dasyuridae,Parantechinus,NA,NA,NA,NA
+10800033,DASYUROMORPHIA,Dasyuridae,Phascolosorex,NA,NA,NA,NA
+10800039,DASYUROMORPHIA,Dasyuridae,Pseudantechinus,NA,NA,NA,NA
+10800046,DASYUROMORPHIA,Dasyuridae,Sarcophilus,Diabolus,Gray,1841,NA
+10800046,DASYUROMORPHIA,Dasyuridae,Sarcophilus,Ursinus,Boitard,1841,NA
+10800051,DASYUROMORPHIA,Dasyuridae,Antechinus,NA,NA,NA,NA
+10800064,DASYUROMORPHIA,Dasyuridae,Micromurexia,NA,NA,NA,NA
+10800066,DASYUROMORPHIA,Dasyuridae,Murexechinus,NA,NA,NA,NA
+10800068,DASYUROMORPHIA,Dasyuridae,Murexia,NA,NA,NA,NA
+10800070,DASYUROMORPHIA,Dasyuridae,Paramurexia,NA,NA,NA,NA
+10800072,DASYUROMORPHIA,Dasyuridae,Phascomurexia,NA,NA,NA,NA
+10800074,DASYUROMORPHIA,Dasyuridae,Phascogale,Ascogale,Gloger,1841,NA
+10800074,DASYUROMORPHIA,Dasyuridae,Phascogale,Phascologale,Lenz,1831,NA
+10800074,DASYUROMORPHIA,Dasyuridae,Phascogale,Phascoloictis,Matschie,1916,NA
+10800074,DASYUROMORPHIA,Dasyuridae,Phascogale,Tapoa,Lesson,1842,NA
+10800079,DASYUROMORPHIA,Dasyuridae,Antechinomys,NA,NA,NA,NA
+10800081,DASYUROMORPHIA,Dasyuridae,Ningaui,NA,NA,NA,NA
+10800085,DASYUROMORPHIA,Dasyuridae,Sminthopsis,Podabrus,Gould,1845,"[not of Westwood, 1840]"
+10800111,DASYUROMORPHIA,Dasyuridae,Planigale,NA,NA,NA,NA
+10900003,PERAMELEMORPHIA,Thylacomyidae,Macrotis,Paragalia,Gray,1841,NA
+10900003,PERAMELEMORPHIA,Thylacomyidae,Macrotis,Peragale,Lydekker,1887,NA
+10900003,PERAMELEMORPHIA,Thylacomyidae,Macrotis,Phalacomys,Anonymous,1854,NA
+10900003,PERAMELEMORPHIA,Thylacomyidae,Macrotis,Thalaconus,"Richardson, Dallas, Cobbold, Baird and White",1862,NA
+10900003,PERAMELEMORPHIA,Thylacomyidae,Macrotis,Thylacomys,Blyth,1840,NA
+10900007,PERAMELEMORPHIA,Chaeropodidae,Chaeropus,Choeropus,Waterhouse,1841,NA
+10900011,PERAMELEMORPHIA,Peramelidae,Isoodon,Thylacis,Haltenorth,1958,"[not of Illiger, 1811 (= Perameles )]"
+10900022,PERAMELEMORPHIA,Peramelidae,Perameles,Thylacis,Illiger,1811,NA
+10900028,PERAMELEMORPHIA,Peramelidae,Peroryctes,NA,NA,NA,NA
+10900034,PERAMELEMORPHIA,Peramelidae,Echymipera,Peramelopsis,Heude,1896,NA
+10900034,PERAMELEMORPHIA,Peramelidae,Echymipera,Suillomeles,Allen and Barbour,1909,NA
+10900046,PERAMELEMORPHIA,Peramelidae,Microperoryctes,Ornoryctes,Tate and Archbold,1937,NA
+10900053,PERAMELEMORPHIA,Peramelidae,Rhynchomeles,NA,NA,NA,NA
+11000004,DIPROTODONTIA,Phascolarctidae,Phascolarctos,Draximenus,Lay,1825,NA
+11000004,DIPROTODONTIA,Phascolarctidae,Phascolarctos,Koala,Schinz,1821,NA
+11000004,DIPROTODONTIA,Phascolarctidae,Phascolarctos,Lipurus,Goldfuss,1817,NA
+11000004,DIPROTODONTIA,Phascolarctidae,Phascolarctos,Liscurus,McMurtie,1834,NA
+11000004,DIPROTODONTIA,Phascolarctidae,Phascolarctos,Morodactylus,Goldfuss,1820,NA
+11000007,DIPROTODONTIA,Vombatidae,Lasiorhinus,Wombatula,Iredale and Troughton,1934,NA
+11000013,DIPROTODONTIA,Vombatidae,Vombatus,Amblotis,Illiger,1811,NA
+11000013,DIPROTODONTIA,Vombatidae,Vombatus,Opossum,Perry,1810,NA
+11000013,DIPROTODONTIA,Vombatidae,Vombatus,Phascolomis,É. Geoffroy,1803,NA
+11000013,DIPROTODONTIA,Vombatidae,Vombatus,Phascolomus,Rafinesque,1815,NA
+11000013,DIPROTODONTIA,Vombatidae,Vombatus,Phascolomys,Duméril,1806,NA
+11000013,DIPROTODONTIA,Vombatidae,Vombatus,Wombatus,Desmarest,1804,NA
+11000018,DIPROTODONTIA,Burramyidae,Burramys,NA,NA,NA,NA
+11000020,DIPROTODONTIA,Burramyidae,Cercartetus,Dromicia,Gray,1841,NA
+11000020,DIPROTODONTIA,Burramyidae,Cercartetus,Dromiciella,Matschie,1916,NA
+11000020,DIPROTODONTIA,Burramyidae,Cercartetus,Dromiciola,Matschie,1916,NA
+11000020,DIPROTODONTIA,Burramyidae,Cercartetus,Eudromicia,Mjöberg,1916,NA
+11000033,DIPROTODONTIA,Phalangeridae,Ailurops,Ceonix,Temminck,1827,NA
+11000033,DIPROTODONTIA,Phalangeridae,Ailurops,Eucuscus,Gray,1862,NA
+11000042,DIPROTODONTIA,Phalangeridae,Phalanger,Balantia,Illiger,1811,NA
+11000042,DIPROTODONTIA,Phalangeridae,Phalanger,Coescoes,Lacépède,1799,NA
+11000042,DIPROTODONTIA,Phalangeridae,Phalanger,Cuscus,Lesson,1826,NA
+11000042,DIPROTODONTIA,Phalangeridae,Phalanger,Phalangista,E. Geoffroy St. Hilaire and G. Cuvier,1795,NA
+11000042,DIPROTODONTIA,Phalangeridae,Phalanger,Sipalus,G. Fischer,1813,NA
+11000066,DIPROTODONTIA,Phalangeridae,Spilocuscus,NA,NA,NA,NA
+11000076,DIPROTODONTIA,Phalangeridae,Strigocuscus,NA,NA,NA,NA
+11000084,DIPROTODONTIA,Phalangeridae,Trichosurus,Cercaertus,Burmeister,1837,NA
+11000084,DIPROTODONTIA,Phalangeridae,Trichosurus,Psilogrammurus,Gloger,1841,NA
+11000084,DIPROTODONTIA,Phalangeridae,Trichosurus,Tapoa,Owen,1839,NA
+11000084,DIPROTODONTIA,Phalangeridae,Trichosurus,Trichurus,Wagner,1843,NA
+11000090,DIPROTODONTIA,Phalangeridae,Wyulda,NA,NA,NA,NA
+11000095,DIPROTODONTIA,Pseudocheiridae,Hemibelideus,NA,NA,NA,NA
+11000097,DIPROTODONTIA,Pseudocheiridae,Petauroides,Petaurista,Desmarest,1820,NA
+11000097,DIPROTODONTIA,Pseudocheiridae,Petauroides,Schoinobates,Iredale and Troughton,1934,NA
+11000097,DIPROTODONTIA,Pseudocheiridae,Petauroides,Volucella,Bechstein,1800,NA
+11000102,DIPROTODONTIA,Pseudocheiridae,Petropseudes,NA,NA,NA,NA
+11000104,DIPROTODONTIA,Pseudocheiridae,Pseudocheirus,Hepoona,Gray,1841,NA
+11000104,DIPROTODONTIA,Pseudocheiridae,Pseudocheirus,Pseudochirus,Ogilby,1836,NA
+11000104,DIPROTODONTIA,Pseudocheiridae,Pseudocheirus,Ptenos,Gray,1843,NA
+11000110,DIPROTODONTIA,Pseudocheiridae,Pseudochirulus,NA,NA,NA,NA
+11000127,DIPROTODONTIA,Pseudocheiridae,Pseudochirops,NA,NA,NA,NA
+11000140,DIPROTODONTIA,Petauridae,Dactylopsila,Dactylonax,Thomas,1910,NA
+11000149,DIPROTODONTIA,Petauridae,Gymnobelideus,NA,NA,NA,NA
+11000151,DIPROTODONTIA,Petauridae,Petaurus,Belideus,Waterhouse,1839,NA
+11000151,DIPROTODONTIA,Petauridae,Petaurus,Petaurella,Matschie,1916,NA
+11000151,DIPROTODONTIA,Petauridae,Petaurus,Petaurula,Matschie,1916,NA
+11000151,DIPROTODONTIA,Petauridae,Petaurus,Ptilotus,G. Fischer,1814,NA
+11000151,DIPROTODONTIA,Petauridae,Petaurus,Xenochirus,Gloger,1841,NA
+11000165,DIPROTODONTIA,Tarsipedidae,Tarsipes,NA,NA,NA,NA
+11000168,DIPROTODONTIA,Acrobatidae,Acrobates,NA,NA,NA,NA
+11000170,DIPROTODONTIA,Acrobatidae,Distoechurus,NA,NA,NA,NA
+11000174,DIPROTODONTIA,Hypsiprymnodontidae,Hypsiprymnodon,Pleopus,Owen,1877,NA
+11000177,DIPROTODONTIA,Potoroidae,Aepyprymnus,NA,NA,NA,NA
+11000179,DIPROTODONTIA,Potoroidae,Bettongia,Bettongiops,Matschie,1916,NA
+11000184,DIPROTODONTIA,Potoroidae,Caloprymnus,NA,NA,NA,NA
+11000186,DIPROTODONTIA,Potoroidae,Potorous,Hypsiprymnus,Illiger,1811,NA
+11000186,DIPROTODONTIA,Potoroidae,Potorous,Patoroo,Partington,1839,NA
+11000186,DIPROTODONTIA,Potoroidae,Potorous,Potoroiis,Rafinseque,1815,NA
+11000186,DIPROTODONTIA,Potoroidae,Potorous,Potoroo,Berthold,1827,NA
+11000186,DIPROTODONTIA,Potoroidae,Potorous,Potoroops,Matschie,1916,NA
+11000195,DIPROTODONTIA,Macropodidae,Lagostrophus,NA,NA,NA,NA
+11000200,DIPROTODONTIA,Macropodidae,Dendrolagus,NA,NA,NA,NA
+11000220,DIPROTODONTIA,Macropodidae,Dorcopsis,NA,NA,NA,NA
+11000231,DIPROTODONTIA,Macropodidae,Dorcopsulus,NA,NA,NA,NA
+11000234,DIPROTODONTIA,Macropodidae,Lagorchestes,Lagocheles,Owen,1842,[nomen nudum]
+11000239,DIPROTODONTIA,Macropodidae,Macropus,Boriogale,Owen,1874,NA
+11000239,DIPROTODONTIA,Macropodidae,Macropus,Dendrodorcopsis,W. Rothschild,1903,NA
+11000239,DIPROTODONTIA,Macropodidae,Macropus,Gerboides,Gervais,1855,NA
+11000239,DIPROTODONTIA,Macropodidae,Macropus,Gigantomys,Link,1794,NA
+11000239,DIPROTODONTIA,Macropodidae,Macropus,Halmatopus,Wagner,1841,[error]
+11000239,DIPROTODONTIA,Macropodidae,Macropus,Halmaturus,Illiger,1811,NA
+11000239,DIPROTODONTIA,Macropodidae,Macropus,Kalmaturus,Gervais,1835,[error]
+11000239,DIPROTODONTIA,Macropodidae,Macropus,Kanguroo,Lacépède,1799,NA
+11000239,DIPROTODONTIA,Macropodidae,Macropus,Kangurus,E. Geoffroy St. Hilaire and G. Cuvier,1795,NA
+11000239,DIPROTODONTIA,Macropodidae,Macropus,Megaleia,Gistel,1848,NA
+11000239,DIPROTODONTIA,Macropodidae,Macropus,Notamacropus,Dawson and Flannery,1985,NA
+11000239,DIPROTODONTIA,Macropodidae,Macropus,Osphranter,Gould,1842,NA
+11000239,DIPROTODONTIA,Macropodidae,Macropus,Phascolagus,Owen,1874,NA
+11000239,DIPROTODONTIA,Macropodidae,Macropus,Prionotemmus,Stirton,1955,NA
+11000273,DIPROTODONTIA,Macropodidae,Onychogalea,NA,NA,NA,NA
+11000277,DIPROTODONTIA,Macropodidae,Petrogale,Heteropus,Jourdan,1837,"[not of Fitzinger, 1826]"
+11000277,DIPROTODONTIA,Macropodidae,Petrogale,Peradorcas,Tomas,1904,NA
+11000299,DIPROTODONTIA,Macropodidae,Setonix,NA,NA,NA,NA
+11000301,DIPROTODONTIA,Macropodidae,Thylogale,NA,NA,NA,NA
+11000313,DIPROTODONTIA,Macropodidae,Wallabia,NA,NA,NA,NA
+11100005,AFROSORICIDA,Tenrecidae,Geogale,Cryptogale,G. Grandidier,1928,"[see Genest and Petter, 1975]"
+11100010,AFROSORICIDA,Tenrecidae,Limnogale,NA,NA,NA,NA
+11100012,AFROSORICIDA,Tenrecidae,Microgale,Leptogale,Thomas,1918,NA
+11100012,AFROSORICIDA,Tenrecidae,Microgale,Nesogale,Thomas,1918,NA
+11100012,AFROSORICIDA,Tenrecidae,Microgale,Paramicrogale,G. Grandidier and Petit,1931,NA
+11100031,AFROSORICIDA,Tenrecidae,Oryzorictes,Oryzoryctes,Trouessart,1879,[invalid emendation]
+11100031,AFROSORICIDA,Tenrecidae,Oryzorictes,Nesoryctes,Thomas,1918,NA
+11100035,AFROSORICIDA,Tenrecidae,Micropotamogale,Kivugale,Kretzoi,1961,NA
+11100035,AFROSORICIDA,Tenrecidae,Micropotamogale,Mesopotamogale,Heim de Balsac,1956,"[see Corbet, 1974]"
+11100038,AFROSORICIDA,Tenrecidae,Potamogale,Bayonia,Bocage,1865,NA
+11100038,AFROSORICIDA,Tenrecidae,Potamogale,Mystomys,Gray,1861,NA
+11100038,AFROSORICIDA,Tenrecidae,Potamogale,Mythomys,Gray,1862,NA
+11100041,AFROSORICIDA,Tenrecidae,Echinops,Echinogale,Wagner,1841,NA
+11100043,AFROSORICIDA,Tenrecidae,Hemicentetes,Centetes,Schinz and Brodtmann,1827,"[not Illiger, 1811]"
+11100043,AFROSORICIDA,Tenrecidae,Hemicentetes,Echinodes,Pomel,1848,[nomen nudum]
+11100043,AFROSORICIDA,Tenrecidae,Hemicentetes,Ericius,Giebel,1871,"[not Tilesius, 1813, not Sundevall, 1814]"
+11100043,AFROSORICIDA,Tenrecidae,Hemicentetes,Ericus,Bergroth,1902,NA
+11100043,AFROSORICIDA,Tenrecidae,Hemicentetes,Eteocles,Gray,1821,NA
+11100046,AFROSORICIDA,Tenrecidae,Setifer,Dasogale,G. Grandidier,1930,NA
+11100046,AFROSORICIDA,Tenrecidae,Setifer,Ericulus,I. Geoffroy,1837,NA
+11100046,AFROSORICIDA,Tenrecidae,Setifer,Hericulus,Gloger,1841,NA
+11100048,AFROSORICIDA,Tenrecidae,Tenrec,Tenrecus,Desmarest,1820,NA
+11100053,AFROSORICIDA,Chrysochloridae,Carpitalpa,NA,NA,NA,NA
+11100055,AFROSORICIDA,Chrysochloridae,Chlorotalpa,NA,NA,NA,NA
+11100062,AFROSORICIDA,Chrysochloridae,Chrysochloris,Kilimatalpa,Lundholm,1955,NA
+11100071,AFROSORICIDA,Chrysochloridae,Chrysospalax,Bematiscus,Cope,1892,"[see Ellerman et al., 1953]"
+11100080,AFROSORICIDA,Chrysochloridae,Cryptochloris,NA,NA,NA,NA
+11100083,AFROSORICIDA,Chrysochloridae,Eremitalpa,NA,NA,NA,NA
+11100088,AFROSORICIDA,Chrysochloridae,Amblysomus,NA,NA,NA,NA
+11100101,AFROSORICIDA,Chrysochloridae,Calcochloris,Chrysotricha,Broom,1907,NA
+11100101,AFROSORICIDA,Chrysochloridae,Calcochloris,Huetia,Forcart,1942,NA
+11100112,AFROSORICIDA,Chrysochloridae,Neamblysomus,NA,NA,NA,NA
+11200003,MACROSCELIDEA,Macroscelididae,Elephantulus,Elephantomys,Broom,1937,NA
+11200003,MACROSCELIDEA,Macroscelididae,Elephantulus,Nasilio,Thomas and Schwann,1906,NA
+11200022,MACROSCELIDEA,Macroscelididae,Macroscelides,Eumerus,I. Geoffroy,1829,NA
+11200022,MACROSCELIDEA,Macroscelididae,Macroscelides,Macroscelis,Fisher,1830,NA
+11200022,MACROSCELIDEA,Macroscelididae,Macroscelides,Rhinomys,Lichtenstein,1831,NA
+11200026,MACROSCELIDEA,Macroscelididae,Petrodromus,Cercoctenus,Hollister,1916,NA
+11200026,MACROSCELIDEA,Macroscelididae,Petrodromus,Mesoctenus,Thomas,1918,NA
+11200037,MACROSCELIDEA,Macroscelididae,Rhynchocyon,Rhinonax,Thomas,1918,NA
+11300003,TUBULIDENTATA,Orycteropodidae,Orycteropus,NA,NA,NA,NA
+11400003,HYRACOIDEA,Procaviidae,Dendrohyrax,NA,NA,NA,NA
+11400012,HYRACOIDEA,Procaviidae,Heterohyrax,NA,NA,NA,NA
+11400039,HYRACOIDEA,Procaviidae,Procavia,Euhyrax,Gray,1868,NA
+11400039,HYRACOIDEA,Procaviidae,Procavia,Hyrax,Hermann,1783,NA
+11400039,HYRACOIDEA,Procaviidae,Procavia,Procauia,Storr,1780,NA
+11500003,PROBOSCIDEA,Elephantidae,Elephas,Elephantus,É. Geoffroy Saint-Hilaire and Cuvier,1795,[not Cuvier and Geoffroy Saint-Hilaire]
+11500008,PROBOSCIDEA,Elephantidae,Loxodonta,Loxodon,Falconer,1857,NA
+11600004,SIRENIA,Dugongidae,Dugong,Amblychilus,Fischer von Waldheim,1814,NA
+11600004,SIRENIA,Dugongidae,Dugong,Dugongidus,Gray,1821,NA
+11600004,SIRENIA,Dugongidae,Dugong,Dugungus,Tiedemann,1808,NA
+11600004,SIRENIA,Dugongidae,Dugong,Halicore,Illiger,1811,NA
+11600004,SIRENIA,Dugongidae,Dugong,Platystomus,G. Fischer,1803,NA
+11600007,SIRENIA,Dugongidae,Hydrodamalis,Haligyna,Billberg,1827,"[see Doming, 1996]"
+11600007,SIRENIA,Dugongidae,Hydrodamalis,Manati,Zimmermann,1780,NA
+11600007,SIRENIA,Dugongidae,Hydrodamalis,Nepus,Fischer von Waldheim,1814,NA
+11600007,SIRENIA,Dugongidae,Hydrodamalis,Rytina,Illiger,1811,NA
+11600007,SIRENIA,Dugongidae,Hydrodamalis,Sirene,Link,1794,NA
+11600007,SIRENIA,Dugongidae,Hydrodamalis,Stellera,Bowdich,1821,NA
+11600007,SIRENIA,Dugongidae,Hydrodamalis,Stellerus,Desmarest,1822,NA
+11600010,SIRENIA,Trichechidae,Trichechus,Halipaedisca,Gistel,1848,NA
+11600010,SIRENIA,Trichechidae,Trichechus,Manatus,Brünnich,1771,NA
+11600010,SIRENIA,Trichechidae,Trichechus,Oxystomus,G. Fischer von Waldheim,1803,NA
+11600010,SIRENIA,Trichechidae,Trichechus,Trichecus,Owken,1816,NA
+11700004,CINGULATA,Dasypodidae,Dasypus,Cachicamus,McMurtrie,1831,NA
+11700004,CINGULATA,Dasypodidae,Dasypus,Cataphractus,Storr,1780,NA
+11700004,CINGULATA,Dasypodidae,Dasypus,Cryptophractus,Fitzinger,1856,NA
+11700004,CINGULATA,Dasypodidae,Dasypus,Hyperoambon,Peters,1864,NA
+11700004,CINGULATA,Dasypodidae,Dasypus,Loricatus,Desmarest,1804,NA
+11700004,CINGULATA,Dasypodidae,Dasypus,Muletia,Gray,1874,NA
+11700004,CINGULATA,Dasypodidae,Dasypus,Praopus,Burmeister,1854,NA
+11700004,CINGULATA,Dasypodidae,Dasypus,Tatu,Blumenbach,1779,NA
+11700004,CINGULATA,Dasypodidae,Dasypus,Tatusia,Lesson,1827,NA
+11700004,CINGULATA,Dasypodidae,Dasypus,Zonoplites,Gloger,1841,NA
+11700021,CINGULATA,Dasypodidae,Calyptophractus,Burmeisteria,Gray,1865,[preoccupied]
+11700023,CINGULATA,Dasypodidae,Chaetophractus,Dasyphractus,Fitzinger,1871,NA
+11700029,CINGULATA,Dasypodidae,Chlamyphorus,Chlamydophorus,Wagler,1830,"[it is an unjustified emendation of Chlamyphorus Harlan, the names Chlamiphorus Contreras, 1973, Chlamydephorus Lenz, 1831, and Chlamydiphorus Bonaparte, 1831, are incorrect subsequent spellings of Chlamyphorus Harlan"
+11700031,CINGULATA,Dasypodidae,Euphractus,Encoubertus,McMurtrie,1831,NA
+11700031,CINGULATA,Dasypodidae,Euphractus,Pseudotroctes,Gloger,1841,NA
+11700031,CINGULATA,Dasypodidae,Euphractus,Scleropleura,Milne-Edwards,1871,NA
+11700038,CINGULATA,Dasypodidae,Zaedyus,NA,NA,NA,NA
+11700043,CINGULATA,Dasypodidae,Cabassous,Arizostus,Gloger,1841,NA
+11700043,CINGULATA,Dasypodidae,Cabassous,Lysiurus,Ameghino,1891,NA
+11700043,CINGULATA,Dasypodidae,Cabassous,Tatoua,Gray,1865,NA
+11700043,CINGULATA,Dasypodidae,Cabassous,Xenurus,Wagler,1830,[preoccupied]
+11700043,CINGULATA,Dasypodidae,Cabassous,Ziphila,Gray,1873,NA
+11700050,CINGULATA,Dasypodidae,Priodontes,Cheloniscus,Wagler,1830,NA
+11700050,CINGULATA,Dasypodidae,Priodontes,Polygomphius,Gloger,1841,NA
+11700050,CINGULATA,Dasypodidae,Priodontes,Priodon,McMurtrie,1831,NA
+11700050,CINGULATA,Dasypodidae,Priodontes,Prionodos,Gray,1865,NA
+11700052,CINGULATA,Dasypodidae,Tolypeutes,Apara,McMurtrie,1831,NA
+11700052,CINGULATA,Dasypodidae,Tolypeutes,Cheloniscus,Gray,1873,[preoccupied]
+11700052,CINGULATA,Dasypodidae,Tolypeutes,Sphaerocormus,Fitzinger,1871,NA
+11700052,CINGULATA,Dasypodidae,Tolypeutes,Tolypoides,Grandidier and Neveu-Lemaire,1905,NA
+11800004,PILOSA,Bradypodidae,Bradypus,Acheus,F. Cuvier,1825,NA
+11800004,PILOSA,Bradypodidae,Bradypus,Arctopithecus,Gray,1850,[preoccupied]
+11800004,PILOSA,Bradypodidae,Bradypus,Eubradypus,Lönnberg,1942,NA
+11800004,PILOSA,Bradypodidae,Bradypus,Hemibradypus,Anthony,1906,NA
+11800004,PILOSA,Bradypodidae,Bradypus,Ignavus,Blumenbach,1779,NA
+11800004,PILOSA,Bradypodidae,Bradypus,Scaeopus,Peters,1864,NA
+11800017,PILOSA,Megalonychidae,Choloepus,NA,NA,NA,NA
+11800027,PILOSA,Cyclopedidae,Cyclopes,Cyclothurus,Lesson,1842,NA
+11800027,PILOSA,Cyclopedidae,Cyclopes,Didactyla,Liais,1872,NA
+11800027,PILOSA,Cyclopedidae,Cyclopes,Didactyles,F. Cuvier,1829,NA
+11800027,PILOSA,Cyclopedidae,Cyclopes,Eurypterna,Gloger,1841,NA
+11800027,PILOSA,Cyclopedidae,Cyclopes,Myrmydon,Wagler,1830,NA
+11800037,PILOSA,Myrmecophagidae,Myrmecophaga,Falcifer,Rehn,1900,NA
+11800042,PILOSA,Myrmecophagidae,Tamandua,Dryoryx,Gloger,1841,NA
+11800042,PILOSA,Myrmecophagidae,Tamandua,Tamanduas,F. Cuvier,1829,NA
+11800042,PILOSA,Myrmecophagidae,Tamandua,Uroleptes,Wagler,1830,NA
+11900003,SCANDENTIA,Tupaiidae,Anathana,NA,NA,NA,NA
+11900005,SCANDENTIA,Tupaiidae,Dendrogale,NA,NA,NA,NA
+11900010,SCANDENTIA,Tupaiidae,Tupaia,Chladobates,Schinz,1824,NA
+11900010,SCANDENTIA,Tupaiidae,Tupaia,Cladobates,F. Cuvier,1825,NA
+11900010,SCANDENTIA,Tupaiidae,Tupaia,Gladobates,Schinz,1824,NA
+11900010,SCANDENTIA,Tupaiidae,Tupaia,Glipora,Jentink,1888,NA
+11900010,SCANDENTIA,Tupaiidae,Tupaia,Glirisorex,Scudder,1882,NA
+11900010,SCANDENTIA,Tupaiidae,Tupaia,Glisorex,Desmarest,1822,NA
+11900010,SCANDENTIA,Tupaiidae,Tupaia,Glisosorex,Giebel,1855,NA
+11900010,SCANDENTIA,Tupaiidae,Tupaia,Hylogale,Temminck,1827,NA
+11900010,SCANDENTIA,Tupaiidae,Tupaia,Hylogalea,Schlegel and Mueller,1843,NA
+11900010,SCANDENTIA,Tupaiidae,Tupaia,Lyonogale,Conisbee,1953,NA
+11900010,SCANDENTIA,Tupaiidae,Tupaia,Palaeotupaia,Chopra and Vasishat,1979,NA
+11900010,SCANDENTIA,Tupaiidae,Tupaia,Sorex-glis,É. Geoffroy and F. Cuvier,1822,NA
+11900010,SCANDENTIA,Tupaiidae,Tupaia,Tana,Lyon,1913,NA
+11900010,SCANDENTIA,Tupaiidae,Tupaia,Tapaia,Gray,1860,NA
+11900010,SCANDENTIA,Tupaiidae,Tupaia,Tupaja,Haeckel,1866,NA
+11900010,SCANDENTIA,Tupaiidae,Tupaia,Tupaya,É. Geoffroy and F. Cuvier,1822,NA
+11900066,SCANDENTIA,Tupaiidae,Urogale,NA,NA,NA,NA
+11900069,SCANDENTIA,Ptilocercidae,Ptilocercus,Ptilocerus,Brehm,1864,NA
+12000003,DERMOPTERA,Cynocephalidae,Cynocephalus,Colugo,Gray,1870,NA
+12000003,DERMOPTERA,Cynocephalidae,Cynocephalus,Dermopterus,Burnett,1829,NA
+12000003,DERMOPTERA,Cynocephalidae,Cynocephalus,Galeolemur,Lesson,1840,NA
+12000003,DERMOPTERA,Cynocephalidae,Cynocephalus,Galeopithecus,Pallas,1783,NA
+12000003,DERMOPTERA,Cynocephalidae,Cynocephalus,Galeopus,Rafinesque,1815,NA
+12000003,DERMOPTERA,Cynocephalidae,Cynocephalus,Pleuropterus,Burnett,1829,NA
+12000005,DERMOPTERA,Cynocephalidae,Galeopterus,NA,NA,NA,NA
+12100006,PRIMATES,Cheirogaleidae,Allocebus,NA,NA,NA,NA
+12100008,PRIMATES,Cheirogaleidae,Cheirogaleus,Altililemur,Elliot,1913,NA
+12100008,PRIMATES,Cheirogaleidae,Cheirogaleus,Cebugale,Lesson,1840,NA
+12100008,PRIMATES,Cheirogaleidae,Cheirogaleus,Mioxocebus,Lesson,1840,NA
+12100008,PRIMATES,Cheirogaleidae,Cheirogaleus,Myspithecus,F. Cuvier,1842,NA
+12100008,PRIMATES,Cheirogaleidae,Cheirogaleus,Opolemur,Gray,1873,NA
+12100016,PRIMATES,Cheirogaleidae,Microcebus,Azema,Gray,1870,NA
+12100016,PRIMATES,Cheirogaleidae,Microcebus,Gliscebus,Lesson,1840,NA
+12100016,PRIMATES,Cheirogaleidae,Microcebus,Murilemur,Gray,1870,NA
+12100016,PRIMATES,Cheirogaleidae,Microcebus,Myocebus,Wagner,1841,NA
+12100016,PRIMATES,Cheirogaleidae,Microcebus,Myscebus,Lesson,1840,NA
+12100016,PRIMATES,Cheirogaleidae,Microcebus,Scartes,Swainson,1835,NA
+12100025,PRIMATES,Cheirogaleidae,Mirza,NA,NA,NA,NA
+12100027,PRIMATES,Cheirogaleidae,Phaner,NA,NA,NA,NA
+12100034,PRIMATES,Lemuridae,Eulemur,Petterus,Groves and Eaglen,1988,[on 6 October]
+12100048,PRIMATES,Lemuridae,Hapalemur,Hapalolemur,Giebel,1855,NA
+12100048,PRIMATES,Lemuridae,Hapalemur,Myoxicebus,Elliot,1913,NA
+12100055,PRIMATES,Lemuridae,Lemur,Catta,Link,1806,NA
+12100055,PRIMATES,Lemuridae,Lemur,Maki,Muirhead,1819,NA
+12100055,PRIMATES,Lemuridae,Lemur,Mococo,Lesson,1878,NA
+12100055,PRIMATES,Lemuridae,Lemur,Odorlemur,Bolwig,1961,NA
+12100055,PRIMATES,Lemuridae,Lemur,Procebus,Storr,1780,NA
+12100055,PRIMATES,Lemuridae,Lemur,Prosimia,Boddaert,1785,NA
+12100057,PRIMATES,Lemuridae,Prolemur,Prohapalemur,Lamberton,1936,NA
+12100059,PRIMATES,Lemuridae,Varecia,NA,NA,NA,NA
+12100066,PRIMATES,Lepilemuridae,Lepilemur,Galeocebus,Wagner,1855,NA
+12100066,PRIMATES,Lepilemuridae,Lepilemur,Lepidilemur,Giebel,1859,NA
+12100066,PRIMATES,Lepilemuridae,Lepilemur,"Mixocebus,",Peters,1874,NA
+12100076,PRIMATES,Indridae,Avahi,Habrocebus,Wagner,1839,NA
+12100076,PRIMATES,Indridae,Avahi,Iropocus,Gloger,1841,NA
+12100076,PRIMATES,Indridae,Avahi,Microrhynchus,Jourdan,1834,"[not of Megerle, 1823 (Coleoptera)]"
+12100076,PRIMATES,Indridae,Avahi,Semnocebus,Lesson,1840,NA
+12100080,PRIMATES,Indridae,Indri,Indris,G. Cuvier,1805,NA
+12100080,PRIMATES,Indridae,Indri,Lichanotus,Illiger,1811,NA
+12100080,PRIMATES,Indridae,Indri,Pithelemur,Lesson,1840,NA
+12100084,PRIMATES,Indridae,Propithecus,Macromerus,A. Smith,1833,NA
+12100098,PRIMATES,Daubentoniidae,Daubentonia,Aye-aye,Lacépède,1799,NA
+12100098,PRIMATES,Daubentoniidae,Daubentonia,Cheiromys,G. Cuvier,1817,NA
+12100098,PRIMATES,Daubentoniidae,Daubentonia,Cheyromys,É. Geoffroy,1803,NA
+12100098,PRIMATES,Daubentoniidae,Daubentonia,Chiromys,Illiger,1811,NA
+12100098,PRIMATES,Daubentoniidae,Daubentonia,Myslemur,Anon,NA,"[?de Blainville], 1846"
+12100098,PRIMATES,Daubentoniidae,Daubentonia,Myspithecus,de Blainville,1839,NA
+12100098,PRIMATES,Daubentoniidae,Daubentonia,Psilodactylus,Oken,1816,[unavailable]
+12100098,PRIMATES,Daubentoniidae,Daubentonia,Scolecophagus,É. Geoffroy,1795,NA
+12100102,PRIMATES,Lorisidae,Arctocebus,NA,NA,NA,NA
+12100105,PRIMATES,Lorisidae,Loris,Stenops,Illiger,1811,NA
+12100105,PRIMATES,Lorisidae,Loris,Tardigradus,Boddaert,1785,NA
+12100112,PRIMATES,Lorisidae,Nycticebus,NA,NA,NA,NA
+12100119,PRIMATES,Lorisidae,Perodicticus,Potto,Lesson,1840,NA
+12100124,PRIMATES,Lorisidae,Pseudopotto,NA,NA,NA,NA
+12100127,PRIMATES,Galagidae,Euoticus,NA,NA,NA,NA
+12100132,PRIMATES,Galagidae,Galago,Chirosciurus,Grevais,1836,NA
+12100132,PRIMATES,Galagidae,Galago,Galagoides,A. Smith,1833,NA
+12100132,PRIMATES,Galagidae,Galago,Hemigalago,Dahlbom,1857,NA
+12100132,PRIMATES,Galagidae,Galago,Macropus,Fischer,1811,"[not of Shaw, 1790]"
+12100132,PRIMATES,Galagidae,Galago,Otolicnus,Illiger,1811,NA
+12100132,PRIMATES,Galagidae,Galago,Sciurocheirus,Gray,1872,NA
+12100151,PRIMATES,Galagidae,Otolemur,Callotus,Gray,1863,NA
+12100151,PRIMATES,Galagidae,Otolemur,Otogale,Gray,1863,NA
+12100166,PRIMATES,Tarsiidae,Tarsius,Cephalopachus,Swainson,1835,NA
+12100166,PRIMATES,Tarsiidae,Tarsius,Hypsicebus,Lesson,1840,NA
+12100166,PRIMATES,Tarsiidae,Tarsius,Macrotarsus,Link,1795,NA
+12100166,PRIMATES,Tarsiidae,Tarsius,Rabienus,Gray,1821,NA
+12100180,PRIMATES,Cebidae,Callimico,NA,NA,NA,NA
+12100182,PRIMATES,Cebidae,Callithrix,Anthopithecus,F. Cuvier,1829,NA
+12100182,PRIMATES,Cebidae,Callithrix,Arctopithecus,G. Cuvier,1819,NA
+12100182,PRIMATES,Cebidae,Callithrix,Hapale,Illiger,1811,NA
+12100182,PRIMATES,Cebidae,Callithrix,Hapales,F. Cuvier,1829,NA
+12100182,PRIMATES,Cebidae,Callithrix,Harpale,Gray,1821,NA
+12100182,PRIMATES,Cebidae,Callithrix,Iacchus,Spix,1823,NA
+12100182,PRIMATES,Cebidae,Callithrix,Jacchus,É. Geoffroy,1812,NA
+12100182,PRIMATES,Cebidae,Callithrix,Midas,É. Geoffroy,1828,"[not of Latreille, 1796]"
+12100182,PRIMATES,Cebidae,Callithrix,Ouistitis,Burnett,1826,NA
+12100182,PRIMATES,Cebidae,Callithrix,Sagoin,Desmarest,1804,NA
+12100182,PRIMATES,Cebidae,Callithrix,Sagoinus,Kerr,1792,NA
+12100182,PRIMATES,Cebidae,Callithrix,Sagouin,Lacépède,1799,NA
+12100182,PRIMATES,Cebidae,Callithrix,Saguin,Fischer,1803,NA
+12100182,PRIMATES,Cebidae,Callithrix,Liocephalus,Wagner,1840,NA
+12100182,PRIMATES,Cebidae,Callithrix,Micoella,Gray,1870,NA
+12100210,PRIMATES,Cebidae,Leontopithecus,Leontideus,Cabrera,1956,NA
+12100210,PRIMATES,Cebidae,Leontopithecus,Leontocebus,Elliot,1913,NA
+12100215,PRIMATES,Cebidae,Saguinus,Hapanella,Gray,1870,NA
+12100215,PRIMATES,Cebidae,Saguinus,Leontocebus,Wagner,1840,NA
+12100215,PRIMATES,Cebidae,Saguinus,Marikina,Lesson,1840,NA
+12100215,PRIMATES,Cebidae,Saguinus,Midas,E. Geoffroy St. Hilaire,1812,NA
+12100215,PRIMATES,Cebidae,Saguinus,Mystax,Gray,1870,NA
+12100215,PRIMATES,Cebidae,Saguinus,Oedipomidus,Reichenbach,1862,NA
+12100215,PRIMATES,Cebidae,Saguinus,Oedipus,Lesson,1840,NA
+12100215,PRIMATES,Cebidae,Saguinus,Seniocebus,Gray,1870,NA
+12100215,PRIMATES,Cebidae,Saguinus,Tamarin,Gray,1870,NA
+12100215,PRIMATES,Cebidae,Saguinus,Tamarinus,Trouessart,1904,NA
+12100255,PRIMATES,Cebidae,Cebus,Agipan,Rafinesque,1815,NA
+12100255,PRIMATES,Cebidae,Cebus,Calyptrocebus,Reichenbach,1862,NA
+12100255,PRIMATES,Cebidae,Cebus,Eucebus,Reichenbach,1862,NA
+12100255,PRIMATES,Cebidae,Cebus,Otocebus,Reichenbach,1862,NA
+12100255,PRIMATES,Cebidae,Cebus,Pseudocebus,Reichenbach,1862,NA
+12100255,PRIMATES,Cebidae,Cebus,Sapajus,Kerr,1792,NA
+12100284,PRIMATES,Cebidae,Saimiri,Chrysothrix,Kaup,1835,NA
+12100284,PRIMATES,Cebidae,Saimiri,Pithesciurus,Lesson,1840,NA
+12100299,PRIMATES,Aotidae,Aotus,Nocthora,F. Cuvier,1824,NA
+12100299,PRIMATES,Aotidae,Aotus,Nyctipithecus,Spix,1823,NA
+12100317,PRIMATES,Pitheciidae,Callicebus,Torquatus,Goodman et al.,1998,NA
+12100349,PRIMATES,Pitheciidae,Cacajao,Brachyurus,Spix,1823,NA
+12100349,PRIMATES,Pitheciidae,Cacajao,Cercoptochus,Gloger,1842,NA
+12100349,PRIMATES,Pitheciidae,Cacajao,Cothurus,Palmer,1899,"[not of Champion, 1891 (Coleoptera)]"
+12100349,PRIMATES,Pitheciidae,Cacajao,Neocothurus,Palmer,1903,NA
+12100349,PRIMATES,Pitheciidae,Cacajao,Ouakaria,Gray,1849,NA
+12100356,PRIMATES,Pitheciidae,Chiropotes,Cheiropotes,Reichenbach,1862,NA
+12100356,PRIMATES,Pitheciidae,Chiropotes,Saki,Schlegel,1876,NA
+12100362,PRIMATES,Pitheciidae,Pithecia,Calletrix,Fleming,1822,[lapsus]
+12100362,PRIMATES,Pitheciidae,Pithecia,Yarkea,Lesson,1840,NA
+12100374,PRIMATES,Atelidae,Alouatta,Mycetes,Illiger,1811,NA
+12100374,PRIMATES,Atelidae,Alouatta,Stentor,É. Geoffroy,1812,NA
+12100393,PRIMATES,Atelidae,Ateles,Ameranthropoides,Montandon,1929,NA
+12100393,PRIMATES,Atelidae,Ateles,Montaneia,Ameghino,1911,NA
+12100393,PRIMATES,Atelidae,Ateles,Paniscus,Rafinesque,1815,NA
+12100393,PRIMATES,Atelidae,Ateles,Sapajou,Lacépède,1799,NA
+12100408,PRIMATES,Atelidae,Brachyteles,Eriodes,I. Geoffroy,1829,NA
+12100411,PRIMATES,Atelidae,Lagothrix,Gastrimargus,Spix,1823,NA
+12100418,PRIMATES,Atelidae,Oreonax,NA,NA,NA,NA
+12100423,PRIMATES,Cercopithecidae,Allenopithecus,NA,NA,NA,NA
+12100425,PRIMATES,Cercopithecidae,Cercocebus,Aethiops,Martin,1841,NA
+12100425,PRIMATES,Cercopithecidae,Cercocebus,Leptocebus,Trouessart,1904,NA
+12100434,PRIMATES,Cercopithecidae,Cercopithecus,Allochrocebus,Elliot,1913,NA
+12100434,PRIMATES,Cercopithecidae,Cercopithecus,Cercocephalus,Temminck,1853,NA
+12100434,PRIMATES,Cercopithecidae,Cercopithecus,Diademia,Reichenbach,1862,NA
+12100434,PRIMATES,Cercopithecidae,Cercopithecus,Diana,Trouessart,1878,"[not of Risso, 1826]"
+12100434,PRIMATES,Cercopithecidae,Cercopithecus,Insignicebus,Elliot,1913,NA
+12100434,PRIMATES,Cercopithecidae,Cercopithecus,Lasiopyga,Illiger,1811,NA
+12100434,PRIMATES,Cercopithecidae,Cercopithecus,Melanocebus,Elliot,1913,NA
+12100434,PRIMATES,Cercopithecidae,Cercopithecus,Mona,Reichenbach,1862,NA
+12100434,PRIMATES,Cercopithecidae,Cercopithecus,Monichus,Oken,1816,[unavailable]
+12100434,PRIMATES,Cercopithecidae,Cercopithecus,Neocebus,Elliot,1913,NA
+12100434,PRIMATES,Cercopithecidae,Cercopithecus,Otopithecus,Trouessart,1897,NA
+12100434,PRIMATES,Cercopithecidae,Cercopithecus,Petaurista,Reichenbach,1862,"[not of Link, 1795]"
+12100434,PRIMATES,Cercopithecidae,Cercopithecus,Pogonocebus,Trouessart,1904,NA
+12100434,PRIMATES,Cercopithecidae,Cercopithecus,Rhinosticteus,Trouessart,1897,NA
+12100434,PRIMATES,Cercopithecidae,Cercopithecus,Rhinostigma,Elliot,1913,NA
+12100504,PRIMATES,Cercopithecidae,Chlorocebus,Callithrix,Reichenbach,1862,"[not of Erxleben, 1777]"
+12100504,PRIMATES,Cercopithecidae,Chlorocebus,Cynocebus,Gray,1870,NA
+12100519,PRIMATES,Cercopithecidae,Erythrocebus,NA,NA,NA,NA
+12100521,PRIMATES,Cercopithecidae,Lophocebus,Cercolophocebus,Matschie,1914,NA
+12100521,PRIMATES,Cercopithecidae,Lophocebus,Semnocebus,Gray,1870,NA
+12100528,PRIMATES,Cercopithecidae,Macaca,Aulaxinus,Cocchi,1872,NA
+12100528,PRIMATES,Cercopithecidae,Macaca,Cynamolgus,Reichenbach,1862,NA
+12100528,PRIMATES,Cercopithecidae,Macaca,Cynomacaca,Khajuria,1953,NA
+12100528,PRIMATES,Cercopithecidae,Macaca,Cynopithecus,É. Geoffroy,1835,NA
+12100528,PRIMATES,Cercopithecidae,Macaca,Gymnopyga,Gray,1866,NA
+12100528,PRIMATES,Cercopithecidae,Macaca,Inuus,É. Geoffroy,1812,NA
+12100528,PRIMATES,Cercopithecidae,Macaca,Lyssodes,Gistel,1848,NA
+12100528,PRIMATES,Cercopithecidae,Macaca,Magotus,Ritgen,1824,NA
+12100528,PRIMATES,Cercopithecidae,Macaca,Magus,Lesson,1827,NA
+12100528,PRIMATES,Cercopithecidae,Macaca,Maimon,Wagner,1839,NA
+12100528,PRIMATES,Cercopithecidae,Macaca,Nemestrinus,Reichenbach,1862,"[not of Latreille, 1802]"
+12100528,PRIMATES,Cercopithecidae,Macaca,Ouanderou,Lesson,1840,NA
+12100528,PRIMATES,Cercopithecidae,Macaca,Pithes,Burnett,1828,NA
+12100528,PRIMATES,Cercopithecidae,Macaca,Rhesus,Lesson,1840,NA
+12100528,PRIMATES,Cercopithecidae,Macaca,Salmacis,Gloger,1841,NA
+12100528,PRIMATES,Cercopithecidae,Macaca,Silenus,Goldfuss,1820,NA
+12100528,PRIMATES,Cercopithecidae,Macaca,Sylvanus,Oken,1816,[unavailable]
+12100528,PRIMATES,Cercopithecidae,Macaca,Vetulus,Reichenbach,1862,NA
+12100528,PRIMATES,Cercopithecidae,Macaca,Zati,Reichenbach,1862,NA
+12100572,PRIMATES,Cercopithecidae,Mandrillus,Chaeropithecus,Gray,1870,"[not of de Blainville, 1839]"
+12100572,PRIMATES,Cercopithecidae,Mandrillus,Drill,Reichenbach,1862,NA
+12100572,PRIMATES,Cercopithecidae,Mandrillus,Maimon,Trouessart,1904,NA
+12100572,PRIMATES,Cercopithecidae,Mandrillus,Mandril,Voigt,1831,NA
+12100572,PRIMATES,Cercopithecidae,Mandrillus,Mormon,Wagner,1839,"[not of Illiger, 1811]"
+12100572,PRIMATES,Cercopithecidae,Mandrillus,Papio,P.L.S. Müller,1773,[Suppressed under Opinion 1199 of Int. Commission on Zool. Nomenclature]
+12100577,PRIMATES,Cercopithecidae,Miopithecus,NA,NA,NA,NA
+12100580,PRIMATES,Cercopithecidae,Papio,Chaeropitheus,Gervais,1839,NA
+12100580,PRIMATES,Cercopithecidae,Papio,Comopithecus,J. A. Allen,1925,NA
+12100580,PRIMATES,Cercopithecidae,Papio,Cynocephalus,G. Cuvier and É. Geoffroy,1795,NA
+12100580,PRIMATES,Cercopithecidae,Papio,Hamadryas,Lesson,1840,NA
+12100592,PRIMATES,Cercopithecidae,Theropithecus,Gelada,Gray,1843,NA
+12100592,PRIMATES,Cercopithecidae,Theropithecus,Simopithecus,Andrews,1916,NA
+12100597,PRIMATES,Cercopithecidae,Colobus,Colobolus,Gray,1821,NA
+12100597,PRIMATES,Cercopithecidae,Colobus,Guereza,Gray,1870,NA
+12100597,PRIMATES,Cercopithecidae,Colobus,Pterycolobus,Rochebrune,1887,NA
+12100597,PRIMATES,Cercopithecidae,Colobus,Stachycolobus,Rochebrune,1887,NA
+12100618,PRIMATES,Cercopithecidae,Nasalis,Hanno,Gray,1821,NA
+12100618,PRIMATES,Cercopithecidae,Nasalis,Rhinolazon,Gloger,1841,NA
+12100618,PRIMATES,Cercopithecidae,Nasalis,Rhynchopithecus,Dahlbohm,1856,NA
+12100620,PRIMATES,Cercopithecidae,Piliocolobus,Tropicolobus,Rochebrune,1887,NA
+12100641,PRIMATES,Cercopithecidae,Presbytis,Corypithecus,Trouessart,1879,NA
+12100641,PRIMATES,Cercopithecidae,Presbytis,Lophopitheus,Trouessart,1879,NA
+12100641,PRIMATES,Cercopithecidae,Presbytis,Presbypitheus,Trouessart,1879,NA
+12100679,PRIMATES,Cercopithecidae,Procolobus,Lophocolobus,de Pousargue,1895,NA
+12100681,PRIMATES,Cercopithecidae,Pygathrix,Daunus,Gray,1821,NA
+12100685,PRIMATES,Cercopithecidae,Rhinopithecus,Presbytiscus,Pocock,1924,NA
+12100693,PRIMATES,Cercopithecidae,Semnopithecus,NA,NA,NA,NA
+12100701,PRIMATES,Cercopithecidae,Simias,NA,NA,NA,NA
+12100703,PRIMATES,Cercopithecidae,Trachypithecus,Kasi,Reichenbach,1862,NA
+12100753,PRIMATES,Hylobatidae,Bunopithecus,Hoolock,Haimoff et al.,1984,[nomen nudum]
+12100757,PRIMATES,Hylobatidae,Hylobates,Brachiopithecus,Sénéchal,1839,[in part]
+12100757,PRIMATES,Hylobatidae,Hylobates,Brachitanytes,Schultz,1932,NA
+12100757,PRIMATES,Hylobatidae,Hylobates,Cheiron,Burnett,1829,NA
+12100757,PRIMATES,Hylobatidae,Hylobates,Gibbon,Zimmermann,1777,"[Rejected by Int. Comm. Zool. Nomencl. (1954), Opinion 257]"
+12100757,PRIMATES,Hylobatidae,Hylobates,Laratus,Gray,1821,NA
+12100757,PRIMATES,Hylobatidae,Hylobates,Methylobates,Ameghino,1882,[in part]
+12100773,PRIMATES,Hylobatidae,Nomascus,NA,NA,NA,NA
+12100784,PRIMATES,Hylobatidae,Symphalangus,Siamanga,Gray,1843,NA
+12100787,PRIMATES,Hominidae,Gorilla,Pseudogorilla,Elliot,1913,NA
+12100794,PRIMATES,Hominidae,Homo,Africanthropus,Weinert,1938,NA
+12100794,PRIMATES,Hominidae,Homo,Anthropus,Boyd Dawkins,1926,NA
+12100794,PRIMATES,Hominidae,Homo,Archanthropus,Arldt,1915,NA
+12100794,PRIMATES,Hominidae,Homo,Atlanthropus,Arambourg,1954,NA
+12100794,PRIMATES,Hominidae,Homo,Cyphanthropus,Pycraft,1928,NA
+12100794,PRIMATES,Hominidae,Homo,Europanthropus,Wüst,1950,NA
+12100794,PRIMATES,Hominidae,Homo,Javanthropus,Oppenoorth,1932,NA
+12100794,PRIMATES,Hominidae,Homo,Maueranthropus,Montandon,1943,NA
+12100794,PRIMATES,Hominidae,Homo,Meganthropus,Weidenreich,1944,NA
+12100794,PRIMATES,Hominidae,Homo,Nipponanthropus,Hasebe,1948,NA
+12100794,PRIMATES,Hominidae,Homo,Notanthropus,Sergi,1911,NA
+12100794,PRIMATES,Hominidae,Homo,Palaeanthropus,Bonarelli,1907,NA
+12100794,PRIMATES,Hominidae,Homo,Pithecanthropus,Dubois,1894,NA
+12100794,PRIMATES,Hominidae,Homo,Praehomo,von Eickstedt,1932,NA
+12100794,PRIMATES,Hominidae,Homo,Proanthropus,Wilser,1900,NA
+12100794,PRIMATES,Hominidae,Homo,Pseudhomo,Ameghino,1909,NA
+12100794,PRIMATES,Hominidae,Homo,Sinanthropus,Black and Zdansky,1927,NA
+12100794,PRIMATES,Hominidae,Homo,Tchadanthropus,Coppens,1965,NA
+12100794,PRIMATES,Hominidae,Homo,Telanthropus,Broom and Robinson,1949,NA
+12100796,PRIMATES,Hominidae,Pan,Anthropithecus,Lesson,1840,NA
+12100796,PRIMATES,Hominidae,Pan,Anthropopithecus,de Blainville,1838,NA
+12100796,PRIMATES,Hominidae,Pan,Bonobo,Tratz and Heck,1954,NA
+12100796,PRIMATES,Hominidae,Pan,Chimpansee,Voigt,1831,NA
+12100796,PRIMATES,Hominidae,Pan,Engeco,Haeckel,1866,NA
+12100796,PRIMATES,Hominidae,Pan,Fsihego,de Pauw,1905,NA
+12100796,PRIMATES,Hominidae,Pan,Hylanthropus,Gloger,1841,NA
+12100796,PRIMATES,Hominidae,Pan,Mimetes,Anonymous,1820,NA
+12100796,PRIMATES,Hominidae,Pan,Pongo,Haeckel,1866,"[not of Lacépède, 1799]"
+12100796,PRIMATES,Hominidae,Pan,Pseudanthropos,Reichenbach,1860,NA
+12100796,PRIMATES,Hominidae,Pan,Satyrus,Mayer,1856,NA
+12100796,PRIMATES,Hominidae,Pan,Theranthropus,Brookes,1828,NA
+12100796,PRIMATES,Hominidae,Pan,Troglodytes,É. Geoffroy,1812,"[not of Vieillot, 1806]"
+12100803,PRIMATES,Hominidae,Pongo,Faunus,Oken,1816,[unavailable]
+12100803,PRIMATES,Hominidae,Pongo,Lophotus,Fischer,1813,NA
+12100803,PRIMATES,Hominidae,Pongo,Macrobates,Bilberg,1828,NA
+12100803,PRIMATES,Hominidae,Pongo,Satyrus,Lesson,1840,NA
+12300003,RODENTIA,Aplodontiidae,Aplodontia,Apludontia,Fischer,1830,NA
+12300003,RODENTIA,Aplodontiidae,Aplodontia,Apluodontia,Richardson,1837,NA
+12300003,RODENTIA,Aplodontiidae,Aplodontia,Haplodon,Wagler,1830,NA
+12300003,RODENTIA,Aplodontiidae,Aplodontia,Haplodus,Coues,1877,NA
+12300003,RODENTIA,Aplodontiidae,Aplodontia,Haploodon,Brandt,1855,NA
+12300003,RODENTIA,Aplodontiidae,Aplodontia,Haploodus,Coues,1877,NA
+12300003,RODENTIA,Aplodontiidae,Aplodontia,Haploudon,Coues,1877,NA
+12300003,RODENTIA,Aplodontiidae,Aplodontia,Haploudontia,Coues,1889,NA
+12300003,RODENTIA,Aplodontiidae,Aplodontia,Haploudus,Coues,1877,NA
+12300003,RODENTIA,Aplodontiidae,Aplodontia,Hapludon,Brandt,1855,NA
+12400003,RODENTIA,Sciuridae,Ratufa,Eosciurus,Trouessart,1880,NA
+12400003,RODENTIA,Sciuridae,Ratufa,Rukaia,Gray,1867,NA
+12400035,RODENTIA,Sciuridae,Sciurillus,NA,NA,NA,NA
+12400042,RODENTIA,Sciuridae,Microsciurus,NA,NA,NA,NA
+12400064,RODENTIA,Sciuridae,Rheithrosciurus,Rhithrosciurus,Hose,1893,NA
+12400066,RODENTIA,Sciuridae,Sciurus,Aphrontis,Schultze,1893,NA
+12400066,RODENTIA,Sciuridae,Sciurus,Araeosciurus,Nelson,1899,NA
+12400066,RODENTIA,Sciuridae,Sciurus,Baiosciurus,Nelson,1899,NA
+12400066,RODENTIA,Sciuridae,Sciurus,Echinosciurus,Trouessart,1880,NA
+12400066,RODENTIA,Sciuridae,Sciurus,Guerlinguetus,Gray,1821,NA
+12400066,RODENTIA,Sciuridae,Sciurus,Hadrosciurus,J. A. Allen,1915,NA
+12400066,RODENTIA,Sciuridae,Sciurus,Hesperosciurus,Nelson,1899,NA
+12400066,RODENTIA,Sciuridae,Sciurus,Histriosciurus,J. A. Allen,1915,NA
+12400066,RODENTIA,Sciuridae,Sciurus,Leptosciurus,J. A. Allen,1915,NA
+12400066,RODENTIA,Sciuridae,Sciurus,Macroxus,F. Cuvier,1823,NA
+12400066,RODENTIA,Sciuridae,Sciurus,Mesosciurus,J. A. Allen,1915,NA
+12400066,RODENTIA,Sciuridae,Sciurus,Neosciurus,Trouessart,1880,NA
+12400066,RODENTIA,Sciuridae,Sciurus,Oreosciurus,Ognev,1935,NA
+12400066,RODENTIA,Sciuridae,Sciurus,Otosciurus,Nelson,1899,NA
+12400066,RODENTIA,Sciuridae,Sciurus,Parasciurus,Trouessart,1880,NA
+12400066,RODENTIA,Sciuridae,Sciurus,Simosciurus,J. A. Allen,1915,NA
+12400066,RODENTIA,Sciuridae,Sciurus,Tenes,Thomas,1909,NA
+12400066,RODENTIA,Sciuridae,Sciurus,Urosciurus,J. A. Allen,1915,NA
+12400247,RODENTIA,Sciuridae,Syntheosciurus,NA,NA,NA,NA
+12400249,RODENTIA,Sciuridae,Tamiasciurus,NA,NA,NA,NA
+12400280,RODENTIA,Sciuridae,Aeretes,NA,NA,NA,NA
+12400284,RODENTIA,Sciuridae,Aeromys,NA,NA,NA,NA
+12400289,RODENTIA,Sciuridae,Belomys,NA,NA,NA,NA
+12400293,RODENTIA,Sciuridae,Biswamoyopterus,NA,NA,NA,NA
+12400295,RODENTIA,Sciuridae,Eoglaucomys,NA,NA,NA,NA
+12400299,RODENTIA,Sciuridae,Eupetaurus,NA,NA,NA,NA
+12400301,RODENTIA,Sciuridae,Glaucomys,NA,NA,NA,NA
+12400340,RODENTIA,Sciuridae,Hylopetes,NA,NA,NA,NA
+12400359,RODENTIA,Sciuridae,Iomys,NA,NA,NA,NA
+12400366,RODENTIA,Sciuridae,Petaurillus,NA,NA,NA,NA
+12400370,RODENTIA,Sciuridae,Petaurista,Galeolemur,Lesson,1840,NA
+12400422,RODENTIA,Sciuridae,Petinomys,Olisthomys,Carter,1942,NA
+12400432,RODENTIA,Sciuridae,Pteromys,Sciuropterus,F. Cuvier,1825,NA
+12400439,RODENTIA,Sciuridae,Pteromyscus,NA,NA,NA,NA
+12400443,RODENTIA,Sciuridae,Trogopterus,NA,NA,NA,NA
+12400446,RODENTIA,Sciuridae,Callosciurus,Baginia,Gray,1867,NA
+12400446,RODENTIA,Sciuridae,Callosciurus,Erythrosciurus,Gray,1867,NA
+12400446,RODENTIA,Sciuridae,Callosciurus,Hessonoglyphotes,Moore,1959,NA
+12400446,RODENTIA,Sciuridae,Callosciurus,Heterosciurus,Trouessart,1880,NA
+12400446,RODENTIA,Sciuridae,Callosciurus,Tomeutes,Thomas,1915,NA
+12400537,RODENTIA,Sciuridae,Dremomys,Zetis,Thomas,1908,[Type species S. rufigenis Blanford]
+12400562,RODENTIA,Sciuridae,Exilisciurus,NA,NA,NA,NA
+12400566,RODENTIA,Sciuridae,Funambulus,Palmista,Gray,1867,NA
+12400566,RODENTIA,Sciuridae,Funambulus,Prasadsciurus,Moore and Tate,1965,NA
+12400566,RODENTIA,Sciuridae,Funambulus,Tamiodes,Pocock,1923,NA
+12400585,RODENTIA,Sciuridae,Glyphotes,NA,NA,NA,NA
+12400587,RODENTIA,Sciuridae,Hyosciurus,NA,NA,NA,NA
+12400590,RODENTIA,Sciuridae,Lariscus,Laria,Gray,1867,"[not Scopoli, 1763]"
+12400590,RODENTIA,Sciuridae,Lariscus,Paralariscus,Ellerman,1947,NA
+12400605,RODENTIA,Sciuridae,Menetes,NA,NA,NA,NA
+12400614,RODENTIA,Sciuridae,Nannosciurus,NA,NA,NA,NA
+12400620,RODENTIA,Sciuridae,Prosciurillus,NA,NA,NA,NA
+12400633,RODENTIA,Sciuridae,Rhinosciurus,NA,NA,NA,NA
+12400638,RODENTIA,Sciuridae,Rubrisciurus,NA,NA,NA,NA
+12400640,RODENTIA,Sciuridae,Sundasciurus,Aletesciurus,Moore,1958,NA
+12400675,RODENTIA,Sciuridae,Tamiops,NA,NA,NA,NA
+12400698,RODENTIA,Sciuridae,Atlantoxerus,NA,NA,NA,NA
+12400700,RODENTIA,Sciuridae,Spermophilopsis,NA,NA,NA,NA
+12400705,RODENTIA,Sciuridae,Xerus,Euxerus,Thomas,1909,NA
+12400705,RODENTIA,Sciuridae,Xerus,Geosciurus,Smith,1834,NA
+12400728,RODENTIA,Sciuridae,Epixerus,NA,NA,NA,NA
+12400733,RODENTIA,Sciuridae,Funisciurus,NA,NA,NA,NA
+12400767,RODENTIA,Sciuridae,Heliosciurus,NA,NA,NA,NA
+12400823,RODENTIA,Sciuridae,Myosciurus,NA,NA,NA,NA
+12400825,RODENTIA,Sciuridae,Paraxerus,Aethosciurus,Thomas,1916,NA
+12400825,RODENTIA,Sciuridae,Paraxerus,Montisciurus,Eisentraut,1976,NA
+12400825,RODENTIA,Sciuridae,Paraxerus,Tamiscus,Thomas,1918,NA
+12400872,RODENTIA,Sciuridae,Protoxerus,Allosciurus,Conisbee,1953,NA
+12400892,RODENTIA,Sciuridae,Ammospermophilus,NA,NA,NA,NA
+12400909,RODENTIA,Sciuridae,Cynomys,Arctomys,Ord,1815,NA
+12400909,RODENTIA,Sciuridae,Cynomys,Cynomomus,Osborn,1894,NA
+12400909,RODENTIA,Sciuridae,Cynomys,Leucocrossuromys,Hollister,1916,NA
+12400909,RODENTIA,Sciuridae,Cynomys,Mamcynomiscus,Herrera,1899,NA
+12400909,RODENTIA,Sciuridae,Cynomys,Monax,Warden,1819,NA
+12400921,RODENTIA,Sciuridae,Marmota,Arctomys,Schreber,1780,NA
+12400921,RODENTIA,Sciuridae,Marmota,Glis,Erxleben,1777,NA
+12400921,RODENTIA,Sciuridae,Marmota,Lagomys,Storr,1780,NA
+12400921,RODENTIA,Sciuridae,Marmota,Lipura,Storr,1780,NA
+12400921,RODENTIA,Sciuridae,Marmota,Marmotops,Pocock,1922,NA
+12400921,RODENTIA,Sciuridae,Marmota,Petromarmota,Steppan et al.,1999,NA
+12400971,RODENTIA,Sciuridae,Sciurotamias,Rupestes,Thomas,1922,NA
+12400978,RODENTIA,Sciuridae,Spermophilus,Anisonyx,Rafinesque,1817,NA
+12400978,RODENTIA,Sciuridae,Spermophilus,Arctomys,Schreber,1780,NA
+12400978,RODENTIA,Sciuridae,Spermophilus,Callospermophilus,Merriam,1897,NA
+12400978,RODENTIA,Sciuridae,Spermophilus,Citellus,Oken,1816,NA
+12400978,RODENTIA,Sciuridae,Spermophilus,Citillus,Lichtenstein,1830,NA
+12400978,RODENTIA,Sciuridae,Spermophilus,Colobates,Milne-Edwards,1874,NA
+12400978,RODENTIA,Sciuridae,Spermophilus,Colobotis,Brandt,1844,NA
+12400978,RODENTIA,Sciuridae,Spermophilus,Ictidomoides,Mearns,1907,NA
+12400978,RODENTIA,Sciuridae,Spermophilus,Ictidomys,J. A. Allen,1877,NA
+12400978,RODENTIA,Sciuridae,Spermophilus,Notocitellus,A. H. Howell,1938,NA
+12400978,RODENTIA,Sciuridae,Spermophilus,Otocolobus,Brandt,1844,NA
+12400978,RODENTIA,Sciuridae,Spermophilus,Otospermophilus,Brandt,1844,NA
+12400978,RODENTIA,Sciuridae,Spermophilus,Poliocitellus,A. H. Howell,1938,NA
+12400978,RODENTIA,Sciuridae,Spermophilus,Spermatophilus,Wagler,1830,NA
+12400978,RODENTIA,Sciuridae,Spermophilus,Spermophilis,Richardson,1839,NA
+12400978,RODENTIA,Sciuridae,Spermophilus,Urocitellus,Obolenskij,1927,NA
+12400978,RODENTIA,Sciuridae,Spermophilus,Xerospermophilus,Merriam,1892,NA
+12401131,RODENTIA,Sciuridae,Tamias,Eutamias,Trouessart,1880,NA
+12401131,RODENTIA,Sciuridae,Tamias,Neotamias,A. H. Howell,1929,NA
+12500003,RODENTIA,Gliridae,Graphiurus,Aethoglis,G. M. Allen,1936,NA
+12500003,RODENTIA,Gliridae,Graphiurus,Claviglis,Jentink,1888,NA
+12500003,RODENTIA,Gliridae,Graphiurus,Gliriscus,Thomas and Hinton,1925,NA
+12500003,RODENTIA,Gliridae,Graphiurus,Graphidurus,Brandt,1855,"[see Ellerman, 1940, Ellerman et al., 1953, McKenna and Bell, 1997, Rosevear, 1969]"
+12500022,RODENTIA,Gliridae,Chaetocauda,NA,NA,NA,NA
+12500024,RODENTIA,Gliridae,Dryomys,Afrodryomys,Jaeger,1975,"[see Daams and de Bruijn, 1995, Rossolimo et al., 2001]"
+12500024,RODENTIA,Gliridae,Dryomys,Dyromys,Thomas,1907,"[see Ellerman and Morrison-Scott, 1951, McKenna and Bell, 1997, and footnote in Simpson, 1945]"
+12500024,RODENTIA,Gliridae,Dryomys,Elius,Schulze,1900,[excluding glis]
+12500028,RODENTIA,Gliridae,Eliomys,Bifa,Lataste,1885,"[see Corbet, 1978 c and Ellerman and Morrison-Scott, 1951]"
+12500032,RODENTIA,Gliridae,Muscardinus,Eomuscardinus,Hartenberger,1966,NA
+12500032,RODENTIA,Gliridae,Muscardinus,Pentaglis,Kretzoi,1943,"[see Daams and de Bruijn (1995), Rossolimo et al. (2001)"
+12500034,RODENTIA,Gliridae,Myomimus,Philistomys,Bate,1937,"[see Kowalski, 1963, Rossolimo et al., 2001]"
+12500038,RODENTIA,Gliridae,Selevinia,Salevinia,Argyropulo and Vinogradov,1939,NA
+12500041,RODENTIA,Gliridae,Glirulus,Amphidyromys,Heller,1936,"[see Daams and de Bruijn, 1995, Rossolimo et al., 2001]"
+12500041,RODENTIA,Gliridae,Glirulus,Paraglirulus,Engesser,1972,"[see McKenna and Bell, 1997, and Wu et al., 2000]"
+12500043,RODENTIA,Gliridae,Glis,Elius,Schulze,1900,[excluding dryas]
+12500043,RODENTIA,Gliridae,Glis,Myorus,Reichenbach,1835,NA
+12500043,RODENTIA,Gliridae,Glis,Myoxus,Zimmerman,1780,"[see Opinion 1894 of the International Commission on Zoological Nomenclature, 1998, McKenna and Bell, 1997]"
+12600003,RODENTIA,Castoridae,Castor,Fiber,Dumeril,1806,"[not of G. Cuvier, 1800]"
+12600003,RODENTIA,Castoridae,Castor,Mamcastorus,Herrera,1899,NA
+12700003,RODENTIA,Heteromyidae,Dipodomys,Dipodops,Merriam,1890,NA
+12700003,RODENTIA,Heteromyidae,Dipodomys,Macrocolus,Wagner,1846,NA
+12700003,RODENTIA,Heteromyidae,Dipodomys,Perodipus,Fitzinger,1867,NA
+12700130,RODENTIA,Heteromyidae,Microdipodops,NA,NA,NA,NA
+12700152,RODENTIA,Heteromyidae,Heteromys,Xylomys,Merriam,1902,NA
+12700182,RODENTIA,Heteromyidae,Liomys,NA,NA,NA,NA
+12700203,RODENTIA,Heteromyidae,Chaetodipus,Burtognathus,Hoffmeister,1986,NA
+12700303,RODENTIA,Heteromyidae,Perognathus,Abromys,Gray,1868,NA
+12700303,RODENTIA,Heteromyidae,Perognathus,Cricetodipus,Peale,1848,NA
+12700303,RODENTIA,Heteromyidae,Perognathus,Otognosis,Coues,1875,NA
+12800002,RODENTIA,Geomyidae,Cratogeomys,NA,NA,NA,NA
+12800053,RODENTIA,Geomyidae,Geomys,Ascomys,Lichtenstein,1825,NA
+12800053,RODENTIA,Geomyidae,Geomys,Diplostoma,Rafinesque,1817,NA
+12800053,RODENTIA,Geomyidae,Geomys,Mamgeomyscus,Herrera,1899,NA
+12800053,RODENTIA,Geomyidae,Geomys,Neterogeomys,Gazin,1942,NA
+12800053,RODENTIA,Geomyidae,Geomys,Parageomys,Hibbard,1944,NA
+12800053,RODENTIA,Geomyidae,Geomys,Progeomys,Dalquest,1983,NA
+12800053,RODENTIA,Geomyidae,Geomys,Pseudostoma,Say,1823,NA
+12800053,RODENTIA,Geomyidae,Geomys,Saccophorus,Kuhl,1820,NA
+12800095,RODENTIA,Geomyidae,Orthogeomys,Heterogeomys,Merriam,1895,NA
+12800095,RODENTIA,Geomyidae,Orthogeomys,Macrogeomys,Merriam,1895,NA
+12800147,RODENTIA,Geomyidae,Pappogeomys,NA,NA,NA,NA
+12800158,RODENTIA,Geomyidae,Thomomys,Megascapheus,Elliot,1903,NA
+12800158,RODENTIA,Geomyidae,Thomomys,Plesiothomomys,Gidley and Gazin,1933,NA
+12800158,RODENTIA,Geomyidae,Thomomys,Tomomys,Brandt,1955,NA
+12800402,RODENTIA,Geomyidae,Zygogeomys,Gygogeomys,J. A. Allen,1895,[misprint]
+12900005,RODENTIA,Dipodidae,Allactaga,Alactaga,F. Cuvier,1838,NA
+12900005,RODENTIA,Dipodidae,Allactaga,Beloprymnus,Gloger,1841,[nomen nudum]
+12900005,RODENTIA,Dipodidae,Allactaga,Cuniculus,Brisson,1762,[nomen nudum]
+12900005,RODENTIA,Dipodidae,Allactaga,Mesoallactaga,Shenbrot,1974,NA
+12900005,RODENTIA,Dipodidae,Allactaga,Microallactaga,Shenbrot,1974,NA
+12900005,RODENTIA,Dipodidae,Allactaga,Orientallactaga,Shenbrot,1984,NA
+12900005,RODENTIA,Dipodidae,Allactaga,Paralactaga,Young,1927,NA
+12900005,RODENTIA,Dipodidae,Allactaga,Proalactaga,Savinov,1970,NA
+12900005,RODENTIA,Dipodidae,Allactaga,Scarturus,Gloger,1841,NA
+12900005,RODENTIA,Dipodidae,Allactaga,Scirteta,Brandt,1844,NA
+12900005,RODENTIA,Dipodidae,Allactaga,Scirtetes,Wagner,1841,"[not Hartig, 1838]"
+12900005,RODENTIA,Dipodidae,Allactaga,Scirtomys,Brandt,1844,"[see Ellerman and Morrison-Scott (1951) and Pavlinov and Rossolimo (1987, 1998)"
+12900022,RODENTIA,Dipodidae,Allactodipus,NA,NA,NA,NA
+12900024,RODENTIA,Dipodidae,Pygeretmus,Alactagulus,Nehring,1897,NA
+12900024,RODENTIA,Dipodidae,Pygeretmus,Platycercomys,Brandt,1843,NA
+12900024,RODENTIA,Dipodidae,Pygeretmus,Pliopygerethmus,Topachevskii and Skorik,1971,NA
+12900024,RODENTIA,Dipodidae,Pygeretmus,Pseudoalactaga,Topachevskii,1971,NA
+12900024,RODENTIA,Dipodidae,Pygeretmus,Pygerethmus,Vinogradov,1930,NA
+12900024,RODENTIA,Dipodidae,Pygeretmus,Pygeretmus,Gloger,1841,[see McKenna and Bell (1997) and Zazhigin and Lopatin (2000c)]
+12900031,RODENTIA,Dipodidae,Cardiocranius,NA,NA,NA,NA
+12900033,RODENTIA,Dipodidae,Salpingotulus,NA,NA,NA,NA
+12900035,RODENTIA,Dipodidae,Salpingotus,Anguistodontus,Vorontsov and Shenbrot,1984,NA
+12900035,RODENTIA,Dipodidae,Salpingotus,Prosalpingotus,Vorontsov and Shenbrot,1984,[see Pavlinov and Rossolimo (1987) and Shenbrot et al. (1995)]
+12900045,RODENTIA,Dipodidae,Dipus,Dipodipus,Trouessart,1910,NA
+12900045,RODENTIA,Dipodidae,Dipus,Dipsus,Gray,1821,NA
+12900045,RODENTIA,Dipodidae,Dipus,Sminthoides,Schlosser,1924,"[see Ellerman and Morrison-Scott (1951), McKenna and Bell (1997), and Zazhigin and Lopatin (2001)"
+12900047,RODENTIA,Dipodidae,Eremodipus,NA,NA,NA,NA
+12900049,RODENTIA,Dipodidae,Jaculus,Haltomys,Brandt,1844,NA
+12900049,RODENTIA,Dipodidae,Jaculus,Scirtopoda,Brandt,1844,"[see Ellerman and Morrison-Scott, 1951, and Corbet, 1978 c]"
+12900053,RODENTIA,Dipodidae,Paradipus,NA,NA,NA,NA
+12900055,RODENTIA,Dipodidae,Stylodipus,Halticus,Brandt,1844,"[see Ellerman and Morrison-Scott, 1951]"
+12900060,RODENTIA,Dipodidae,Euchoreutes,NA,NA,NA,NA
+12900063,RODENTIA,Dipodidae,Sicista,Clonomys,Thilesius,1850,NA
+12900063,RODENTIA,Dipodidae,Sicista,Sminthus,Nordmann,1840,"[see Ellerman and Morrison-Scott, 1951]"
+12900078,RODENTIA,Dipodidae,Eozapus,Protozapus,Bachmayer and Wilson,1970,NA
+12900080,RODENTIA,Dipodidae,Napaeozapus,NA,NA,NA,NA
+12900082,RODENTIA,Dipodidae,Zapus,NA,NA,NA,NA
+13000003,RODENTIA,Platacanthomyidae,Platacanthomys,Platyacanthomus,Marschall,1873,[lapsus]
+13000003,RODENTIA,Platacanthomyidae,Platacanthomys,Platyacanthomys,Coues,1890,[lapsus]
+13000005,RODENTIA,Platacanthomyidae,Typhlomys,NA,NA,NA,NA
+13000009,RODENTIA,Spalacidae,Eospalax,Allosiphneus,Kretzoi,1961,NA
+13000009,RODENTIA,Spalacidae,Eospalax,Zokor,Ellerman,1941,NA
+13000013,RODENTIA,Spalacidae,Myospalax,Aspalomys,Gervais,1841,NA
+13000013,RODENTIA,Spalacidae,Myospalax,Episiphneus,Kretzoi,1961,NA
+13000013,RODENTIA,Spalacidae,Myospalax,Myotalpa,Kerr,1792,NA
+13000013,RODENTIA,Spalacidae,Myospalax,Siphneus,Brants,1827,NA
+13000018,RODENTIA,Spalacidae,Cannomys,NA,NA,NA,NA
+13000020,RODENTIA,Spalacidae,Rhizomys,Brachyrhizomys,Teilhard de Chardin,1942,NA
+13000020,RODENTIA,Spalacidae,Rhizomys,Nyctocleptes,Temminck,1832,NA
+13000025,RODENTIA,Spalacidae,Spalax,Anotis,Rafinesque,1815,NA
+13000025,RODENTIA,Spalacidae,Spalax,Aspalax,Desmarest,1804,NA
+13000025,RODENTIA,Spalacidae,Spalax,Glis,Erxleben,1777,"[not Brisson, 1762]"
+13000025,RODENTIA,Spalacidae,Spalax,Macrospalax,Méhely,1909,NA
+13000025,RODENTIA,Spalacidae,Spalax,Mesospalax,Méheley,1909,"[not Nehring, 1897, a nomen nudum]"
+13000025,RODENTIA,Spalacidae,Spalax,Microspalax,Méhely,1909,"[not Nehring, 1898, a nomen nudum preoccupied by Megnin and Trouessart, 1885]"
+13000025,RODENTIA,Spalacidae,Spalax,Myospalax,Hermann,1783,"[not Laxmann, 1769, or Blyth, 1846]"
+13000025,RODENTIA,Spalacidae,Spalax,Nannospalax,Palmer,1903,NA
+13000025,RODENTIA,Spalacidae,Spalax,Ommatostergus,Nordmann,1840,NA
+13000025,RODENTIA,Spalacidae,Spalax,Talpoides,Lacepède,1799,NA
+13000025,RODENTIA,Spalacidae,Spalax,Ujhelyiana,Strand,1922,NA
+13000040,RODENTIA,Spalacidae,Tachyoryctes,Chrysomys,Gray,1843,NA
+13000055,RODENTIA,Calomyscidae,Calomyscus,NA,NA,NA,NA
+13000066,RODENTIA,Nesomyidae,Beamys,NA,NA,NA,NA
+13000069,RODENTIA,Nesomyidae,Cricetomys,NA,NA,NA,NA
+13000074,RODENTIA,Nesomyidae,Saccostomus,Eosaccomys,Palmer,1903,[unjustified replacement name]
+13000078,RODENTIA,Nesomyidae,Delanymys,NA,NA,NA,NA
+13000081,RODENTIA,Nesomyidae,Dendromus,Chortomys,Thomas,1916,NA
+13000081,RODENTIA,Nesomyidae,Dendromus,Dendromys,J. B. Fischer,1830,NA
+13000081,RODENTIA,Nesomyidae,Dendromus,Dendromys,Smuts,1832,NA
+13000081,RODENTIA,Nesomyidae,Dendromus,Poemys,Thomas,1916,NA
+13000094,RODENTIA,Nesomyidae,Dendroprionomys,NA,NA,NA,NA
+13000096,RODENTIA,Nesomyidae,Malacothrix,Otomys,Smith,1834,"[preoccupied by Otomys Cuvier, 1823, a murid]"
+13000098,RODENTIA,Nesomyidae,Megadendromus,NA,NA,NA,NA
+13000100,RODENTIA,Nesomyidae,Prionomys,NA,NA,NA,NA
+13000102,RODENTIA,Nesomyidae,Steatomys,NA,NA,NA,NA
+13000112,RODENTIA,Nesomyidae,Mystromys,NA,NA,NA,NA
+13000115,RODENTIA,Nesomyidae,Brachytarsomys,NA,NA,NA,NA
+13000118,RODENTIA,Nesomyidae,Brachyuromys,NA,NA,NA,NA
+13000121,RODENTIA,Nesomyidae,Eliurus,NA,NA,NA,NA
+13000132,RODENTIA,Nesomyidae,Gymnuromys,NA,NA,NA,NA
+13000134,RODENTIA,Nesomyidae,Hypogeomys,NA,NA,NA,NA
+13000136,RODENTIA,Nesomyidae,Macrotarsomys,NA,NA,NA,NA
+13000139,RODENTIA,Nesomyidae,Monticolomys,NA,NA,NA,NA
+13000141,RODENTIA,Nesomyidae,Nesomys,Hallomys,Jentink,1879,NA
+13000145,RODENTIA,Nesomyidae,Voalavo,NA,NA,NA,NA
+13000148,RODENTIA,Nesomyidae,Petromyscus,NA,NA,NA,NA
+13000155,RODENTIA,Cricetidae,Alticola,Aschizomys,Miller,1899,NA
+13000155,RODENTIA,Cricetidae,Alticola,Platycranius,Kastschenko,1901,NA
+13000171,RODENTIA,Cricetidae,Arborimus,Paraphenacomys,Repenning and Grady,1988,NA
+13000175,RODENTIA,Cricetidae,Arvicola,Alviceola,de Blainville,1817,NA
+13000175,RODENTIA,Cricetidae,Arvicola,Hemiotomys,de Sélys Longchamps,1836,NA
+13000175,RODENTIA,Cricetidae,Arvicola,Ochetomys,Fitzinger,1867,NA
+13000175,RODENTIA,Cricetidae,Arvicola,Paludicola,Blasius,1857,"[not Wagner, 1830, or Hodgson, 1837]"
+13000175,RODENTIA,Cricetidae,Arvicola,Praticola,Fatio,1867,"[not Swainson, 1837]"
+13000179,RODENTIA,Cricetidae,Blanfordimys,NA,NA,NA,NA
+13000182,RODENTIA,Cricetidae,Caryomys,NA,NA,NA,NA
+13000185,RODENTIA,Cricetidae,Chionomys,NA,NA,NA,NA
+13000189,RODENTIA,Cricetidae,Dicrostonyx,NA,NA,NA,NA
+13000198,RODENTIA,Cricetidae,Dinaromys,NA,NA,NA,NA
+13000200,RODENTIA,Cricetidae,Ellobius,Afganomys,Topachevski,1965,NA
+13000200,RODENTIA,Cricetidae,Ellobius,Afghanomys,Baryshnikov and Baranova,1983,NA
+13000200,RODENTIA,Cricetidae,Ellobius,Chthonergus,Nordmann,1839,NA
+13000200,RODENTIA,Cricetidae,Ellobius,Lemmomys,Lesson,1842,NA
+13000200,RODENTIA,Cricetidae,Ellobius,Myospalax,Blyth,1846,"[not Laxmann, 1769, or Hermann, 1783]"
+13000208,RODENTIA,Cricetidae,Eolagurus,NA,NA,NA,NA
+13000211,RODENTIA,Cricetidae,Eothenomys,Anteliomys,Miller,1896,NA
+13000220,RODENTIA,Cricetidae,Hyperacrius,NA,NA,NA,NA
+13000223,RODENTIA,Cricetidae,Lagurus,Eremiomys,Poliakov,1881,NA
+13000223,RODENTIA,Cricetidae,Lagurus,Eremomys,Heude,1898,NA
+13000223,RODENTIA,Cricetidae,Lagurus,Lagurodon,Kretzoi,1956,NA
+13000223,RODENTIA,Cricetidae,Lagurus,Laguropsis,Kretzoi,1956,NA
+13000223,RODENTIA,Cricetidae,Lagurus,Prolagurus,Kormos,1938,NA
+13000225,RODENTIA,Cricetidae,Lasiopodomys,Lemmimicrotus,Tokuda,1941,NA
+13000229,RODENTIA,Cricetidae,Lemmiscus,NA,NA,NA,NA
+13000231,RODENTIA,Cricetidae,Lemmus,Brachyurus,Fischer,1813,NA
+13000231,RODENTIA,Cricetidae,Lemmus,Hypudaeus,Illiger,1811,NA
+13000231,RODENTIA,Cricetidae,Lemmus,Lemnus,Gray,1825,NA
+13000231,RODENTIA,Cricetidae,Lemmus,Lemmus,Rochebrune,1843,NA
+13000231,RODENTIA,Cricetidae,Lemmus,Mirus,Brunner,1938,"[not Albers, 1850]"
+13000231,RODENTIA,Cricetidae,Lemmus,Miromus,Brunner,1951,NA
+13000237,RODENTIA,Cricetidae,Microtus,Agricola,Blasius,1857,NA
+13000237,RODENTIA,Cricetidae,Microtus,Alexandromys,Ognev,1914,NA
+13000237,RODENTIA,Cricetidae,Microtus,Ammomys,Bonaparte,1831,NA
+13000237,RODENTIA,Cricetidae,Microtus,Arbusticola,Shidlovsky,1919,NA
+13000237,RODENTIA,Cricetidae,Microtus,Arvalomys,Chaline,1974,NA
+13000237,RODENTIA,Cricetidae,Microtus,Aulacomys,Rhoads,1894,NA
+13000237,RODENTIA,Cricetidae,Microtus,Bicunedens,Hodgson,1863,NA
+13000237,RODENTIA,Cricetidae,Microtus,Campicola,Schulze,1890,"[not Swainson, 1827]"
+13000237,RODENTIA,Cricetidae,Microtus,Campicoloma,Strand,1928,NA
+13000237,RODENTIA,Cricetidae,Microtus,Chilotus,Baird,1857,NA
+13000237,RODENTIA,Cricetidae,Microtus,Euarvicola,Acloque,1899,NA
+13000237,RODENTIA,Cricetidae,Microtus,Herpetomys,Merriam,1898,NA
+13000237,RODENTIA,Cricetidae,Microtus,Iberomys,Chaline,1972,NA
+13000237,RODENTIA,Cricetidae,Microtus,Isodelta,Cope,1871,NA
+13000237,RODENTIA,Cricetidae,Microtus,Meridiopitymys,Chaline,1974,NA
+13000237,RODENTIA,Cricetidae,Microtus,Micrurus,Major,1877,"[not Ehrenberg, 1831]"
+13000237,RODENTIA,Cricetidae,Microtus,Mynomes,Rafinesque,1817,NA
+13000237,RODENTIA,Cricetidae,Microtus,Oecomicrotus,Rabeder,1981,NA
+13000237,RODENTIA,Cricetidae,Microtus,Orthriomys,Merriam,1898,NA
+13000237,RODENTIA,Cricetidae,Microtus,Pallasiinus,Kretzoi,1964,NA
+13000237,RODENTIA,Cricetidae,Microtus,Parapitymys,Chaline,1978,NA
+13000237,RODENTIA,Cricetidae,Microtus,Pedomys,Baird,1857,NA
+13000237,RODENTIA,Cricetidae,Microtus,Pinemys,Lesson,1836,NA
+13000237,RODENTIA,Cricetidae,Microtus,Pitymys,McMurtrie,1831,NA
+13000237,RODENTIA,Cricetidae,Microtus,Psammomys,Le Conte,1830,"[not Cretzschmar, 1828], Steneocranius Trouessart, 1904"
+13000237,RODENTIA,Cricetidae,Microtus,Stenocranius,Kastschenko,1901,NA
+13000237,RODENTIA,Cricetidae,Microtus,Sumeriomys,Argyropulo,1933,NA
+13000237,RODENTIA,Cricetidae,Microtus,Suranomys,Chaline,1972,NA
+13000237,RODENTIA,Cricetidae,Microtus,Sylvicola,Fatio,1867,"[not Harris, 1782, or Humphrey, 1797]"
+13000237,RODENTIA,Cricetidae,Microtus,Terricola,Fatio,1867,"[not Fleming, 1828]"
+13000237,RODENTIA,Cricetidae,Microtus,Tetramerodon,Rhoads,1894,NA
+13000237,RODENTIA,Cricetidae,Microtus,Tibercola,"Koenigswald, Fejfar, and Tchernov",1992,NA
+13000237,RODENTIA,Cricetidae,Microtus,Tyrrhenicola,Major,1905,NA
+13000307,RODENTIA,Cricetidae,Myodes,Clethrionomys,Tilesius,1850,NA
+13000307,RODENTIA,Cricetidae,Myodes,Craseomys,Miller,1900,NA
+13000307,RODENTIA,Cricetidae,Myodes,Evotomys,Coues,1874,NA
+13000307,RODENTIA,Cricetidae,Myodes,Glareomys,Rasorenova,1952,NA
+13000307,RODENTIA,Cricetidae,Myodes,Neoaschizomys,Tokuda,1935,NA
+13000307,RODENTIA,Cricetidae,Myodes,Phaulomys,Thomas,1905,NA
+13000320,RODENTIA,Cricetidae,Myopus,NA,NA,NA,NA
+13000322,RODENTIA,Cricetidae,Neodon,Bicunedens,Hodgson,1863,NA
+13000327,RODENTIA,Cricetidae,Neofiber,Schistodelta,Cope,1899,NA
+13000329,RODENTIA,Cricetidae,Ondatra,Fiber,G. Cuvier,1800,NA
+13000329,RODENTIA,Cricetidae,Ondatra,Moschomys,Billberg,1827,NA
+13000329,RODENTIA,Cricetidae,Ondatra,Mussacus,Oken,1816,NA
+13000329,RODENTIA,Cricetidae,Ondatra,Neondatra,Hibbard,1937,NA
+13000329,RODENTIA,Cricetidae,Ondatra,Pliopotamys,Wilson,1933,NA
+13000329,RODENTIA,Cricetidae,Ondatra,Simotes,Fischer,1817,NA
+13000331,RODENTIA,Cricetidae,Phaiomys,NA,NA,NA,NA
+13000333,RODENTIA,Cricetidae,Phenacomys,Propliophenacomys,L. D. Martin,1975,NA
+13000336,RODENTIA,Cricetidae,Proedromys,NA,NA,NA,NA
+13000338,RODENTIA,Cricetidae,Prometheomys,NA,NA,NA,NA
+13000340,RODENTIA,Cricetidae,Synaptomys,Kentuckomys,Koenigswald and L. D. Martin,1984,NA
+13000340,RODENTIA,Cricetidae,Synaptomys,Metaxyomys,Zakrzewski,1972,NA
+13000340,RODENTIA,Cricetidae,Synaptomys,Mictomys,True,1894,NA
+13000340,RODENTIA,Cricetidae,Synaptomys,Praesynaptomys,Kowalski,1977,NA
+13000345,RODENTIA,Cricetidae,Volemys,NA,NA,NA,NA
+13000349,RODENTIA,Cricetidae,Allocricetulus,NA,NA,NA,NA
+13000352,RODENTIA,Cricetidae,Cansumys,NA,NA,NA,NA
+13000354,RODENTIA,Cricetidae,Cricetulus,Allocricetus,Schaub,1930,NA
+13000354,RODENTIA,Cricetidae,Cricetulus,Cricetinus,Zdansky,1928,NA
+13000354,RODENTIA,Cricetidae,Cricetulus,Moldavimus,Samson and Radulesco,1973,NA
+13000354,RODENTIA,Cricetidae,Cricetulus,Urocricetus,Satunin,1903,NA
+13000361,RODENTIA,Cricetidae,Cricetus,Hamster,Lacepède,1799,NA
+13000361,RODENTIA,Cricetidae,Cricetus,Heliomys,Gray,1873,NA
+13000363,RODENTIA,Cricetidae,Mesocricetus,Mediocricetus,Nehring,1898,[nomen nudum]
+13000363,RODENTIA,Cricetidae,Mesocricetus,Semicricetus,Nehring,1898,"[nomen nudum , see Pavlinov et al., 1995 a]"
+13000368,RODENTIA,Cricetidae,Phodopus,Cricetiscus,Thomas,1917,NA
+13000372,RODENTIA,Cricetidae,Tscherskia,Asiocricetus,Kishida,1929,NA
+13000375,RODENTIA,Cricetidae,Lophiomys,Phractomys,Peters,1867,NA
+13000375,RODENTIA,Cricetidae,Lophiomys,Phragmomys,Peters,1867,NA
+13000378,RODENTIA,Cricetidae,Baiomys,NA,NA,NA,NA
+13000381,RODENTIA,Cricetidae,Habromys,NA,NA,NA,NA
+13000388,RODENTIA,Cricetidae,Hodomys,NA,NA,NA,NA
+13000390,RODENTIA,Cricetidae,Isthmomys,NA,NA,NA,NA
+13000393,RODENTIA,Cricetidae,Megadontomys,NA,NA,NA,NA
+13000397,RODENTIA,Cricetidae,Nelsonia,NA,NA,NA,NA
+13000400,RODENTIA,Cricetidae,Neotoma,Homodontomys,Goldman,1910,NA
+13000400,RODENTIA,Cricetidae,Neotoma,Parahodomys,Gidley and Gazin,1933,NA
+13000400,RODENTIA,Cricetidae,Neotoma,Parneotoma,Hibbard,1967,NA
+13000400,RODENTIA,Cricetidae,Neotoma,Teanopus,Merriam,1903,NA
+13000400,RODENTIA,Cricetidae,Neotoma,Teonoma,Gray,1843,NA
+13000426,RODENTIA,Cricetidae,Neotomodon,NA,NA,NA,NA
+13000428,RODENTIA,Cricetidae,Ochrotomys,NA,NA,NA,NA
+13000430,RODENTIA,Cricetidae,Onychomys,NA,NA,NA,NA
+13000434,RODENTIA,Cricetidae,Osgoodomys,NA,NA,NA,NA
+13000436,RODENTIA,Cricetidae,Peromyscus,Haplomylomys,Osgood,1904,NA
+13000436,RODENTIA,Cricetidae,Peromyscus,Sitomys,Fitzinger,1867,NA
+13000436,RODENTIA,Cricetidae,Peromyscus,Vesperimus,Coues,1874,NA
+13000436,RODENTIA,Cricetidae,Peromyscus,Trinodontomys,Rhoads,1894,NA
+13000493,RODENTIA,Cricetidae,Podomys,NA,NA,NA,NA
+13000495,RODENTIA,Cricetidae,Reithrodontomys,Aporodon,Howell,1914,NA
+13000495,RODENTIA,Cricetidae,Reithrodontomys,Cudahyomys,Hibbard,1944,NA
+13000495,RODENTIA,Cricetidae,Reithrodontomys,Ochetodon,Coues,1874,NA
+13000518,RODENTIA,Cricetidae,Scotinomys,NA,NA,NA,NA
+13000521,RODENTIA,Cricetidae,Xenomys,NA,NA,NA,NA
+13000524,RODENTIA,Cricetidae,Abrawayaomys,NA,NA,NA,NA
+13000526,RODENTIA,Cricetidae,Abrothrix,Chroeomys,Thomas,1916,NA
+13000526,RODENTIA,Cricetidae,Abrothrix,Habrothrix,Wagner,1843,[misspelling]
+13000536,RODENTIA,Cricetidae,Aepeomys,NA,NA,NA,NA
+13000539,RODENTIA,Cricetidae,Akodon,Acodon,Agassiz,1846,NA
+13000539,RODENTIA,Cricetidae,Akodon,Axodon,Giebel,1855,NA
+13000539,RODENTIA,Cricetidae,Akodon,Chalcomys,Thomas,1916,NA
+13000539,RODENTIA,Cricetidae,Akodon,Hypsimys,Thomas,1918,NA
+13000539,RODENTIA,Cricetidae,Akodon,Microxus,Thomas,1909,NA
+13000539,RODENTIA,Cricetidae,Akodon,Plectomys,Borchert and Hansen,1983,"[nomen nudum as per Hershkovitz, 1990 c]"
+13000584,RODENTIA,Cricetidae,Amphinectomys,NA,NA,NA,NA
+13000586,RODENTIA,Cricetidae,Andalgalomys,NA,NA,NA,NA
+13000590,RODENTIA,Cricetidae,Andinomys,NA,NA,NA,NA
+13000592,RODENTIA,Cricetidae,Anotomys,NA,NA,NA,NA
+13000594,RODENTIA,Cricetidae,Auliscomys,Maresomys,Braun,1993,NA
+13000598,RODENTIA,Cricetidae,Bibimys,NA,NA,NA,NA
+13000602,RODENTIA,Cricetidae,Blarinomys,NA,NA,NA,NA
+13000604,RODENTIA,Cricetidae,Brucepattersonius,NA,NA,NA,NA
+13000613,RODENTIA,Cricetidae,Calomys,Hesperomys,Waterhouse,1839,NA
+13000626,RODENTIA,Cricetidae,Chelemys,NA,NA,NA,NA
+13000630,RODENTIA,Cricetidae,Chibchanomys,NA,NA,NA,NA
+13000633,RODENTIA,Cricetidae,Chilomys,NA,NA,NA,NA
+13000635,RODENTIA,Cricetidae,Chinchillula,NA,NA,NA,NA
+13000637,RODENTIA,Cricetidae,Delomys,NA,NA,NA,NA
+13000641,RODENTIA,Cricetidae,Deltamys,NA,NA,NA,NA
+13000643,RODENTIA,Cricetidae,Eligmodontia,Elimodon,Fitzinger,1867,NA
+13000643,RODENTIA,Cricetidae,Eligmodontia,Eligmodon,Wagner,1841,NA
+13000643,RODENTIA,Cricetidae,Eligmodontia,Heligmodontia,Aggasiz,1846,NA
+13000648,RODENTIA,Cricetidae,Euneomys,Chelemyscus,Thomas,1925,NA
+13000653,RODENTIA,Cricetidae,Galenomys,NA,NA,NA,NA
+13000655,RODENTIA,Cricetidae,Geoxus,NA,NA,NA,NA
+13000657,RODENTIA,Cricetidae,Graomys,Bothriomys,Ameghino,1889,NA
+13000662,RODENTIA,Cricetidae,Handleyomys,NA,NA,NA,NA
+13000665,RODENTIA,Cricetidae,Holochilus,Holochilomys,Brandt,1855,NA
+13000669,RODENTIA,Cricetidae,Ichthyomys,NA,NA,NA,NA
+13000674,RODENTIA,Cricetidae,Irenomys,NA,NA,NA,NA
+13000676,RODENTIA,Cricetidae,Juliomys,NA,NA,NA,NA
+13000679,RODENTIA,Cricetidae,Juscelinomys,NA,NA,NA,NA
+13000683,RODENTIA,Cricetidae,Kunsia,NA,NA,NA,NA
+13000686,RODENTIA,Cricetidae,Lenoxus,NA,NA,NA,NA
+13000688,RODENTIA,Cricetidae,Loxodontomys,NA,NA,NA,NA
+13000691,RODENTIA,Cricetidae,Lundomys,NA,NA,NA,NA
+13000693,RODENTIA,Cricetidae,Megalomys,Moschomys,Trouessart,1903,"[unnecessary substitute for Megalomys , not Moschomys Billberg, 1827 = Ondatra]"
+13000693,RODENTIA,Cricetidae,Megalomys,Moschophoromys,Elliot,1904,[unnecessary substitute for Moschomys]
+13000696,RODENTIA,Cricetidae,Megaoryzomys,NA,NA,NA,NA
+13000698,RODENTIA,Cricetidae,Melanomys,NA,NA,NA,NA
+13000702,RODENTIA,Cricetidae,Microakodontomys,NA,NA,NA,NA
+13000704,RODENTIA,Cricetidae,Microryzomys,Thallomyscus,Thomas,1926,NA
+13000707,RODENTIA,Cricetidae,Neacomys,NA,NA,NA,NA
+13000716,RODENTIA,Cricetidae,Necromys,Bolomys,Thomas,1916,NA
+13000716,RODENTIA,Cricetidae,Necromys,Cabreramys,Massoia and Fornes,1967,NA
+13000726,RODENTIA,Cricetidae,Nectomys,Potamys,Liais,1872,NA
+13000732,RODENTIA,Cricetidae,Neotomys,NA,NA,NA,NA
+13000734,RODENTIA,Cricetidae,Nesoryzomys,NA,NA,NA,NA
+13000739,RODENTIA,Cricetidae,Neusticomys,Daptomys,Anthony,1929,NA
+13000745,RODENTIA,Cricetidae,Noronhomys,NA,NA,NA,NA
+13000747,RODENTIA,Cricetidae,Notiomys,NA,NA,NA,NA
+13000749,RODENTIA,Cricetidae,Oecomys,NA,NA,NA,NA
+13000765,RODENTIA,Cricetidae,Oligoryzomys,NA,NA,NA,NA
+13000784,RODENTIA,Cricetidae,Oryzomys,Macruroryzomys,Hershkovitz,1948,[nomen nudum]
+13000784,RODENTIA,Cricetidae,Oryzomys,Micronectomys,Hershkovitz,1948,[nomen nudum]
+13000828,RODENTIA,Cricetidae,Oxymycterus,NA,NA,NA,NA
+13000845,RODENTIA,Cricetidae,Paralomys,NA,NA,NA,NA
+13000847,RODENTIA,Cricetidae,Pearsonomys,NA,NA,NA,NA
+13000849,RODENTIA,Cricetidae,Phaenomys,NA,NA,NA,NA
+13000851,RODENTIA,Cricetidae,Phyllotis,NA,NA,NA,NA
+13000865,RODENTIA,Cricetidae,Podoxymys,NA,NA,NA,NA
+13000867,RODENTIA,Cricetidae,Pseudoryzomys,NA,NA,NA,NA
+13000869,RODENTIA,Cricetidae,Punomys,NA,NA,NA,NA
+13000872,RODENTIA,Cricetidae,Reithrodon,Proreithrodon,Ameghino,1889,NA
+13000872,RODENTIA,Cricetidae,Reithrodon,Ptyssophorus,Ameghino,1889,NA
+13000872,RODENTIA,Cricetidae,Reithrodon,Tretomys,Ameghino,1889,NA
+13000875,RODENTIA,Cricetidae,Rhagomys,NA,NA,NA,NA
+13000878,RODENTIA,Cricetidae,Rheomys,Neorheomys,Goodwin,1959,NA
+13000883,RODENTIA,Cricetidae,Rhipidomys,NA,NA,NA,NA
+13000901,RODENTIA,Cricetidae,Salinomys,NA,NA,NA,NA
+13000903,RODENTIA,Cricetidae,Scapteromys,NA,NA,NA,NA
+13000906,RODENTIA,Cricetidae,Scolomys,NA,NA,NA,NA
+13000909,RODENTIA,Cricetidae,Sigmodon,Deilemys,Saussure,1860,NA
+13000909,RODENTIA,Cricetidae,Sigmodon,Lasiomys,Burmeister,1854,NA
+13000909,RODENTIA,Cricetidae,Sigmodon,Sigmomys,Thomas,1901,NA
+13000926,RODENTIA,Cricetidae,Sigmodontomys,NA,NA,NA,NA
+13000929,RODENTIA,Cricetidae,Tapecomys,NA,NA,NA,NA
+13000931,RODENTIA,Cricetidae,Thalpomys,NA,NA,NA,NA
+13000934,RODENTIA,Cricetidae,Thaptomys,NA,NA,NA,NA
+13000936,RODENTIA,Cricetidae,Thomasomys,Erioryzomys,Bangs,1900,NA
+13000936,RODENTIA,Cricetidae,Thomasomys,Inomys,Thomas,1917,NA
+13000973,RODENTIA,Cricetidae,Wiedomys,NA,NA,NA,NA
+13000975,RODENTIA,Cricetidae,Wilfredomys,NA,NA,NA,NA
+13000977,RODENTIA,Cricetidae,Zygodontomys,NA,NA,NA,NA
+13000981,RODENTIA,Cricetidae,Nyctomys,NA,NA,NA,NA
+13000983,RODENTIA,Cricetidae,Otonyctomys,NA,NA,NA,NA
+13000985,RODENTIA,Cricetidae,Ototylomys,NA,NA,NA,NA
+13000987,RODENTIA,Cricetidae,Tylomys,NA,NA,NA,NA
+13000997,RODENTIA,Muridae,Acomys,Acanthomys,Lesson,1842,"[not Gray, 1867, or Tokuda, 1941]"
+13000997,RODENTIA,Muridae,Acomys,Acosminthus,Gloger,1841,NA
+13000997,RODENTIA,Muridae,Acomys,Peracomys,F. Petter and Roche,1981,NA
+13000997,RODENTIA,Muridae,Acomys,Subacomys,"Denys, Gautun, Tranier, and Volobouev",1994,NA
+13001020,RODENTIA,Muridae,Deomys,NA,NA,NA,NA
+13001022,RODENTIA,Muridae,Lophuromys,Kivumys,Dieterlen,1987,NA
+13001022,RODENTIA,Muridae,Lophuromys,Lasiomys,Peters,1866,"[not Burmeister, 1854]"
+13001022,RODENTIA,Muridae,Lophuromys,Neanthomys,Toschi,1946,NA
+13001046,RODENTIA,Muridae,Uranomys,NA,NA,NA,NA
+13001049,RODENTIA,Muridae,Ammodillus,NA,NA,NA,NA
+13001051,RODENTIA,Muridae,Brachiones,NA,NA,NA,NA
+13001053,RODENTIA,Muridae,Desmodilliscus,NA,NA,NA,NA
+13001055,RODENTIA,Muridae,Desmodillus,NA,NA,NA,NA
+13001057,RODENTIA,Muridae,Dipodillus,Petteromys,Pavlinov,1982,NA
+13001073,RODENTIA,Muridae,Gerbilliscus,Taterona,Wroughton,1917,NA
+13001087,RODENTIA,Muridae,Gerbillurus,Paratatera,Petter,1983,NA
+13001087,RODENTIA,Muridae,Gerbillurus,Progerbillurus,Pavlinov,1982,NA
+13001095,RODENTIA,Muridae,Gerbillus,Endecapleura,Lataste,1882,NA
+13001095,RODENTIA,Muridae,Gerbillus,Hendecapleura,Lataste,1894,NA
+13001095,RODENTIA,Muridae,Gerbillus,Monodia,Heim de Balsac,1943,NA
+13001136,RODENTIA,Muridae,Meriones,Cheliones,Thomas,1919,NA
+13001136,RODENTIA,Muridae,Meriones,Idomeneus,Schultze,1900,NA
+13001136,RODENTIA,Muridae,Meriones,Meraeus,Billberg,1828,[nomen nudum]
+13001136,RODENTIA,Muridae,Meriones,Pallasiomys,Heptner,1933,NA
+13001136,RODENTIA,Muridae,Meriones,Parameriones,Heptner,1937,"[not Tchernov and Chetboun, 1984]"
+13001158,RODENTIA,Muridae,Microdillus,NA,NA,NA,NA
+13001160,RODENTIA,Muridae,Pachyuromys,NA,NA,NA,NA
+13001162,RODENTIA,Muridae,Psammomys,Parameriones,Tchernov and Chetboun,1984,"[not of Heptner, 1937]"
+13001165,RODENTIA,Muridae,Rhombomys,Amphiaulacomys,Lataste,1882,NA
+13001165,RODENTIA,Muridae,Rhombomys,Pliorhombomys,Fokanov,1964,[nomen nudum]
+13001165,RODENTIA,Muridae,Rhombomys,Pliorhombomys,Fokanov,1976,NA
+13001167,RODENTIA,Muridae,Sekeetamys,NA,NA,NA,NA
+13001169,RODENTIA,Muridae,Tatera,NA,NA,NA,NA
+13001171,RODENTIA,Muridae,Taterillus,Taterina,Wettstein,1916,NA
+13001182,RODENTIA,Muridae,Leimacomys,Limacomys,Lydekker,1894,"[see Rosevear, 1969:487]"
+13001185,RODENTIA,Muridae,Abditomys,NA,NA,NA,NA
+13001187,RODENTIA,Muridae,Abeomelomys,NA,NA,NA,NA
+13001189,RODENTIA,Muridae,Aethomys,NA,NA,NA,NA
+13001199,RODENTIA,Muridae,Anisomys,NA,NA,NA,NA
+13001201,RODENTIA,Muridae,Anonymomys,NA,NA,NA,NA
+13001203,RODENTIA,Muridae,Apodemus,Alsomys,Dukelski,1928,NA
+13001203,RODENTIA,Muridae,Apodemus,Karstomys,Martino,1939,NA
+13001203,RODENTIA,Muridae,Apodemus,Nemomys,Thomas,1924,NA
+13001203,RODENTIA,Muridae,Apodemus,Petromys,Martino,1934,NA
+13001203,RODENTIA,Muridae,Apodemus,Sylvaemus,Ognev,1924,NA
+13001224,RODENTIA,Muridae,Apomys,NA,NA,NA,NA
+13001234,RODENTIA,Muridae,Archboldomys,NA,NA,NA,NA
+13001237,RODENTIA,Muridae,Arvicanthis,Isomys,Sundevall,1843,NA
+13001245,RODENTIA,Muridae,Bandicota,Gunomys,Thomas,1907,NA
+13001249,RODENTIA,Muridae,Batomys,Mindanaomys,Sanborn,1953,NA
+13001254,RODENTIA,Muridae,Berylmys,NA,NA,NA,NA
+13001259,RODENTIA,Muridae,Bullimus,NA,NA,NA,NA
+13001263,RODENTIA,Muridae,Bunomys,Bunomys,Grandidier,1905,"[not Thomas, 1910]"
+13001263,RODENTIA,Muridae,Bunomys,Frateromys,Sody,1941,NA
+13001270,RODENTIA,Muridae,Carpomys,NA,NA,NA,NA
+13001273,RODENTIA,Muridae,Chiromyscus,NA,NA,NA,NA
+13001275,RODENTIA,Muridae,Chiropodomys,Insulaemus,Taylor,1934,NA
+13001282,RODENTIA,Muridae,Chiruromys,NA,NA,NA,NA
+13001286,RODENTIA,Muridae,Chrotomys,Celaenomys,Thomas,1898,NA
+13001291,RODENTIA,Muridae,Coccymys,NA,NA,NA,NA
+13001294,RODENTIA,Muridae,Colomys,NA,NA,NA,NA
+13001296,RODENTIA,Muridae,Conilurus,Conylurus,Ogilby,1837,NA
+13001296,RODENTIA,Muridae,Conilurus,Hapalotis,Lichtenstein,1829,NA
+13001299,RODENTIA,Muridae,Coryphomys,NA,NA,NA,NA
+13001301,RODENTIA,Muridae,Crateromys,NA,NA,NA,NA
+13001306,RODENTIA,Muridae,Cremnomys,NA,NA,NA,NA
+13001309,RODENTIA,Muridae,Crossomys,NA,NA,NA,NA
+13001311,RODENTIA,Muridae,Crunomys,NA,NA,NA,NA
+13001316,RODENTIA,Muridae,Dacnomys,NA,NA,NA,NA
+13001318,RODENTIA,Muridae,Dasymys,NA,NA,NA,NA
+13001328,RODENTIA,Muridae,Dephomys,NA,NA,NA,NA
+13001331,RODENTIA,Muridae,Desmomys,NA,NA,NA,NA
+13001334,RODENTIA,Muridae,Diomys,NA,NA,NA,NA
+13001336,RODENTIA,Muridae,Diplothrix,NA,NA,NA,NA
+13001338,RODENTIA,Muridae,Echiothrix,Craurothrix,Thomas,1896,NA
+13001341,RODENTIA,Muridae,Eropeplus,NA,NA,NA,NA
+13001343,RODENTIA,Muridae,Golunda,NA,NA,NA,NA
+13001345,RODENTIA,Muridae,Grammomys,NA,NA,NA,NA
+13001358,RODENTIA,Muridae,Hadromys,NA,NA,NA,NA
+13001361,RODENTIA,Muridae,Haeromys,NA,NA,NA,NA
+13001365,RODENTIA,Muridae,Hapalomys,NA,NA,NA,NA
+13001368,RODENTIA,Muridae,Heimyscus,NA,NA,NA,NA
+13001370,RODENTIA,Muridae,Hybomys,Typomys,Thomas,1911,NA
+13001379,RODENTIA,Muridae,Hydromys,Baiyankamys,Hinton,1943,NA
+13001385,RODENTIA,Muridae,Hylomyscus,NA,NA,NA,NA
+13001394,RODENTIA,Muridae,Hyomys,NA,NA,NA,NA
+13001397,RODENTIA,Muridae,Kadarsanomys,NA,NA,NA,NA
+13001399,RODENTIA,Muridae,Komodomys,NA,NA,NA,NA
+13001401,RODENTIA,Muridae,Lamottemys,NA,NA,NA,NA
+13001403,RODENTIA,Muridae,Leggadina,NA,NA,NA,NA
+13001406,RODENTIA,Muridae,Lemniscomys,NA,NA,NA,NA
+13001418,RODENTIA,Muridae,Lenomys,NA,NA,NA,NA
+13001420,RODENTIA,Muridae,Lenothrix,NA,NA,NA,NA
+13001422,RODENTIA,Muridae,Leopoldamys,NA,NA,NA,NA
+13001429,RODENTIA,Muridae,Leporillus,NA,NA,NA,NA
+13001432,RODENTIA,Muridae,Leptomys,NA,NA,NA,NA
+13001436,RODENTIA,Muridae,Limnomys,NA,NA,NA,NA
+13001439,RODENTIA,Muridae,Lorentzimys,NA,NA,NA,NA
+13001441,RODENTIA,Muridae,Macruromys,NA,NA,NA,NA
+13001444,RODENTIA,Muridae,Madromys,NA,NA,NA,NA
+13001446,RODENTIA,Muridae,Malacomys,NA,NA,NA,NA
+13001450,RODENTIA,Muridae,Mallomys,Dendrosminthus,de Vis,1907,NA
+13001455,RODENTIA,Muridae,Malpaisomys,NA,NA,NA,NA
+13001457,RODENTIA,Muridae,Mammelomys,NA,NA,NA,NA
+13001460,RODENTIA,Muridae,Margaretamys,NA,NA,NA,NA
+13001464,RODENTIA,Muridae,Mastacomys,NA,NA,NA,NA
+13001466,RODENTIA,Muridae,Mastomys,Myomys,Thomas,1915,NA
+13001475,RODENTIA,Muridae,Maxomys,NA,NA,NA,NA
+13001493,RODENTIA,Muridae,Melasmothrix,NA,NA,NA,NA
+13001495,RODENTIA,Muridae,Melomys,NA,NA,NA,NA
+13001519,RODENTIA,Muridae,Mesembriomys,Ammomys,Thomas,1906,"[not Bonaparte, 1831]"
+13001522,RODENTIA,Muridae,Micaelamys,NA,NA,NA,NA
+13001525,RODENTIA,Muridae,Microhydromys,NA,NA,NA,NA
+13001528,RODENTIA,Muridae,Micromys,NA,NA,NA,NA
+13001530,RODENTIA,Muridae,Millardia,Grypomys,Thomas,1911,NA
+13001530,RODENTIA,Muridae,Millardia,Guyia,Thomas,1917,NA
+13001530,RODENTIA,Muridae,Millardia,Millardomys,Sody,1941,NA
+13001535,RODENTIA,Muridae,Muriculus,NA,NA,NA,NA
+13001537,RODENTIA,Muridae,Mus,Budamys,Kretzoi and Vertes,1967,NA
+13001537,RODENTIA,Muridae,Mus,Coelomys,Thomas,1915,NA
+13001537,RODENTIA,Muridae,Mus,Drymomys,Tschudi,1844,NA
+13001537,RODENTIA,Muridae,Mus,Gatamiya,Deraniyagala,1966,NA
+13001537,RODENTIA,Muridae,Mus,Hylenomys,Thomas,1925,NA
+13001537,RODENTIA,Muridae,Mus,Leggada,Gray,1837,NA
+13001537,RODENTIA,Muridae,Mus,Leggadilla,Thomas,1914,NA
+13001537,RODENTIA,Muridae,Mus,Musculus,Rafinesque,1814,NA
+13001537,RODENTIA,Muridae,Mus,Mycteromys,Robinson and Kloss,1918,NA
+13001537,RODENTIA,Muridae,Mus,Nannomys,Peters,1876,NA
+13001537,RODENTIA,Muridae,Mus,Oromys,Robinson and Kloss,1916,"[not Leidy, 1853]"
+13001537,RODENTIA,Muridae,Mus,Pseudoconomys,Rhoads,1896,NA
+13001537,RODENTIA,Muridae,Mus,Pyromys,Thomas,1911,NA
+13001537,RODENTIA,Muridae,Mus,Tautatus,Kloss,1917,NA
+13001585,RODENTIA,Muridae,Mylomys,NA,NA,NA,NA
+13001588,RODENTIA,Muridae,Myomyscus,NA,NA,NA,NA
+13001593,RODENTIA,Muridae,Nesokia,Erythronesokia,Khajuria,1981,NA
+13001593,RODENTIA,Muridae,Nesokia,Nesocia,Blanford,1891,NA
+13001593,RODENTIA,Muridae,Nesokia,Spalacomys,Peters,1860,NA
+13001596,RODENTIA,Muridae,Nesoromys,NA,NA,NA,NA
+13001598,RODENTIA,Muridae,Nilopegamys,NA,NA,NA,NA
+13001600,RODENTIA,Muridae,Niviventer,NA,NA,NA,NA
+13001618,RODENTIA,Muridae,Notomys,Ascopharynx,Waite,1900,NA
+13001618,RODENTIA,Muridae,Notomys,Podanomalus,Waite,1898,NA
+13001618,RODENTIA,Muridae,Notomys,Thylacomys,Waite,1898,NA
+13001628,RODENTIA,Muridae,Oenomys,Aenomys,Kershaw,1923,NA
+13001631,RODENTIA,Muridae,Palawanomys,NA,NA,NA,NA
+13001633,RODENTIA,Muridae,Papagomys,NA,NA,NA,NA
+13001636,RODENTIA,Muridae,Parahydromys,Drosomys,Thomas,1906,NA
+13001636,RODENTIA,Muridae,Parahydromys,Limnomys,Thomas,1906,"[not Mearns, 1905]"
+13001638,RODENTIA,Muridae,Paraleptomys,NA,NA,NA,NA
+13001641,RODENTIA,Muridae,Paramelomys,NA,NA,NA,NA
+13001651,RODENTIA,Muridae,Paruromys,NA,NA,NA,NA
+13001653,RODENTIA,Muridae,Paulamys,Floresomys,Musser,1981,"[not Fries et al., 1955]"
+13001655,RODENTIA,Muridae,Pelomys,Komemys,De Beaux,1924,NA
+13001661,RODENTIA,Muridae,Phloeomys,NA,NA,NA,NA
+13001664,RODENTIA,Muridae,Pithecheir,Pithechir,Müller,1840,"[nomen nudum , see Ellerman and Morrison-Scott, 1951, and Corbet and Hill, 1992]"
+13001667,RODENTIA,Muridae,Pithecheirops,NA,NA,NA,NA
+13001669,RODENTIA,Muridae,Pogonomelomys,NA,NA,NA,NA
+13001672,RODENTIA,Muridae,Pogonomys,NA,NA,NA,NA
+13001678,RODENTIA,Muridae,Praomys,Berberomys,Jaeger,1975,NA
+13001695,RODENTIA,Muridae,Protochromys,NA,NA,NA,NA
+13001697,RODENTIA,Muridae,Pseudohydromys,Mayermys,Laurie and Hill,1954,NA
+13001697,RODENTIA,Muridae,Pseudohydromys,Neohydromys,Laurie,1952,NA
+13001702,RODENTIA,Muridae,Pseudomys,Gyomys,Thomas,1910,NA
+13001702,RODENTIA,Muridae,Pseudomys,Paraleporillus,Martinez and Lidicker,1971,NA
+13001702,RODENTIA,Muridae,Pseudomys,Thetomys,Thomas,1910,NA
+13001727,RODENTIA,Muridae,Rattus,Acanthomys,Gray,1867,"[not Lesson, 1842, or Tokuda, 1941]"
+13001727,RODENTIA,Muridae,Rattus,Christomys,Sody,1941,NA
+13001727,RODENTIA,Muridae,Rattus,Cironomys,Sody,1941,NA
+13001727,RODENTIA,Muridae,Rattus,Epimys,Trouessart,1881,NA
+13001727,RODENTIA,Muridae,Rattus,Geromys,Sody,1941,NA
+13001727,RODENTIA,Muridae,Rattus,Mollicomys,Sody,1941,NA
+13001727,RODENTIA,Muridae,Rattus,Octomys,Sody,1941,"[not Thomas, 1922]"
+13001727,RODENTIA,Muridae,Rattus,Pullomys,Sody,1941,NA
+13001727,RODENTIA,Muridae,Rattus,Rattus,Frisch,1775,NA
+13001727,RODENTIA,Muridae,Rattus,Stenomys,Thomas,1910,NA
+13001727,RODENTIA,Muridae,Rattus,Togomys,Dieterlen,1989,NA
+13001794,RODENTIA,Muridae,Rhabdomys,NA,NA,NA,NA
+13001797,RODENTIA,Muridae,Rhagamys,NA,NA,NA,NA
+13001799,RODENTIA,Muridae,Rhynchomys,NA,NA,NA,NA
+13001802,RODENTIA,Muridae,Solomys,Unicomys,Troughton,1935,NA
+13001808,RODENTIA,Muridae,Sommeromys,NA,NA,NA,NA
+13001810,RODENTIA,Muridae,Spelaeomys,NA,NA,NA,NA
+13001812,RODENTIA,Muridae,Srilankamys,NA,NA,NA,NA
+13001814,RODENTIA,Muridae,Stenocephalemys,NA,NA,NA,NA
+13001819,RODENTIA,Muridae,Stochomys,NA,NA,NA,NA
+13001821,RODENTIA,Muridae,Sundamys,NA,NA,NA,NA
+13001825,RODENTIA,Muridae,Taeromys,Arcuomys,Sody,1941,NA
+13001833,RODENTIA,Muridae,Tarsomys,NA,NA,NA,NA
+13001836,RODENTIA,Muridae,Tateomys,NA,NA,NA,NA
+13001839,RODENTIA,Muridae,Thallomys,NA,NA,NA,NA
+13001844,RODENTIA,Muridae,Thamnomys,NA,NA,NA,NA
+13001848,RODENTIA,Muridae,Tokudaia,Acanthomys,Tokuda,1941,"[not Lesson, 1842, or Gray, 1867]"
+13001848,RODENTIA,Muridae,Tokudaia,Tokudamys,Johnson,1943,NA
+13001851,RODENTIA,Muridae,Tryphomys,NA,NA,NA,NA
+13001853,RODENTIA,Muridae,Uromys,Cyromys,Thomas,1910,NA
+13001853,RODENTIA,Muridae,Uromys,Gymnomys,Gray,1867,NA
+13001853,RODENTIA,Muridae,Uromys,Melanomys,Winter,1983,"[not Thomas, 1902]"
+13001866,RODENTIA,Muridae,Vandeleuria,NA,NA,NA,NA
+13001870,RODENTIA,Muridae,Vernaya,Octopodomys,Sody,1941,NA
+13001872,RODENTIA,Muridae,Xenuromys,NA,NA,NA,NA
+13001874,RODENTIA,Muridae,Xeromys,NA,NA,NA,NA
+13001876,RODENTIA,Muridae,Zelotomys,Ochromys,Thomas,1920,NA
+13001879,RODENTIA,Muridae,Zyzomys,Laomys,Thomas,1909,NA
+13001886,RODENTIA,Muridae,Myotomys,Metotomys,Broom,1937,NA
+13001889,RODENTIA,Muridae,Otomys,Anchotomys,Thomas,1918,NA
+13001889,RODENTIA,Muridae,Otomys,Euryotis,Brants,1827,NA
+13001889,RODENTIA,Muridae,Otomys,Lamotomys,Thomas,1918,NA
+13001889,RODENTIA,Muridae,Otomys,Oreinomys,Trouessart,1880,[replacement name for Oreomys]
+13001889,RODENTIA,Muridae,Otomys,Oreomys,Heuglin,1877,NA
+13001889,RODENTIA,Muridae,Otomys,Palaeotomys,Broom,1937,NA
+13001889,RODENTIA,Muridae,Otomys,Prototomys,Broom,1948,NA
+13001909,RODENTIA,Muridae,Parotomys,Liotomys,Thomas,1918,NA
+13100004,RODENTIA,Anomaluridae,Anomalurus,Anomalurella,Matschie,1914,NA
+13100004,RODENTIA,Anomaluridae,Anomalurus,Anomalurops,Matschie,1914,NA
+13100004,RODENTIA,Anomaluridae,Anomalurus,Aroaethrus,Waterhouse,1843,NA
+13100012,RODENTIA,Anomaluridae,Idiurus,NA,NA,NA,NA
+13100015,RODENTIA,Anomaluridae,Zenkerella,Aethurus,de Winton,1898,NA
+13200002,RODENTIA,Pedetidae,Pedetes,Helamis,G. Cuvier,1821,NA
+13200002,RODENTIA,Pedetidae,Pedetes,Helamys,G. Cuvier,1816,[variant]
+13200002,RODENTIA,Pedetidae,Pedetes,Pedestes,Gray,1843,[lapsus cal.]
+13200002,RODENTIA,Pedetidae,Pedetes,Yerbua,Forster,1778,NA
+13300004,RODENTIA,Ctenodactylidae,Ctenodactylus,NA,NA,NA,NA
+13300007,RODENTIA,Ctenodactylidae,Felovia,NA,NA,NA,NA
+13300009,RODENTIA,Ctenodactylidae,Massoutiera,NA,NA,NA,NA
+13300011,RODENTIA,Ctenodactylidae,Pectinator,Petrobates,Heuglin,1860,NA
+13400004,RODENTIA,Bathyergidae,Bathyergus,Orycterus,Cuvier,1829,NA
+13400007,RODENTIA,Bathyergidae,Cryptomys,Coetomys,Gray,1864,NA
+13400007,RODENTIA,Bathyergidae,Cryptomys,Typhloryctes,Fitzinger,1867,NA
+13400026,RODENTIA,Bathyergidae,Georychus,Fossor,Lichtenstein,1844,NA
+13400026,RODENTIA,Bathyergidae,Georychus,Georhychus,Wagner,1843,NA
+13400026,RODENTIA,Bathyergidae,Georychus,Georrychus,Minding,1829,NA
+13400028,RODENTIA,Bathyergidae,Heliophobius,Myoscalops,Thomas,1890,NA
+13400040,RODENTIA,Bathyergidae,Heterocephalus,Fornarina,Thomas,1903,NA
+13400043,RODENTIA,Hystricidae,Atherurus,NA,NA,NA,NA
+13400046,RODENTIA,Hystricidae,Hystrix,Acanthion,Cuvier,1823,NA
+13400046,RODENTIA,Hystricidae,Hystrix,Acanthochoerus,Gray,1866,NA
+13400046,RODENTIA,Hystricidae,Hystrix,Oedocephalus,Gray,1866,"[see Allen, 1939]"
+13400046,RODENTIA,Hystricidae,Hystrix,Thecurus,Lyon,1907,NA
+13400065,RODENTIA,Hystricidae,Trichys,NA,NA,NA,NA
+13400068,RODENTIA,Petromuridae,Petromus,Petromys,A. Smith,1834,NA
+13400086,RODENTIA,Thryonomyidae,Thryonomys,Aulacodus,Temminck,1827,"[preoccupied by Aulacodus Eschscholtz, 1822, a genus of Coleoptera]"
+13400086,RODENTIA,Thryonomyidae,Thryonomys,Choeromys,Thomas,1922,NA
+13400086,RODENTIA,Thryonomyidae,Thryonomys,Triaulacodus,Lydekker,1896,NA
+13400093,RODENTIA,Erethizontidae,Chaetomys,Plectrochorerus,Pictet,1843,NA
+13400096,RODENTIA,Erethizontidae,Coendou,Coandu,Fischer,1814,NA
+13400096,RODENTIA,Erethizontidae,Coendou,Coendu,Lesson,1827,NA
+13400096,RODENTIA,Erethizontidae,Coendou,Coendus,Geoffroy,1803,NA
+13400096,RODENTIA,Erethizontidae,Coendou,Cuandu,Liais,1872,NA
+13400105,RODENTIA,Erethizontidae,Echinoprocta,NA,NA,NA,NA
+13400107,RODENTIA,Erethizontidae,Erethizon,Erethison,Cuvier,1829,NA
+13400107,RODENTIA,Erethizontidae,Erethizon,Eretison,McMurtrie,1831,NA
+13400107,RODENTIA,Erethizontidae,Erethizon,Eretizon,Cuvier,1825,NA
+13400107,RODENTIA,Erethizontidae,Erethizon,Erithizon,Burnett,1830,NA
+13400107,RODENTIA,Erethizontidae,Erethizon,Erythizon,Alston,1876,NA
+13400116,RODENTIA,Erethizontidae,Sphiggurus,Cercolabes,Brandt,1835,NA
+13400116,RODENTIA,Erethizontidae,Sphiggurus,Sinethere,F. Cuvier,1822,NA
+13400116,RODENTIA,Erethizontidae,Sphiggurus,Sinotherus,F. Cuvier,1825,NA
+13400116,RODENTIA,Erethizontidae,Sphiggurus,Synetheres,G. Cuvier,1829,NA
+13400130,RODENTIA,Chinchillidae,Chinchilla,Eriomys,Lichtenstein,1829,NA
+13400135,RODENTIA,Chinchillidae,Lagidium,Lagotis,Bennett,1833,NA
+13400159,RODENTIA,Chinchillidae,Lagostomus,Lagostomopsis,Kraglievich,1926,NA
+13400159,RODENTIA,Chinchillidae,Lagostomus,Viscaccia,Schinz,1825,"[not Oken, 1816]"
+13400166,RODENTIA,Dinomyidae,Dinomys,NA,NA,NA,NA
+13400170,RODENTIA,Caviidae,Cavia,Anoema,F. Cuvier,1809,NA
+13400170,RODENTIA,Caviidae,Cavia,Cauia,Storr,1780,NA
+13400170,RODENTIA,Caviidae,Cavia,Cobaia,Aymard,1854,NA
+13400170,RODENTIA,Caviidae,Cavia,Cobaya,G. Cuvier,1817,NA
+13400170,RODENTIA,Caviidae,Cavia,Coiza,Billberg,1828,NA
+13400170,RODENTIA,Caviidae,Cavia,Mamcaviaus,Herrera,1899,NA
+13400189,RODENTIA,Caviidae,Galea,NA,NA,NA,NA
+13400201,RODENTIA,Caviidae,Microcavia,Caviella,Osgood,1915,NA
+13400201,RODENTIA,Caviidae,Microcavia,Monticavia,Thomas,1916,NA
+13400201,RODENTIA,Caviidae,Microcavia,Nanocavia,Thomas,1925,NA
+13400211,RODENTIA,Caviidae,Dolichotis,Chloromys,Desmoulins,1823,NA
+13400211,RODENTIA,Caviidae,Dolichotis,Lagospedius,Marelli,1928,NA
+13400211,RODENTIA,Caviidae,Dolichotis,Mara,d'Orbigny,1829,NA
+13400211,RODENTIA,Caviidae,Dolichotis,Pediolagus,Marelli,1927,NA
+13400217,RODENTIA,Caviidae,Hydrochoeris,Capibara,Moussy,1860,NA
+13400217,RODENTIA,Caviidae,Hydrochoeris,Capiguara,Liais,1872,NA
+13400217,RODENTIA,Caviidae,Hydrochoeris,Hydrochaeris,Brunnich,1772,NA
+13400217,RODENTIA,Caviidae,Hydrochoeris,Hydrochaerus,Erxleben,1777,NA
+13400217,RODENTIA,Caviidae,Hydrochoeris,Hydrocheirus,Hollande and Batisse,1959,NA
+13400217,RODENTIA,Caviidae,Hydrochoeris,Hydrocherus,F. Cuvier,1829,NA
+13400217,RODENTIA,Caviidae,Hydrochoeris,Hydrochoerus,Wagler,1830,NA
+13400217,RODENTIA,Caviidae,Hydrochoeris,Xenohydrochoerus,Rusconi,1934,NA
+13400220,RODENTIA,Caviidae,Kerodon,Cerodon,Waterhouse,1848,NA
+13400220,RODENTIA,Caviidae,Kerodon,Kerodons,F. Cuvier,1829,NA
+13400224,RODENTIA,Dasyproctidae,Dasyprocta,Chloromys,Lesson,1927,NA
+13400224,RODENTIA,Dasyproctidae,Dasyprocta,Cloromis,Cuvier,1812,NA
+13400224,RODENTIA,Dasyproctidae,Dasyprocta,Mamdasyproctaus,Herrera,1899,NA
+13400265,RODENTIA,Dasyproctidae,Myoprocta,NA,NA,NA,NA
+13400269,RODENTIA,Cuniculidae,Cuniculus,Agouti,Lacépède,1799,NA
+13400269,RODENTIA,Cuniculidae,Cuniculus,Caelogenus,Fleming,1822,NA
+13400269,RODENTIA,Cuniculidae,Cuniculus,Caelogenys,Agassiz,1842,NA
+13400269,RODENTIA,Cuniculidae,Cuniculus,Coelogenus,Cuvier,1807,NA
+13400269,RODENTIA,Cuniculidae,Cuniculus,Coelogenys,Illiger,1811,NA
+13400269,RODENTIA,Cuniculidae,Cuniculus,Mamcoelogenysus,Herrera,1899,NA
+13400269,RODENTIA,Cuniculidae,Cuniculus,Osteopera,Harlan,1825,NA
+13400269,RODENTIA,Cuniculidae,Cuniculus,Paca,Fischer,1814,NA
+13400269,RODENTIA,Cuniculidae,Cuniculus,Stictomys,Thomas,1924,NA
+13400278,RODENTIA,Ctenomyidae,Ctenomys,Chacomys,Osgood,1946,NA
+13400278,RODENTIA,Ctenomyidae,Ctenomys,Haptomys,Thomas,1916,NA
+13400367,RODENTIA,Octodontidae,Aconaemys,NA,NA,NA,NA
+13400371,RODENTIA,Octodontidae,Octodon,Dendrobius,Meyen,1833,NA
+13400371,RODENTIA,Octodontidae,Octodon,Dendroleius,Meyen,1833,NA
+13400376,RODENTIA,Octodontidae,Octodontomys,Neoctodon,Thomas,1902,[preoccupied]
+13400378,RODENTIA,Octodontidae,Octomys,NA,NA,NA,NA
+13400380,RODENTIA,Octodontidae,Pipanacoctomys,NA,NA,NA,NA
+13400382,RODENTIA,Octodontidae,Salinoctomys,NA,NA,NA,NA
+13400384,RODENTIA,Octodontidae,Spalacopus,Poephagomys,F. Cuvier,1834,NA
+13400384,RODENTIA,Octodontidae,Spalacopus,Psammoryctes,Poeppig,1835,NA
+13400389,RODENTIA,Octodontidae,Tympanoctomys,NA,NA,NA,NA
+13400392,RODENTIA,Abrocomidae,Abrocoma,Habrocoma,Wagner,1842,NA
+13400403,RODENTIA,Abrocomidae,Cuscomys,NA,NA,NA,NA
+13400408,RODENTIA,Echimyidae,Dactylomys,Lachnomys,Thomas,1916,"[see Cabrera, 1961:543]"
+13400415,RODENTIA,Echimyidae,Kannabateomys,Cannabateomys,Lydekker,1892,NA
+13400419,RODENTIA,Echimyidae,Olallamys,NA,NA,NA,NA
+13400423,RODENTIA,Echimyidae,Callistomys,NA,NA,NA,NA
+13400425,RODENTIA,Echimyidae,Diplomys,NA,NA,NA,NA
+13400429,RODENTIA,Echimyidae,Echimys,Echinomys,Wagner,1840,NA
+13400429,RODENTIA,Echimyidae,Echimys,Loncheres,Illiger,1811,NA
+13400429,RODENTIA,Echimyidae,Echimys,Nelomys,Jourdan,1837,NA
+13400433,RODENTIA,Echimyidae,Isothrix,Lasiuromys,Deville,1852,NA
+13400440,RODENTIA,Echimyidae,Makalata,NA,NA,NA,NA
+13400447,RODENTIA,Echimyidae,Phyllomys,Loncheres,Lichtenstein,1820,NA
+13400461,RODENTIA,Echimyidae,Carterodon,NA,NA,NA,NA
+13400463,RODENTIA,Echimyidae,Clyomys,NA,NA,NA,NA
+13400466,RODENTIA,Echimyidae,Euryzygomatomys,NA,NA,NA,NA
+13400468,RODENTIA,Echimyidae,Hoplomys,NA,NA,NA,NA
+13400470,RODENTIA,Echimyidae,Lonchothrix,NA,NA,NA,NA
+13400472,RODENTIA,Echimyidae,Mesomys,NA,NA,NA,NA
+13400477,RODENTIA,Echimyidae,Proechimys,NA,NA,NA,NA
+13400519,RODENTIA,Echimyidae,Thrichomys,NA,NA,NA,NA
+13400525,RODENTIA,Echimyidae,Trinomys,NA,NA,NA,NA
+13400546,RODENTIA,Echimyidae,Boromys,NA,NA,NA,NA
+13400549,RODENTIA,Echimyidae,Brotomys,NA,NA,NA,NA
+13400552,RODENTIA,Echimyidae,Heteropsomys,Homopsomys,Anthony,1917,NA
+13400556,RODENTIA,Myocastoridae,Myocastor,Mastonotus,Wesmael,1841,NA
+13400556,RODENTIA,Myocastoridae,Myocastor,Myopotamus,Geoffroy,1805,NA
+13400556,RODENTIA,Myocastoridae,Myocastor,Potamys,Desmarest,1825,NA
+13400564,RODENTIA,Capromyidae,Capromys,Macrocapromys,Arredondo,1958,NA
+13400570,RODENTIA,Capromyidae,Geocapromys,NA,NA,NA,NA
+13400574,RODENTIA,Capromyidae,Mesocapromys,Paracapromys,"Kratochvíl, Rodriguez, and Barus",1978,NA
+13400574,RODENTIA,Capromyidae,Mesocapromys,Pygmaeocapromys,Varona,1979,NA
+13400574,RODENTIA,Capromyidae,Mesocapromys,Stenocapromys,Varona and Arredondo,1979,NA
+13400580,RODENTIA,Capromyidae,Mysateles,Brachycapromys,Varona and Arredondo,1979,NA
+13400580,RODENTIA,Capromyidae,Mysateles,Leptocapromys,Kratochvíl et al.,1978,NA
+13400587,RODENTIA,Capromyidae,Hexolobodon,NA,NA,NA,NA
+13400590,RODENTIA,Capromyidae,Isolobodon,Aphaetreus,Miller,1922,NA
+13400590,RODENTIA,Capromyidae,Isolobodon,Ithydontia,Miller,1922,NA
+13400594,RODENTIA,Capromyidae,Plagiodontia,Hyperplagiodontia,Rímoli,1977,NA
+13400600,RODENTIA,Capromyidae,Rhizoplagiodontia,NA,NA,NA,NA
+13400604,RODENTIA,Heptaxodontidae,Clidomys,Alterodon,Anthony,1920,NA
+13400604,RODENTIA,Heptaxodontidae,Clidomys,Speoxenus,Anthony,1920,NA
+13400604,RODENTIA,Heptaxodontidae,Clidomys,Spirodontomys,Anthony,1920,NA
+13400607,RODENTIA,Heptaxodontidae,Amblyrhiza,Loxomylus,Cope,1869,NA
+13400609,RODENTIA,Heptaxodontidae,Elasmodontomys,Heptaxodon,Anthony,1917,NA
+13400611,RODENTIA,Heptaxodontidae,Quemisia,NA,NA,NA,NA
+13500003,LAGOMORPHA,Ochotonidae,Ochotona,Abra,Gray,1863,"[not Lamarck, 1818]"
+13500003,LAGOMORPHA,Ochotonidae,Ochotona,Abrama,Strand,1928,[for Abra Gray]
+13500003,LAGOMORPHA,Ochotonidae,Ochotona,Argyrotona,Rekovetz,1988,NA
+13500003,LAGOMORPHA,Ochotonidae,Ochotona,Buchneria,Erbajeva,1988,NA
+13500003,LAGOMORPHA,Ochotonidae,Ochotona,Conothoa,Lyon,1904,NA
+13500003,LAGOMORPHA,Ochotonidae,Ochotona,Lagomys,G. Cuvier,1800,"[not Storr, 1780]"
+13500003,LAGOMORPHA,Ochotonidae,Ochotona,Lagotona,Kretzoi,1941,NA
+13500003,LAGOMORPHA,Ochotonidae,Ochotona,Ogotoma,Gray,1867,NA
+13500003,LAGOMORPHA,Ochotonidae,Ochotona,Pika,Lácèpde,1799,"[= Pica Fischer, 1803]"
+13500003,LAGOMORPHA,Ochotonidae,Ochotona,Tibetholagus,Argyropulo and Pidoplichko,1939,[nomen nudum]
+13500003,LAGOMORPHA,Ochotonidae,Ochotona,Tibetolagus,Argyropulo,1948,[for Tibetholagus]
+13500090,LAGOMORPHA,Prolagidae,Prolagus,Anoema,König,1825,NA
+13500090,LAGOMORPHA,Prolagidae,Prolagus,Archaeomys,Fraas,1856,NA
+13500090,LAGOMORPHA,Prolagidae,Prolagus,Lagomys,G. Cuvier,1800,NA
+13500090,LAGOMORPHA,Prolagidae,Prolagus,Myolagus,Hensel,1856,NA
+13500093,LAGOMORPHA,Leporidae,Brachylagus,NA,NA,NA,NA
+13500095,LAGOMORPHA,Leporidae,Bunolagus,NA,NA,NA,NA
+13500097,LAGOMORPHA,Leporidae,Caprolagus,NA,NA,NA,NA
+13500099,LAGOMORPHA,Leporidae,Lepus,Allolagus,Ognev,1929,NA
+13500099,LAGOMORPHA,Leporidae,Lepus,Boreolagus,Barrett-Hamilton,1911,NA
+13500099,LAGOMORPHA,Leporidae,Lepus,Chionobates,Kaup,1829,NA
+13500099,LAGOMORPHA,Leporidae,Lepus,Eulagos,Gray,1867,NA
+13500099,LAGOMORPHA,Leporidae,Lepus,Eulepus,Acloque,1899,NA
+13500099,LAGOMORPHA,Leporidae,Lepus,Indolagus,Gureev,1953,NA
+13500099,LAGOMORPHA,Leporidae,Lepus,Lagos,Palmer,1904,NA
+13500099,LAGOMORPHA,Leporidae,Lepus,Macrotolagus,Mearns,1895,NA
+13500099,LAGOMORPHA,Leporidae,Lepus,Poecilolagus,Lyon,1904,NA
+13500099,LAGOMORPHA,Leporidae,Lepus,Proeulagus,Gureev,1964,NA
+13500099,LAGOMORPHA,Leporidae,Lepus,Sabanolagus,Averianov,1998,NA
+13500099,LAGOMORPHA,Leporidae,Lepus,Sinolagus,Averianov,1998,NA
+13500099,LAGOMORPHA,Leporidae,Lepus,Tarimolagus,Gureev,1947,"[Pavlinov et al., 1995 b]"
+13500250,LAGOMORPHA,Leporidae,Nesolagus,NA,NA,NA,NA
+13500253,LAGOMORPHA,Leporidae,Oryctolagus,Cuniculus,Meyer,1790,NA
+13500261,LAGOMORPHA,Leporidae,Pentalagus,NA,NA,NA,NA
+13500263,LAGOMORPHA,Leporidae,Poelagus,NA,NA,NA,NA
+13500265,LAGOMORPHA,Leporidae,Pronolagus,NA,NA,NA,NA
+13500279,LAGOMORPHA,Leporidae,Romerolagus,Lagomys,Herrera,1897,"[not Lagomys Cuvier, 1800]"
+13500281,LAGOMORPHA,Leporidae,Sylvilagus,Hydrolagus,Gray,1867,NA
+13500281,LAGOMORPHA,Leporidae,Sylvilagus,Limnolagus,Mearns,1897,NA
+13500281,LAGOMORPHA,Leporidae,Sylvilagus,Microlagus,Trouessart,1897,NA
+13500281,LAGOMORPHA,Leporidae,Sylvilagus,Paludilagus,Hershkovitz,1950,NA
+13500281,LAGOMORPHA,Leporidae,Sylvilagus,Tapeti,Gray,1867,NA
+13600004,ERINACEOMORPHA,Erinaceidae,Atelerix,Aethechinus,Thomas,1918,NA
+13600004,ERINACEOMORPHA,Erinaceidae,Atelerix,Peroechinus,Fitzinger,1866,NA
+13600014,ERINACEOMORPHA,Erinaceidae,Erinaceus,Herinaceus,Mina-Palumbo,1868,NA
+13600027,ERINACEOMORPHA,Erinaceidae,Hemiechinus,Ericius,Sundevall,1842,"[not of Tilesius, 1813]"
+13600027,ERINACEOMORPHA,Erinaceidae,Hemiechinus,Erinaceolus,Ognev,1928,NA
+13600027,ERINACEOMORPHA,Erinaceidae,Hemiechinus,Macroechinus,Satunin,1907,NA
+13600035,ERINACEOMORPHA,Erinaceidae,Mesechinus,NA,NA,NA,NA
+13600038,ERINACEOMORPHA,Erinaceidae,Paraechinus,Macroechinus,Satunin,1907,NA
+13600054,ERINACEOMORPHA,Erinaceidae,Echinosorex,Gymnura,Lesson,1827,"[preoccupied by Gymnura Kuhl, 1824 (a fish), see Ellerman and Morrison-Scott (1951:17) and Medway (1977:15)]"
+13600058,ERINACEOMORPHA,Erinaceidae,Hylomys,NA,NA,NA,NA
+13600069,ERINACEOMORPHA,Erinaceidae,Neohylomys,NA,NA,NA,NA
+13600071,ERINACEOMORPHA,Erinaceidae,Neotetracus,NA,NA,NA,NA
+13600073,ERINACEOMORPHA,Erinaceidae,Podogymnura,NA,NA,NA,NA
+13700003,SORICOMORPHA,Nesophontidae,Nesophontes,NA,NA,NA,NA
+13700014,SORICOMORPHA,Solenodontidae,Solenodon,Antillogale,Patterson,1962,NA
+13700014,SORICOMORPHA,Solenodontidae,Solenodon,Atopogale,Cabrera,1925,NA
+13700023,SORICOMORPHA,Soricidae,Crocidura,Afrosorex,Hutterer,1986,NA
+13700023,SORICOMORPHA,Soricidae,Crocidura,Heliosorex,Heller,1910,NA
+13700023,SORICOMORPHA,Soricidae,Crocidura,Leucodon,Fatio,1869,NA
+13700023,SORICOMORPHA,Soricidae,Crocidura,Paurodus,Schulze,1897,NA
+13700023,SORICOMORPHA,Soricidae,Crocidura,Praesorex,Thomas,1913,NA
+13700023,SORICOMORPHA,Soricidae,Crocidura,Rhinomus,Murray,1860,NA
+13700252,SORICOMORPHA,Soricidae,Diplomesodon,NA,NA,NA,NA
+13700254,SORICOMORPHA,Soricidae,Feroculus,NA,NA,NA,NA
+13700256,SORICOMORPHA,Soricidae,Paracrocidura,NA,NA,NA,NA
+13700260,SORICOMORPHA,Soricidae,Ruwenzorisorex,NA,NA,NA,NA
+13700262,SORICOMORPHA,Soricidae,Scutisorex,NA,NA,NA,NA
+13700264,SORICOMORPHA,Soricidae,Solisorex,NA,NA,NA,NA
+13700266,SORICOMORPHA,Soricidae,Suncus,Pachyura,de Selys-Longchamps,1839,"[not Pachyurus Agassiz, 1829, a genus of fishes]"
+13700266,SORICOMORPHA,Soricidae,Suncus,Paradoxodon,Wagner,1855,NA
+13700266,SORICOMORPHA,Soricidae,Suncus,Plerodus,Schulze,1897,NA
+13700266,SORICOMORPHA,Soricidae,Suncus,Podihik,Deraniyagala,1958,NA
+13700266,SORICOMORPHA,Soricidae,Suncus,Sunkus,Sundevall,1843,NA
+13700287,SORICOMORPHA,Soricidae,Sylvisorex,NA,NA,NA,NA
+13700305,SORICOMORPHA,Soricidae,Congosorex,NA,NA,NA,NA
+13700308,SORICOMORPHA,Soricidae,Myosorex,NA,NA,NA,NA
+13700325,SORICOMORPHA,Soricidae,Surdisorex,NA,NA,NA,NA
+13700330,SORICOMORPHA,Soricidae,Anourosorex,Anaurosorex,Günther,1871,NA
+13700330,SORICOMORPHA,Soricidae,Anourosorex,Anurosorex,Anderson,1875,NA
+13700330,SORICOMORPHA,Soricidae,Anourosorex,Pygmura,Anderson,1873,NA
+13700336,SORICOMORPHA,Soricidae,Blarinella,NA,NA,NA,NA
+13700341,SORICOMORPHA,Soricidae,Blarina,Anotus,Wagner,1855,NA
+13700341,SORICOMORPHA,Soricidae,Blarina,Blaria,Gray,1843,NA
+13700341,SORICOMORPHA,Soricidae,Blarina,Brachysorex,Duvernoy,1842,NA
+13700341,SORICOMORPHA,Soricidae,Blarina,Mamblarinaus,Herrera,1899,NA
+13700341,SORICOMORPHA,Soricidae,Blarina,Talposorex,Pomel,1848,[not Lesson]
+13700362,SORICOMORPHA,Soricidae,Cryptotis,Soriciscus,Coues,1877,NA
+13700362,SORICOMORPHA,Soricidae,Cryptotis,Xenosorex,Schaldach,1966,NA
+13700401,SORICOMORPHA,Soricidae,Chimarrogale,Chimmarogale,Ellermann and Morrison-Scott,1951,NA
+13700401,SORICOMORPHA,Soricidae,Chimarrogale,Crossogale,Thomas,1921,NA
+13700408,SORICOMORPHA,Soricidae,Chodsigoa,NA,NA,NA,NA
+13700420,SORICOMORPHA,Soricidae,Episoriculus,NA,NA,NA,NA
+13700430,SORICOMORPHA,Soricidae,Nectogale,NA,NA,NA,NA
+13700432,SORICOMORPHA,Soricidae,Neomys,Amphisorex,Duvernoy,1835,NA
+13700432,SORICOMORPHA,Soricidae,Neomys,Crossopus,Wagler,1832,NA
+13700432,SORICOMORPHA,Soricidae,Neomys,Hydrogale,Kaup,1829,"[not Pomel, 1848]"
+13700432,SORICOMORPHA,Soricidae,Neomys,Hydrosorex,Duvernoy,1835,NA
+13700432,SORICOMORPHA,Soricidae,Neomys,Leucorrhynchus,Kaup,1829,NA
+13700432,SORICOMORPHA,Soricidae,Neomys,Myosictis,Pomel,1854,NA
+13700432,SORICOMORPHA,Soricidae,Neomys,Pinalia,Gray,1838,NA
+13700436,SORICOMORPHA,Soricidae,Nesiotites,NA,NA,NA,NA
+13700439,SORICOMORPHA,Soricidae,Soriculus,NA,NA,NA,NA
+13700444,SORICOMORPHA,Soricidae,Megasorex,NA,NA,NA,NA
+13700446,SORICOMORPHA,Soricidae,Notiosorex,NA,NA,NA,NA
+13700452,SORICOMORPHA,Soricidae,Sorex,Amphiosorex,Hall,1959,[lapsus]
+13700452,SORICOMORPHA,Soricidae,Sorex,Amphisorex,Duvernoy,1835,NA
+13700452,SORICOMORPHA,Soricidae,Sorex,Asorex,Mezhzherin,1965,NA
+13700452,SORICOMORPHA,Soricidae,Sorex,Atophyrax,Merriam,1884,NA
+13700452,SORICOMORPHA,Soricidae,Sorex,Corsira,Gray,1838,NA
+13700452,SORICOMORPHA,Soricidae,Sorex,Dolgovia,Vorontsov and Kral,1986,[? nomen nudum]
+13700452,SORICOMORPHA,Soricidae,Sorex,Eurosorex,Stroganov,1952,NA
+13700452,SORICOMORPHA,Soricidae,Sorex,Fredgia,Vorontsov and Kral,1986,[? nomen nudum]
+13700452,SORICOMORPHA,Soricidae,Sorex,Homalurus,Schulze,1890,NA
+13700452,SORICOMORPHA,Soricidae,Sorex,Hydrogale,Pomel,1848,"[not Kaup, 1829]"
+13700452,SORICOMORPHA,Soricidae,Sorex,Kratochvilia,Vorontsov and Kral,1986,[? nomen nudum]
+13700452,SORICOMORPHA,Soricidae,Sorex,Microsorex,Coues,1877,NA
+13700452,SORICOMORPHA,Soricidae,Sorex,Musaraneus,Brisson,1762,NA
+13700452,SORICOMORPHA,Soricidae,Sorex,Neosorex,Baird,1858,NA
+13700452,SORICOMORPHA,Soricidae,Sorex,Ognevia,Heptner and Dolgov,1967,NA
+13700452,SORICOMORPHA,Soricidae,Sorex,Otisorex,De Kay,1842,NA
+13700452,SORICOMORPHA,Soricidae,Sorex,Oxyrhin,Kaup,1829,NA
+13700452,SORICOMORPHA,Soricidae,Sorex,Soricidus,Altobello,1927,NA
+13700452,SORICOMORPHA,Soricidae,Sorex,Stroganovia,Yudin,1989,NA
+13700452,SORICOMORPHA,Soricidae,Sorex,Yudinia,Vorontsov and Kral,1986,[? nomen nudum]
+13700628,SORICOMORPHA,Talpidae,Condylura,Astromycter,Harris,1825,NA
+13700628,SORICOMORPHA,Talpidae,Condylura,Astromyctes,Gray,1843,NA
+13700628,SORICOMORPHA,Talpidae,Condylura,Astromydes,Blyth,1863,NA
+13700628,SORICOMORPHA,Talpidae,Condylura,Rhinaster,Wagler,1830,NA
+13700628,SORICOMORPHA,Talpidae,Condylura,Talpasorex,Schinz,1821,"[not Lesson, 1827]"
+13700633,SORICOMORPHA,Talpidae,Parascalops,NA,NA,NA,NA
+13700635,SORICOMORPHA,Talpidae,Scalopus,Hesperoscalops,Hibbard,1941,NA
+13700635,SORICOMORPHA,Talpidae,Scalopus,Scalops,Illiger,1811,NA
+13700635,SORICOMORPHA,Talpidae,Scalopus,Scalpos,Brooks,1910,NA
+13700635,SORICOMORPHA,Talpidae,Scalopus,Talpasorex,Lesson,1827,"[not Schinz, 1821]"
+13700653,SORICOMORPHA,Talpidae,Scapanulus,NA,NA,NA,NA
+13700655,SORICOMORPHA,Talpidae,Scapanus,Xeroscapheus,Hutchison,1968,NA
+13700677,SORICOMORPHA,Talpidae,Desmana,Caprios,Wagler,1830,NA
+13700677,SORICOMORPHA,Talpidae,Desmana,Desman,Lacepède,1799,NA
+13700677,SORICOMORPHA,Talpidae,Desmana,Desmanus,Rafinesque,1815,NA
+13700677,SORICOMORPHA,Talpidae,Desmana,Galemodesmana,Topachevskii and Pashkov,1983,NA
+13700677,SORICOMORPHA,Talpidae,Desmana,Myale,Gray,1821,NA
+13700677,SORICOMORPHA,Talpidae,Desmana,Mygale,Cuvier,1800,"[not Latreille, 1802]"
+13700677,SORICOMORPHA,Talpidae,Desmana,Myogale,Brandt,1836,NA
+13700677,SORICOMORPHA,Talpidae,Desmana,Myogalea,J. B. Fischer,1829,NA
+13700677,SORICOMORPHA,Talpidae,Desmana,Palaeospalax,Owen,1846,NA
+13700677,SORICOMORPHA,Talpidae,Desmana,Pliodesmana,Topachevskii and Pashkov,1983,NA
+13700677,SORICOMORPHA,Talpidae,Desmana,Praedesmana,Topachevskii and Pashkov,1983,NA
+13700679,SORICOMORPHA,Talpidae,Galemys,Galomys,Agassiz,1846,NA
+13700679,SORICOMORPHA,Talpidae,Galemys,Mygalina,I. Geoffroy in Gervais,1835,NA
+13700684,SORICOMORPHA,Talpidae,Neurotrichus,NA,NA,NA,NA
+13700690,SORICOMORPHA,Talpidae,Scaptonyx,NA,NA,NA,NA
+13700693,SORICOMORPHA,Talpidae,Euroscaptor,Eoscalops,Stroganov,1941,NA
+13700702,SORICOMORPHA,Talpidae,Mogera,Nesoscaptor,"Abe, Shiraishi and Arai",1991,NA
+13700715,SORICOMORPHA,Talpidae,Parascaptor,NA,NA,NA,NA
+13700717,SORICOMORPHA,Talpidae,Scaptochirus,Chiroscaptor,Heude,1898,NA
+13700719,SORICOMORPHA,Talpidae,Talpa,Asioscalops,Stroganov,1941,NA
+13700719,SORICOMORPHA,Talpidae,Talpa,Asioscaptor,Schwarz,1948,NA
+13700719,SORICOMORPHA,Talpidae,Talpa,Heterotalpa,Peters,1863,NA
+13700719,SORICOMORPHA,Talpidae,Talpa,Talpops,Gervais,1868,NA
+13700752,SORICOMORPHA,Talpidae,Dymecodon,Dimecodon,Coues,1889,NA
+13700754,SORICOMORPHA,Talpidae,Urotrichus,NA,NA,NA,NA
+13700762,SORICOMORPHA,Talpidae,Uropsilus,Nasillus,Thomas,1911,NA
+13700762,SORICOMORPHA,Talpidae,Uropsilus,Rhynchonax,Thomas,1912,NA
+13800003,CHIROPTERA,Pteropodidae,Acerodon,NA,NA,NA,NA
+13800019,CHIROPTERA,Pteropodidae,Aethalops,Aethalodes,Thomas,1923,"[not Atehalodes Gahan, 1888, an insect)"
+13800025,CHIROPTERA,Pteropodidae,Alionycteris,NA,NA,NA,NA
+13800027,CHIROPTERA,Pteropodidae,Aproteles,NA,NA,NA,NA
+13800029,CHIROPTERA,Pteropodidae,Balionycteris,NA,NA,NA,NA
+13800033,CHIROPTERA,Pteropodidae,Casinycteris,NA,NA,NA,NA
+13800035,CHIROPTERA,Pteropodidae,Chironax,NA,NA,NA,NA
+13800039,CHIROPTERA,Pteropodidae,Cynopterus,Niadius,Miller,1906,NA
+13800039,CHIROPTERA,Pteropodidae,Cynopterus,Pachysoma,Geoffroy,1828,"[not Pachysoma Macleay, 1821, an insect]"
+13800071,CHIROPTERA,Pteropodidae,Dobsonia,Hypoderma,E. Geoffroy,1828,"[not Hypoderma Latreille, 1825, a Diptera]"
+13800071,CHIROPTERA,Pteropodidae,Dobsonia,Pteronotus,Rafinesque,1815,[nomen nudum]
+13800071,CHIROPTERA,Pteropodidae,Dobsonia,Tribonophorus,Burnett,1829,[?]
+13800092,CHIROPTERA,Pteropodidae,Dyacopterus,NA,NA,NA,NA
+13800095,CHIROPTERA,Pteropodidae,Eidolon,Leiponyx,Jentink,1881,NA
+13800095,CHIROPTERA,Pteropodidae,Eidolon,Liponyx,Forbes,1882,NA
+13800095,CHIROPTERA,Pteropodidae,Eidolon,Pterocyon,Peters,1861,NA
+13800101,CHIROPTERA,Pteropodidae,Eonycteris,Callinycteris,Jentink,1889,NA
+13800109,CHIROPTERA,Pteropodidae,Epomophorus,NA,NA,NA,NA
+13800120,CHIROPTERA,Pteropodidae,Epomops,NA,NA,NA,NA
+13800124,CHIROPTERA,Pteropodidae,Haplonycteris,NA,NA,NA,NA
+13800126,CHIROPTERA,Pteropodidae,Harpyionycteris,NA,NA,NA,NA
+13800131,CHIROPTERA,Pteropodidae,Hypsignathus,Sphyrocephalus,A. Murray,1862,NA
+13800131,CHIROPTERA,Pteropodidae,Hypsignathus,Zygaenocephalus,A. Murray,1862,NA
+13800133,CHIROPTERA,Pteropodidae,Latidens,NA,NA,NA,NA
+13800135,CHIROPTERA,Pteropodidae,Lissonycteris,NA,NA,NA,NA
+13800142,CHIROPTERA,Pteropodidae,Macroglossus,Carponycteris,Lydekker,1891,NA
+13800142,CHIROPTERA,Pteropodidae,Macroglossus,Kiodotus,Blyth,1840,NA
+13800142,CHIROPTERA,Pteropodidae,Macroglossus,Odontonycteris,Jentink,1902,NA
+13800142,CHIROPTERA,Pteropodidae,Macroglossus,Rhynchocyon,Gistel,1848,"[not Rhynchocyon Peters, 1847, a macroscelidid]"
+13800151,CHIROPTERA,Pteropodidae,Megaerops,Megaera,Temminck,1841,"[not Megaera Robineau-Desvoidy, 1830, an insect, and Megaera Wagler, 1830, a reptile]"
+13800158,CHIROPTERA,Pteropodidae,Megaloglossus,Trygenycteris,Lydekker,1891,NA
+13800160,CHIROPTERA,Pteropodidae,Melonycteris,Nesonycteris,Thomas,1887,NA
+13800172,CHIROPTERA,Pteropodidae,Micropteropus,NA,NA,NA,NA
+13800175,CHIROPTERA,Pteropodidae,Myonycteris,Phygetis,K. Andersen,1912,NA
+13800175,CHIROPTERA,Pteropodidae,Myonycteris,Phylletis,Juste and Ibáñez,1993,NA
+13800181,CHIROPTERA,Pteropodidae,Nanonycteris,NA,NA,NA,NA
+13800183,CHIROPTERA,Pteropodidae,Neopteryx,Neoptryx,Van der Zon,1979,NA
+13800185,CHIROPTERA,Pteropodidae,Notopteris,NA,NA,NA,NA
+13800188,CHIROPTERA,Pteropodidae,Nyctimene,Bdelygma,Matschie,1899,NA
+13800188,CHIROPTERA,Pteropodidae,Nyctimene,Cephalotes,E. Geoffroy,1810,NA
+13800188,CHIROPTERA,Pteropodidae,Nyctimene,Gelasinus,Temminck,1837,"[not Gelasinus Van der Hoeven, 1827, a crustacean]"
+13800188,CHIROPTERA,Pteropodidae,Nyctimene,Harpyia,Illiger,1811,"[not Harypia Ochsenheimer, 1810, a lepidopteran]"
+13800188,CHIROPTERA,Pteropodidae,Nyctimene,Uronycteris,Gray,1863,NA
+13800219,CHIROPTERA,Pteropodidae,Otopteropus,Otopterus,Sokolov,1973,"[lapsus, not Otopterus Lydekker, 1891]"
+13800221,CHIROPTERA,Pteropodidae,Paranyctimene,NA,NA,NA,NA
+13800226,CHIROPTERA,Pteropodidae,Penthetor,NA,NA,NA,NA
+13800228,CHIROPTERA,Pteropodidae,Plerotes,NA,NA,NA,NA
+13800230,CHIROPTERA,Pteropodidae,Ptenochirus,NA,NA,NA,NA
+13800233,CHIROPTERA,Pteropodidae,Pteralopex,NA,NA,NA,NA
+13800239,CHIROPTERA,Pteropodidae,Pteropus,Desmalopex,Miller,1907,NA
+13800239,CHIROPTERA,Pteropodidae,Pteropus,Eunycteris,Gray,1866,NA
+13800239,CHIROPTERA,Pteropodidae,Pteropus,Pselaphon,Gray,1870,"[not Pselaphon Herbst, 1792, a coleopteran]"
+13800239,CHIROPTERA,Pteropodidae,Pteropus,Sericonycteris,Matschie,1899,NA
+13800239,CHIROPTERA,Pteropodidae,Pteropus,Spectrum,Lacépède,1799,"[not Spectrum Scopoli, 1777, a lepidopteran]"
+13800393,CHIROPTERA,Pteropodidae,Rousettus,Boneia,Jentink,1879,NA
+13800393,CHIROPTERA,Pteropodidae,Rousettus,Cercopterus,Burnett,1829,NA
+13800393,CHIROPTERA,Pteropodidae,Rousettus,Cynonycteris,Peters,1852,NA
+13800393,CHIROPTERA,Pteropodidae,Rousettus,Eleutherura,Gray,1844,NA
+13800393,CHIROPTERA,Pteropodidae,Rousettus,Senonycteris,Gray,1870,NA
+13800393,CHIROPTERA,Pteropodidae,Rousettus,Stenonycteris,Gray,1871,NA
+13800393,CHIROPTERA,Pteropodidae,Rousettus,Xantharpyia,Gray,1834,NA
+13800421,CHIROPTERA,Pteropodidae,Scotonycteris,NA,NA,NA,NA
+13800427,CHIROPTERA,Pteropodidae,Sphaerias,NA,NA,NA,NA
+13800429,CHIROPTERA,Pteropodidae,Styloctenium,NA,NA,NA,NA
+13800431,CHIROPTERA,Pteropodidae,Syconycteris,NA,NA,NA,NA
+13800442,CHIROPTERA,Pteropodidae,Thoopterus,NA,NA,NA,NA
+13800445,CHIROPTERA,Rhinolophidae,Rhinolophus,Aquias,Gray,1847,NA
+13800445,CHIROPTERA,Rhinolophidae,Rhinolophus,Coelophyllus,Peters,1867,NA
+13800445,CHIROPTERA,Rhinolophidae,Rhinolophus,Euryalus,Matschie,1901,NA
+13800445,CHIROPTERA,Rhinolophidae,Rhinolophus,Phyllorhina,Leach,1816,NA
+13800445,CHIROPTERA,Rhinolophidae,Rhinolophus,Phyllotis,Gray,1866,"[not Waterhouse, 1837]"
+13800445,CHIROPTERA,Rhinolophidae,Rhinolophus,Rhinocrepis,Gervais,1836,NA
+13800445,CHIROPTERA,Rhinolophidae,Rhinolophus,Rhinomegalophus,Bourret,1951,NA
+13800445,CHIROPTERA,Rhinolophidae,Rhinolophus,Rhinophyllotis,Troughton,1941,NA
+13800675,CHIROPTERA,Hipposideridae,Anthops,NA,NA,NA,NA
+13800677,CHIROPTERA,Hipposideridae,Asellia,NA,NA,NA,NA
+13800684,CHIROPTERA,Hipposideridae,Aselliscus,NA,NA,NA,NA
+13800691,CHIROPTERA,Hipposideridae,Cloeotis,NA,NA,NA,NA
+13800695,CHIROPTERA,Hipposideridae,Coelops,Chilophylla,Miller,1910,NA
+13800705,CHIROPTERA,Hipposideridae,Hipposideros,Chrysonycteris,Gray,1866,NA
+13800705,CHIROPTERA,Hipposideridae,Hipposideros,Cyclorhina,Peters,1871,NA
+13800705,CHIROPTERA,Hipposideridae,Hipposideros,Gloionycteris,Gray,1866,NA
+13800705,CHIROPTERA,Hipposideridae,Hipposideros,Phyllorhina,Bonaparte,1837,"[not Leach, 1816]"
+13800705,CHIROPTERA,Hipposideridae,Hipposideros,Ptychorhina,Peters,1871,NA
+13800705,CHIROPTERA,Hipposideridae,Hipposideros,Rhinophylla,Gray,1866,"[not Peters, 1865]"
+13800705,CHIROPTERA,Hipposideridae,Hipposideros,Speorifera,Gray,1866,NA
+13800705,CHIROPTERA,Hipposideridae,Hipposideros,Syndesmotis,Peters,1871,NA
+13800705,CHIROPTERA,Hipposideridae,Hipposideros,Syndesmotus,Waterhouse,1902,[objective synonym of Syndesmotis Peters]
+13800705,CHIROPTERA,Hipposideridae,Hipposideros,Thyreorhina,Peters,1871,NA
+13800849,CHIROPTERA,Hipposideridae,Paracoelops,NA,NA,NA,NA
+13800851,CHIROPTERA,Hipposideridae,Rhinonicteris,NA,NA,NA,NA
+13800853,CHIROPTERA,Hipposideridae,Triaenops,NA,NA,NA,NA
+13800862,CHIROPTERA,Megadermatidae,Cardioderma,NA,NA,NA,NA
+13800864,CHIROPTERA,Megadermatidae,Lavia,Livia,Agassiz,1846,[misspelling]
+13800869,CHIROPTERA,Megadermatidae,Macroderma,NA,NA,NA,NA
+13800871,CHIROPTERA,Megadermatidae,Megaderma,Eucheira,Hodgson,1847,"[not Eucheira Westwood, 1838, an insect]"
+13800871,CHIROPTERA,Megadermatidae,Megaderma,Lyroderma,Peters,1872,NA
+13800871,CHIROPTERA,Megadermatidae,Megaderma,Spasma,Gray,1866,NA
+13800896,CHIROPTERA,Rhinopomatidae,Rhinopoma,Rhinopomus,Gervais,1854,NA
+13800912,CHIROPTERA,Craseonycteridae,Craseonycteris,NA,NA,NA,NA
+13800916,CHIROPTERA,Emballonuridae,Saccolaimus,Taphonycteris,Dobson,1876,NA
+13800926,CHIROPTERA,Emballonuridae,Taphozous,Liponycteris,Thomas,1922,NA
+13800966,CHIROPTERA,Emballonuridae,Balantiopteryx,NA,NA,NA,NA
+13800972,CHIROPTERA,Emballonuridae,Centronycteris,NA,NA,NA,NA
+13800975,CHIROPTERA,Emballonuridae,Coleura,NA,NA,NA,NA
+13800980,CHIROPTERA,Emballonuridae,Cormura,Myropteryx,Miller,1906,NA
+13800982,CHIROPTERA,Emballonuridae,Cyttarops,NA,NA,NA,NA
+13800984,CHIROPTERA,Emballonuridae,Diclidurus,Depanycteris,Thomas,1920,NA
+13800993,CHIROPTERA,Emballonuridae,Emballonura,NA,NA,NA,NA
+13801020,CHIROPTERA,Emballonuridae,Mosia,NA,NA,NA,NA
+13801025,CHIROPTERA,Emballonuridae,Peropteryx,Peronymus,Peters,1868,NA
+13801038,CHIROPTERA,Emballonuridae,Rhynchonycteris,Proboscidea,Spix,1823,"[not Brugière, 1791]"
+13801038,CHIROPTERA,Emballonuridae,Rhynchonycteris,Rhynchoniscus,Miller,1907,NA
+13801040,CHIROPTERA,Emballonuridae,Saccopteryx,Urocryptus,Temminck,1838,NA
+13801049,CHIROPTERA,Nycteridae,Nycteris,Petalia,Gray,1838,NA
+13801049,CHIROPTERA,Nycteridae,Nycteris,Pelatia,Gray,1866,NA
+13801085,CHIROPTERA,Myzopodidae,Myzopoda,NA,NA,NA,NA
+13801088,CHIROPTERA,Mystacinidae,Mystacina,Mystacops,Lydeckker,1891,"[placed on the Offical List of Rejected and Invalid Generic Names in Zoology, ICZN Opinion 1994 (2002)]"
+13801093,CHIROPTERA,Phyllostomidae,Desmodus,Desmodon,Elliot,1905,NA
+13801093,CHIROPTERA,Phyllostomidae,Desmodus,Edostoma,D'Orbigny,1834-1836,NA
+13801095,CHIROPTERA,Phyllostomidae,Diaemus,NA,NA,NA,NA
+13801097,CHIROPTERA,Phyllostomidae,Diphylla,Haematonycteris,H. Allen,1896,NA
+13801100,CHIROPTERA,Phyllostomidae,Brachyphylla,NA,NA,NA,NA
+13801107,CHIROPTERA,Phyllostomidae,Erophylla,NA,NA,NA,NA
+13801116,CHIROPTERA,Phyllostomidae,Phyllonycteris,Reithronycteris,Miller,1898,NA
+13801116,CHIROPTERA,Phyllostomidae,Phyllonycteris,Rhithronycteris,Elliot,1904,NA
+13801126,CHIROPTERA,Phyllostomidae,Anoura,Anura,Agassiz,1846,NA
+13801126,CHIROPTERA,Phyllostomidae,Anoura,Glossonycteris,Peters,1868,NA
+13801126,CHIROPTERA,Phyllostomidae,Anoura,Lonchoglossa,Peters,1868,NA
+13801135,CHIROPTERA,Phyllostomidae,Choeroniscus,NA,NA,NA,NA
+13801141,CHIROPTERA,Phyllostomidae,Choeronycteris,NA,NA,NA,NA
+13801143,CHIROPTERA,Phyllostomidae,Glossophaga,Nicon,Gray,1847,NA
+13801143,CHIROPTERA,Phyllostomidae,Glossophaga,Phyllophora,Gray,1838,NA
+13801167,CHIROPTERA,Phyllostomidae,Hylonycteris,NA,NA,NA,NA
+13801171,CHIROPTERA,Phyllostomidae,Leptonycteris,Ischnoglossa,Saussure,1860,"[not Kraatz, 1856]"
+13801175,CHIROPTERA,Phyllostomidae,Lichonycteris,NA,NA,NA,NA
+13801177,CHIROPTERA,Phyllostomidae,Monophyllus,NA,NA,NA,NA
+13801186,CHIROPTERA,Phyllostomidae,Musonycteris,NA,NA,NA,NA
+13801188,CHIROPTERA,Phyllostomidae,Scleronycteris,NA,NA,NA,NA
+13801191,CHIROPTERA,Phyllostomidae,Lionycteris,NA,NA,NA,NA
+13801193,CHIROPTERA,Phyllostomidae,Lonchophylla,NA,NA,NA,NA
+13801203,CHIROPTERA,Phyllostomidae,Platalina,NA,NA,NA,NA
+13801206,CHIROPTERA,Phyllostomidae,Chrotopterus,Vampyrus,Peters,1856,"[not Leach, 1821]"
+13801208,CHIROPTERA,Phyllostomidae,Glyphonycteris,Barticonycteris,Hill,1964,NA
+13801212,CHIROPTERA,Phyllostomidae,Lampronycteris,NA,NA,NA,NA
+13801214,CHIROPTERA,Phyllostomidae,Lonchorhina,NA,NA,NA,NA
+13801222,CHIROPTERA,Phyllostomidae,Lophostoma,Chrotopterus,J. A. Allen,1910,"[not Peters, 1865]"
+13801232,CHIROPTERA,Phyllostomidae,Macrophyllum,Dolichophyllum,Lydekker,1891,NA
+13801232,CHIROPTERA,Phyllostomidae,Macrophyllum,Mesophyllum,Vieira,1942,NA
+13801234,CHIROPTERA,Phyllostomidae,Macrotus,Otopterus,Lydekker,1891,NA
+13801243,CHIROPTERA,Phyllostomidae,Micronycteris,Schizastoma,Gray,1862,[lapsus for Schizostoma]
+13801243,CHIROPTERA,Phyllostomidae,Micronycteris,Schizostoma,Gervais,1856,"[not Bronn, 1835]"
+13801243,CHIROPTERA,Phyllostomidae,Micronycteris,Vampirella,Reinhardt,1872,"[not Cienkowsky, 1865]"
+13801243,CHIROPTERA,Phyllostomidae,Micronycteris,Xenoctenes,Miller,1907,NA
+13801255,CHIROPTERA,Phyllostomidae,Mimon,Chrotopterus,Elliot,1904,"[not Peters, 1865]"
+13801255,CHIROPTERA,Phyllostomidae,Mimon,Vampyrus,Saussure,1860,"[not Leach, 1821]"
+13801264,CHIROPTERA,Phyllostomidae,Neonycteris,NA,NA,NA,NA
+13801266,CHIROPTERA,Phyllostomidae,Phylloderma,Guandira,Gray,1866,NA
+13801271,CHIROPTERA,Phyllostomidae,Phyllostomus,Alectops,Gray,1866,NA
+13801271,CHIROPTERA,Phyllostomidae,Phyllostomus,Phyllostoma,Cuvier,1800,NA
+13801280,CHIROPTERA,Phyllostomidae,Tonatia,Anthorhina,Lydekker,1891,NA
+13801280,CHIROPTERA,Phyllostomidae,Tonatia,Phyllostoma,Gray,1838,"[not Cuvier, 1800]"
+13801280,CHIROPTERA,Phyllostomidae,Tonatia,Tylostoma,Gervais,1855,NA
+13801280,CHIROPTERA,Phyllostomidae,Tonatia,Vampyrus,Spix,1823,"[not Leach, 1821]"
+13801286,CHIROPTERA,Phyllostomidae,Trachops,Istiophorus,Gray,1825,"[not Lacépède, 1802]"
+13801286,CHIROPTERA,Phyllostomidae,Trachops,Histiophorus,Agassiz,1846,NA
+13801286,CHIROPTERA,Phyllostomidae,Trachops,Trachyops,Peters,1865,NA
+13801286,CHIROPTERA,Phyllostomidae,Trachops,Tylostoma,Saussure,1860,"[not Gervais, 1855 or Gervais, 1856)"
+13801291,CHIROPTERA,Phyllostomidae,Trinycteris,NA,NA,NA,NA
+13801293,CHIROPTERA,Phyllostomidae,Vampyrum,Vampirus,Lesson,1827,NA
+13801293,CHIROPTERA,Phyllostomidae,Vampyrum,Vampyrus,Leach,1821,NA
+13801296,CHIROPTERA,Phyllostomidae,Carollia,Hemiderma,Gervais,1856,NA
+13801296,CHIROPTERA,Phyllostomidae,Carollia,Rhinops,Gray,1866,NA
+13801303,CHIROPTERA,Phyllostomidae,Rhinophylla,NA,NA,NA,NA
+13801309,CHIROPTERA,Phyllostomidae,Sturnira,Corvira,Thomas,1915,NA
+13801309,CHIROPTERA,Phyllostomidae,Sturnira,Nyctiplanus,Gray,1849,NA
+13801309,CHIROPTERA,Phyllostomidae,Sturnira,Stenoderma,Gray,1847,"[not Geoffroy, 1813]"
+13801309,CHIROPTERA,Phyllostomidae,Sturnira,Sturnirops,Goodwin,1938,NA
+13801338,CHIROPTERA,Phyllostomidae,Ametrida,NA,NA,NA,NA
+13801340,CHIROPTERA,Phyllostomidae,Ardops,NA,NA,NA,NA
+13801347,CHIROPTERA,Phyllostomidae,Ariteus,Peltorhinus,Peters,1876,NA
+13801349,CHIROPTERA,Phyllostomidae,Artibeus,Arctibeus,Gray,1838,NA
+13801349,CHIROPTERA,Phyllostomidae,Artibeus,Artibaeus,Gervais,1856,NA
+13801349,CHIROPTERA,Phyllostomidae,Artibeus,Artibius,Bonaparte,1847,NA
+13801349,CHIROPTERA,Phyllostomidae,Artibeus,Artobius,Winge,1892,NA
+13801349,CHIROPTERA,Phyllostomidae,Artibeus,Dermanura,Gervais,1856,NA
+13801349,CHIROPTERA,Phyllostomidae,Artibeus,Koopmania,Owen,1991,NA
+13801349,CHIROPTERA,Phyllostomidae,Artibeus,Medateus,Leach,1821,NA
+13801349,CHIROPTERA,Phyllostomidae,Artibeus,Pteroderma,Gervais,1856,NA
+13801396,CHIROPTERA,Phyllostomidae,Centurio,Trichocoryctes,Trouessart,1897,NA
+13801396,CHIROPTERA,Phyllostomidae,Centurio,Trichocoryes,H. Allen,1861,NA
+13801396,CHIROPTERA,Phyllostomidae,Centurio,Trichocorytes,Gray,1866,NA
+13801400,CHIROPTERA,Phyllostomidae,Chiroderma,Mimetops,Gray,1866,NA
+13801410,CHIROPTERA,Phyllostomidae,Ectophylla,NA,NA,NA,NA
+13801412,CHIROPTERA,Phyllostomidae,Enchisthenes,NA,NA,NA,NA
+13801414,CHIROPTERA,Phyllostomidae,Mesophylla,NA,NA,NA,NA
+13801418,CHIROPTERA,Phyllostomidae,Phyllops,NA,NA,NA,NA
+13801422,CHIROPTERA,Phyllostomidae,Platyrrhinus,Vampyrops,Peters,1865,NA
+13801440,CHIROPTERA,Phyllostomidae,Pygoderma,NA,NA,NA,NA
+13801444,CHIROPTERA,Phyllostomidae,Sphaeronycteris,NA,NA,NA,NA
+13801446,CHIROPTERA,Phyllostomidae,Stenoderma,Histiops,Peters,1869,NA
+13801450,CHIROPTERA,Phyllostomidae,Uroderma,NA,NA,NA,NA
+13801456,CHIROPTERA,Phyllostomidae,Vampyressa,Metavampyressa,Peterson,1968,NA
+13801456,CHIROPTERA,Phyllostomidae,Vampyressa,Vampyriscus,Thomas,1900,NA
+13801466,CHIROPTERA,Phyllostomidae,Vampyrodes,NA,NA,NA,NA
+13801471,CHIROPTERA,Mormoopidae,Mormoops,Aello,Leach,1821,NA
+13801479,CHIROPTERA,Mormoopidae,Pteronotus,Chilonycteris,Gray,1839,NA
+13801479,CHIROPTERA,Mormoopidae,Pteronotus,Dermonotus,Gill,1901,NA
+13801479,CHIROPTERA,Mormoopidae,Pteronotus,Lobostoma,Gundlach,1840,NA
+13801479,CHIROPTERA,Mormoopidae,Pteronotus,Phyllodia,Gray,1843,NA
+13801509,CHIROPTERA,Noctilionidae,Noctilio,Celaeno,Leach,1821,NA
+13801509,CHIROPTERA,Noctilionidae,Noctilio,Dirias,Miller,1906,NA
+13801509,CHIROPTERA,Noctilionidae,Noctilio,Noctileo,Tiedemann,1808,NA
+13801521,CHIROPTERA,Furipteridae,Amorphochilus,NA,NA,NA,NA
+13801523,CHIROPTERA,Furipteridae,Furipterus,Furia,F. Cuvier,1828,"[not Linnaeus, 1758]"
+13801526,CHIROPTERA,Thyropteridae,Thyroptera,Hyonycteris,Lichtenstein and Peters,1854,NA
+13801536,CHIROPTERA,Natalidae,Chilonatalus,NA,NA,NA,NA
+13801542,CHIROPTERA,Natalidae,Natalus,Phodotes,Miller,1906,NA
+13801542,CHIROPTERA,Natalidae,Natalus,Spectrellum,Gervais,1855,NA
+13801557,CHIROPTERA,Natalidae,Nyctiellus,NA,NA,NA,NA
+13801561,CHIROPTERA,Molossidae,Tomopeas,NA,NA,NA,NA
+13801564,CHIROPTERA,Molossidae,Chaerephon,Lophomops,J. A Allen,1917,NA
+13801564,CHIROPTERA,Molossidae,Chaerephon,Nyctinomus,E. Geoffroy,1818,NA
+13801596,CHIROPTERA,Molossidae,Cheiromeles,Chiropotes,Gloger,1841,NA
+13801602,CHIROPTERA,Molossidae,Cynomops,NA,NA,NA,NA
+13801612,CHIROPTERA,Molossidae,Eumops,NA,NA,NA,NA
+13801637,CHIROPTERA,Molossidae,Molossops,Cabreramops,Ibáñez,1980,NA
+13801637,CHIROPTERA,Molossidae,Molossops,Dysopes,Burmeister,1854,"[not Illiger, 1811]"
+13801637,CHIROPTERA,Molossidae,Molossops,Myopterus,Peters,1869,"[not Geoffory, 1813]"
+13801637,CHIROPTERA,Molossidae,Molossops,Neoplatymops,Peterson,1965,NA
+13801648,CHIROPTERA,Molossidae,Molossus,Dysopes,Illiger,1811,NA
+13801669,CHIROPTERA,Molossidae,Mops,Allomops,J. A. Allen,1917,NA
+13801669,CHIROPTERA,Molossidae,Mops,Philippinopterus,Taylor,1934,NA
+13801669,CHIROPTERA,Molossidae,Mops,Xiphonycteris,Dollman,1911,NA
+13801697,CHIROPTERA,Molossidae,Mormopterus,Micronomus,Troughton,1943,NA
+13801713,CHIROPTERA,Molossidae,Myopterus,Eomops,Thomas,1905,NA
+13801718,CHIROPTERA,Molossidae,Nyctinomops,NA,NA,NA,NA
+13801728,CHIROPTERA,Molossidae,Otomops,NA,NA,NA,NA
+13801738,CHIROPTERA,Molossidae,Platymops,NA,NA,NA,NA
+13801742,CHIROPTERA,Molossidae,Promops,NA,NA,NA,NA
+13801753,CHIROPTERA,Molossidae,Sauromys,NA,NA,NA,NA
+13801760,CHIROPTERA,Molossidae,Tadarida,Austronomus,Iredale and Troughton,1934,"[nomen dubium , later validated by Troughton, 1941]"
+13801760,CHIROPTERA,Molossidae,Tadarida,Dinops,Savi,1825,NA
+13801760,CHIROPTERA,Molossidae,Tadarida,Dysops,Cretzschmar,1830-1831,"[proccupied by Dysops Illiger, 1911]"
+13801760,CHIROPTERA,Molossidae,Tadarida,Nictinomes,Gray,1821,NA
+13801760,CHIROPTERA,Molossidae,Tadarida,Nyctinoma,Bowdich,1821,NA
+13801760,CHIROPTERA,Molossidae,Tadarida,Nyctinomia,Fleming,1822,NA
+13801760,CHIROPTERA,Molossidae,Tadarida,Rhizomops,Legendre,1984,NA
+13801794,CHIROPTERA,Vespertilionidae,Arielulus,Thainycteris,Kock and Storch,1996,NA
+13801800,CHIROPTERA,Vespertilionidae,Eptesicus,Adelonycteris,H. Allen,1891,NA
+13801800,CHIROPTERA,Vespertilionidae,Eptesicus,Amblyotis,Kolenati,1858,NA
+13801800,CHIROPTERA,Vespertilionidae,Eptesicus,Cateorus,Kolenati,1856,NA
+13801800,CHIROPTERA,Vespertilionidae,Eptesicus,Cnephaeus,Kaup,1829,NA
+13801800,CHIROPTERA,Vespertilionidae,Eptesicus,Noctula,Bonaparte,1837,NA
+13801800,CHIROPTERA,Vespertilionidae,Eptesicus,Nyctiptenus,Fitzinger,1870,NA
+13801800,CHIROPTERA,Vespertilionidae,Eptesicus,Pachyomus,Gray,1866,NA
+13801800,CHIROPTERA,Vespertilionidae,Eptesicus,Pareptesicus,Bianchi,1917,NA
+13801800,CHIROPTERA,Vespertilionidae,Eptesicus,Rhyneptesicus,Bianchi,1917,NA
+13801800,CHIROPTERA,Vespertilionidae,Eptesicus,Rhinopterus,Miller,1906,NA
+13801800,CHIROPTERA,Vespertilionidae,Eptesicus,Scabrifer,G. M. Allen,1908,NA
+13801800,CHIROPTERA,Vespertilionidae,Eptesicus,Tuitatus,Kishida and Mori,1931,NA
+13801877,CHIROPTERA,Vespertilionidae,Hesperoptenus,Milithronycteris,Hill,1976,NA
+13801886,CHIROPTERA,Vespertilionidae,Lasiurus,Atalapha,Peters,1871,"[not Rafinesque, 1814]"
+13801886,CHIROPTERA,Vespertilionidae,Lasiurus,Dasypterus,H. Allen,1894,NA
+13801886,CHIROPTERA,Vespertilionidae,Lasiurus,Nycteris,Borkhausen,1797,"[not Cuvier and Geoffroy, 1795]"
+13801921,CHIROPTERA,Vespertilionidae,Nycticeinops,NA,NA,NA,NA
+13801923,CHIROPTERA,Vespertilionidae,Nycticeius,Nycticea,Le Conte,1831,NA
+13801923,CHIROPTERA,Vespertilionidae,Nycticeius,Nycticejus,Temminck,1827,NA
+13801923,CHIROPTERA,Vespertilionidae,Nycticeius,Nycticeus,Lesson,1827,NA
+13801923,CHIROPTERA,Vespertilionidae,Nycticeius,Nycticeyx,Wagler,1830,NA
+13801930,CHIROPTERA,Vespertilionidae,Rhogeessa,Baeodon,Miller,1906,NA
+13801943,CHIROPTERA,Vespertilionidae,Scoteanax,Oligotomus,Iredale (ex MacGillivray),1937,"[preoccupied by Oligotomus Cope, 1843]"
+13801945,CHIROPTERA,Vespertilionidae,Scotoecus,NA,NA,NA,NA
+13801955,CHIROPTERA,Vespertilionidae,Scotomanes,Scoteinus,Dobson,1875,NA
+13801960,CHIROPTERA,Vespertilionidae,Scotophilus,Pachyotus,Gray,1831,NA
+13801993,CHIROPTERA,Vespertilionidae,Scotorepens,NA,NA,NA,NA
+13802001,CHIROPTERA,Vespertilionidae,Nyctophilus,Lamingtona,McKean and Calaby,1968,NA
+13802021,CHIROPTERA,Vespertilionidae,Pharotis,NA,NA,NA,NA
+13802024,CHIROPTERA,Vespertilionidae,Glischropus,NA,NA,NA,NA
+13802029,CHIROPTERA,Vespertilionidae,Nyctalus,Noctulina,Gray,1842,NA
+13802029,CHIROPTERA,Vespertilionidae,Nyctalus,Panugo,Kolenati,1856,NA
+13802029,CHIROPTERA,Vespertilionidae,Nyctalus,Pterygistes,Kaup,1829,NA
+13802046,CHIROPTERA,Vespertilionidae,Pipistrellus,Alobus,Peters,1867,"[not Le Conte, 1856]"
+13802046,CHIROPTERA,Vespertilionidae,Pipistrellus,Attalepharca,Menu,1987,"[no type species designated, therefore not available]"
+13802046,CHIROPTERA,Vespertilionidae,Pipistrellus,Eptesicops,Roberts,1926,NA
+13802046,CHIROPTERA,Vespertilionidae,Pipistrellus,Euvesperugo,Acloque,1899,NA
+13802046,CHIROPTERA,Vespertilionidae,Pipistrellus,Nannugo,Kolenati,1856,NA
+13802046,CHIROPTERA,Vespertilionidae,Pipistrellus,Perimyotis,Menu,1984,NA
+13802046,CHIROPTERA,Vespertilionidae,Pipistrellus,Romicia,Gray,1838,NA
+13802046,CHIROPTERA,Vespertilionidae,Pipistrellus,Romicius,Blyth,1840,NA
+13802046,CHIROPTERA,Vespertilionidae,Pipistrellus,Vansonia,Roberts,1946,NA
+13802126,CHIROPTERA,Vespertilionidae,Scotozous,NA,NA,NA,NA
+13802129,CHIROPTERA,Vespertilionidae,Barbastella,Synotus,Keyserling and Blasius,1839,NA
+13802136,CHIROPTERA,Vespertilionidae,Corynorhinus,NA,NA,NA,NA
+13802147,CHIROPTERA,Vespertilionidae,Euderma,NA,NA,NA,NA
+13802149,CHIROPTERA,Vespertilionidae,Idionycteris,NA,NA,NA,NA
+13802151,CHIROPTERA,Vespertilionidae,Otonycteris,NA,NA,NA,NA
+13802153,CHIROPTERA,Vespertilionidae,Plecotus,Macrotus,Leach,1816,"[nomen nudum , not Gray, 1842]"
+13802174,CHIROPTERA,Vespertilionidae,Chalinolobus,NA,NA,NA,NA
+13802184,CHIROPTERA,Vespertilionidae,Eudiscopus,Discopus,Osgood,1932,"[not Discopus Thompson, 1864, a coleopteran]"
+13802186,CHIROPTERA,Vespertilionidae,Falsistrellus,NA,NA,NA,NA
+13802192,CHIROPTERA,Vespertilionidae,Glauconycteris,NA,NA,NA,NA
+13802207,CHIROPTERA,Vespertilionidae,Histiotus,NA,NA,NA,NA
+13802218,CHIROPTERA,Vespertilionidae,Hypsugo,Parastrellus,Horacek and Hanák,1985,NA
+13802241,CHIROPTERA,Vespertilionidae,Ia,Parascotomanes,Bourret,1942,NA
+13802243,CHIROPTERA,Vespertilionidae,Laephotis,NA,NA,NA,NA
+13802248,CHIROPTERA,Vespertilionidae,Mimetillus,NA,NA,NA,NA
+13802252,CHIROPTERA,Vespertilionidae,Neoromicia,NA,NA,NA,NA
+13802287,CHIROPTERA,Vespertilionidae,Philetor,NA,NA,NA,NA
+13802289,CHIROPTERA,Vespertilionidae,Tylonycteris,NA,NA,NA,NA
+13802299,CHIROPTERA,Vespertilionidae,Vespadelus,Registrellus,Troughton,1943,NA
+13802309,CHIROPTERA,Vespertilionidae,Vespertilio,Aristippe,Kolenati,1863,NA
+13802309,CHIROPTERA,Vespertilionidae,Vespertilio,Marsipolaemus,Peters,1872,NA
+13802309,CHIROPTERA,Vespertilionidae,Vespertilio,Meteorus,Kolenati,1856,NA
+13802309,CHIROPTERA,Vespertilionidae,Vespertilio,Vesperugo,Keyserling and Blasius,1839,NA
+13802309,CHIROPTERA,Vespertilionidae,Vespertilio,Vesperus,Keyserling and Blasius,1839,"[not Latreille, 1829]"
+13802320,CHIROPTERA,Vespertilionidae,Antrozous,NA,NA,NA,NA
+13802329,CHIROPTERA,Vespertilionidae,Bauerus,NA,NA,NA,NA
+13802332,CHIROPTERA,Vespertilionidae,Cistugo,NA,NA,NA,NA
+13802335,CHIROPTERA,Vespertilionidae,Lasionycteris,Vesperides,Coues,1875,NA
+13802337,CHIROPTERA,Vespertilionidae,Myotis,Aeorestes,Fitzinger,1870,NA
+13802337,CHIROPTERA,Vespertilionidae,Myotis,Anamygdon,Troughton,1929,NA
+13802337,CHIROPTERA,Vespertilionidae,Myotis,Brachyotis,Kolenati,1856,"[not Gould, 1837]"
+13802337,CHIROPTERA,Vespertilionidae,Myotis,Capaccinus,Bonaparte,1841,NA
+13802337,CHIROPTERA,Vespertilionidae,Myotis,Chrysopteron,Jentink,1910,NA
+13802337,CHIROPTERA,Vespertilionidae,Myotis,Comastes,Fitzinger,1870,NA
+13802337,CHIROPTERA,Vespertilionidae,Myotis,Dichromyotis,Bianchi,1916,NA
+13802337,CHIROPTERA,Vespertilionidae,Myotis,Euvespertilio,Acloque,1899,NA
+13802337,CHIROPTERA,Vespertilionidae,Myotis,Exochurus,Fitzinger,1870,NA
+13802337,CHIROPTERA,Vespertilionidae,Myotis,Hesperomyotis,Cabrera,1958,NA
+13802337,CHIROPTERA,Vespertilionidae,Myotis,Isotus,Kolenate,1856,NA
+13802337,CHIROPTERA,Vespertilionidae,Myotis,Leuconoe,Boie,1830,NA
+13802337,CHIROPTERA,Vespertilionidae,Myotis,Megapipistrellus,Bianchi,1917,NA
+13802337,CHIROPTERA,Vespertilionidae,Myotis,Nyctactes,Kaup,1829,NA
+13802337,CHIROPTERA,Vespertilionidae,Myotis,Paramyotis,Bianchi,1916,NA
+13802337,CHIROPTERA,Vespertilionidae,Myotis,Pizonyx,Miller,1906,NA
+13802337,CHIROPTERA,Vespertilionidae,Myotis,Pternopterus,Peters,1867,NA
+13802337,CHIROPTERA,Vespertilionidae,Myotis,Rickettia,Bianchi,1916,NA
+13802337,CHIROPTERA,Vespertilionidae,Myotis,Selysius,Bonaparte,1841,NA
+13802337,CHIROPTERA,Vespertilionidae,Myotis,Tralatitus,Gervais,1849,NA
+13802337,CHIROPTERA,Vespertilionidae,Myotis,Trilatitus,Gray,1842,NA
+13802579,CHIROPTERA,Vespertilionidae,Miniopterus,NA,NA,NA,NA
+13802638,CHIROPTERA,Vespertilionidae,Harpiocephalus,NA,NA,NA,NA
+13802645,CHIROPTERA,Vespertilionidae,Murina,Harpiola,Thomas,1915,NA
+13802645,CHIROPTERA,Vespertilionidae,Murina,Ocypetes,Lesson,1841,"[not Risso, 1826]"
+13802678,CHIROPTERA,Vespertilionidae,Kerivoula,Cerivoula,Blanford,1891,NA
+13802678,CHIROPTERA,Vespertilionidae,Kerivoula,Nyctophylax,Fitzinger,1861,NA
+13802712,CHIROPTERA,Vespertilionidae,Phoniscus,NA,NA,NA,NA
+13900003,PHOLIDOTA,Manidae,Manis,Pangolin,Gray,1873,NA
+13900003,PHOLIDOTA,Manidae,Manis,Pangolinus,Rafinesque,1815,NA
+13900003,PHOLIDOTA,Manidae,Manis,Pangolinus,Rafinesque,1821,NA
+13900003,PHOLIDOTA,Manidae,Manis,Paramanis,Pocock,1824,NA
+13900003,PHOLIDOTA,Manidae,Manis,Phatages,Sundevall,1843,NA
+13900003,PHOLIDOTA,Manidae,Manis,Phatagin,Gray,1865,NA
+13900003,PHOLIDOTA,Manidae,Manis,Phataginus,Rafinesque,1821,NA
+13900003,PHOLIDOTA,Manidae,Manis,Pholidotus,Brisson,1762,NA
+13900003,PHOLIDOTA,Manidae,Manis,Smutsia,Gray,1865,NA
+13900003,PHOLIDOTA,Manidae,Manis,Triglochinopolis,Fitzinger,1872,NA
+13900003,PHOLIDOTA,Manidae,Manis,Uromanis,Pocock,1924,NA
+14000005,CARNIVORA,Felidae,Acinonyx,Acinomyx,de Beaumont,1964,NA
+14000005,CARNIVORA,Felidae,Acinonyx,Cynaelurus,Gloger,1841,NA
+14000005,CARNIVORA,Felidae,Acinonyx,Cynailurus,Wagner,1830,NA
+14000005,CARNIVORA,Felidae,Acinonyx,Cynofelis,Lesson,1842,NA
+14000005,CARNIVORA,Felidae,Acinonyx,Guepar,Boitard,1842,NA
+14000005,CARNIVORA,Felidae,Acinonyx,Gueparda,Gray,1843,NA
+14000005,CARNIVORA,Felidae,Acinonyx,Guepardus,Duvernoy,1834,NA
+14000005,CARNIVORA,Felidae,Acinonyx,Paracinonyx,Kretzoi,1929,NA
+14000013,CARNIVORA,Felidae,Caracal,Caracala,Gray,1843,[nomen nudum]
+14000013,CARNIVORA,Felidae,Caracal,Urolynchus,Severtzov,1858,NA
+14000023,CARNIVORA,Felidae,Catopuma,Badiofelis,Pocock,1932,NA
+14000029,CARNIVORA,Felidae,Felis,Avitofelis,Kretzoi,1930,NA
+14000029,CARNIVORA,Felidae,Felis,Catolynx,Severtzov,1858,NA
+14000029,CARNIVORA,Felidae,Felis,Catus,Frisch,1775,NA
+14000029,CARNIVORA,Felidae,Felis,Chaus,Gray,1843,NA
+14000029,CARNIVORA,Felidae,Felis,Eremaelurus,Ognev,1927,NA
+14000029,CARNIVORA,Felidae,Felis,Mamfelisus,Herrera,1899,NA
+14000029,CARNIVORA,Felidae,Felis,Microfelis,Roberts,1926,NA
+14000029,CARNIVORA,Felidae,Felis,Otailurus,Severtzov,1858,NA
+14000029,CARNIVORA,Felidae,Felis,Otocolobus,Brandt,1842,NA
+14000029,CARNIVORA,Felidae,Felis,Poliailurus,Lönnberg,1925,NA
+14000029,CARNIVORA,Felidae,Felis,Trichaelurus,Satunin,1905,NA
+14000080,CARNIVORA,Felidae,Leopardus,Colocolo,Pocock,1941,NA
+14000080,CARNIVORA,Felidae,Leopardus,Dendrailurus,Severtzov,1858,NA
+14000080,CARNIVORA,Felidae,Leopardus,Lynchailurus,Severtzov,1858,NA
+14000080,CARNIVORA,Felidae,Leopardus,Margay,Gray,1867,NA
+14000080,CARNIVORA,Felidae,Leopardus,Montifelis,Schwangart,1941,NA
+14000080,CARNIVORA,Felidae,Leopardus,Mungofelis,Antonius,1933,NA
+14000080,CARNIVORA,Felidae,Leopardus,Noctifelis,Severtzov,1858,NA
+14000080,CARNIVORA,Felidae,Leopardus,Oncifelis,Severtzov,1858,NA
+14000080,CARNIVORA,Felidae,Leopardus,Oncilla,Allen,1919,NA
+14000080,CARNIVORA,Felidae,Leopardus,Oncoides,Severtzov,1858,NA
+14000080,CARNIVORA,Felidae,Leopardus,Oreailurus,Cabrera,1940,NA
+14000080,CARNIVORA,Felidae,Leopardus,Pajeros,Gray,1867,NA
+14000080,CARNIVORA,Felidae,Leopardus,Pardalina,Gray,1867,NA
+14000080,CARNIVORA,Felidae,Leopardus,Pardalis,Gray,1867,NA
+14000080,CARNIVORA,Felidae,Leopardus,Pseudolynx,Schwangart,1941,NA
+14000131,CARNIVORA,Felidae,Leptailurus,Galeopardus,Heuglin and Fitzinger,1866,NA
+14000131,CARNIVORA,Felidae,Leptailurus,Serval,Brehm,1864,NA
+14000131,CARNIVORA,Felidae,Leptailurus,Servalina,Greve,1894,NA
+14000151,CARNIVORA,Felidae,Lynx,Cervaria,Gray,1867,NA
+14000151,CARNIVORA,Felidae,Lynx,Eucervaria,Palmer,1903,NA
+14000151,CARNIVORA,Felidae,Lynx,Lynceus,Gray,1821,NA
+14000151,CARNIVORA,Felidae,Lynx,Lynchus,Jardine,1834,NA
+14000151,CARNIVORA,Felidae,Lynx,Lyncus,Gray,1825,NA
+14000151,CARNIVORA,Felidae,Lynx,Pardina,Kaup,1829,NA
+14000176,CARNIVORA,Felidae,Pardofelis,NA,NA,NA,NA
+14000180,CARNIVORA,Felidae,Prionailurus,Aelurina,Gill,1871,NA
+14000180,CARNIVORA,Felidae,Prionailurus,Ailurin,Gervais,1855,NA
+14000180,CARNIVORA,Felidae,Prionailurus,Ailurina,Trouessart,1885,NA
+14000180,CARNIVORA,Felidae,Prionailurus,Ailurogale,Fitzinger,1869,NA
+14000180,CARNIVORA,Felidae,Prionailurus,Ictailurus,Severtzov,1858,NA
+14000180,CARNIVORA,Felidae,Prionailurus,Mayailurus,Imaizumi,1967,NA
+14000180,CARNIVORA,Felidae,Prionailurus,Plethaelurus,Cope,1882,NA
+14000180,CARNIVORA,Felidae,Prionailurus,Priononfelis,Kretzoi,1929,NA
+14000180,CARNIVORA,Felidae,Prionailurus,Viverriceps,J. E. Gray,1867,NA
+14000180,CARNIVORA,Felidae,Prionailurus,Zibethailurus,Severtzov,1858,NA
+14000199,CARNIVORA,Felidae,Profelis,Chrysailurus,Severtzov,1858,NA
+14000203,CARNIVORA,Felidae,Puma,Herpailurus,Severtzov,1858,NA
+14000221,CARNIVORA,Felidae,Neofelis,NA,NA,NA,NA
+14000227,CARNIVORA,Felidae,Panthera,Jaguarius,Severtzov,1858,NA
+14000227,CARNIVORA,Felidae,Panthera,Leo,Frisch,1775,NA
+14000227,CARNIVORA,Felidae,Panthera,Leonina,Greve,1894,NA
+14000227,CARNIVORA,Felidae,Panthera,Leoninae,Wagner,1841,NA
+14000227,CARNIVORA,Felidae,Panthera,Pardotigris,Kretzoi,1929,NA
+14000227,CARNIVORA,Felidae,Panthera,Pardus,Fitzinger,1868,NA
+14000227,CARNIVORA,Felidae,Panthera,Tigrina,Greve,1894,NA
+14000227,CARNIVORA,Felidae,Panthera,Tigrinae,Wagner,1841,NA
+14000227,CARNIVORA,Felidae,Panthera,Tigris,Gray,1843,NA
+14000227,CARNIVORA,Felidae,Panthera,Tigris,Frisch,1775,NA
+14000268,CARNIVORA,Felidae,Uncia,NA,NA,NA,NA
+14000272,CARNIVORA,Viverridae,Arctictis,Ictides,Valenciennes,1825,NA
+14000280,CARNIVORA,Viverridae,Arctogalidia,Arctogale,Gray,1865,NA
+14000296,CARNIVORA,Viverridae,Macrogalidia,NA,NA,NA,NA
+14000298,CARNIVORA,Viverridae,Paguma,Ambliodon,Jourdan,1837,NA
+14000316,CARNIVORA,Viverridae,Paradoxurus,Bondar,Gray,1865,NA
+14000316,CARNIVORA,Viverridae,Paradoxurus,Macrodus,Gray,1865,NA
+14000316,CARNIVORA,Viverridae,Paradoxurus,Platyschista,Otto,1835,NA
+14000353,CARNIVORA,Viverridae,Chrotogale,NA,NA,NA,NA
+14000355,CARNIVORA,Viverridae,Cynogale,Lamictis,de Blainville,1837,NA
+14000355,CARNIVORA,Viverridae,Cynogale,Potamophilus,Müller,1838,NA
+14000359,CARNIVORA,Viverridae,Diplogale,NA,NA,NA,NA
+14000361,CARNIVORA,Viverridae,Hemigalus,Hemigale,Gray,1865,NA
+14000361,CARNIVORA,Viverridae,Hemigalus,Hemigalea,Geoffroy Saint-Hilaire and de Blainville,1837,NA
+14000368,CARNIVORA,Viverridae,Prionodon,Linsang,Müller,1840,NA
+14000368,CARNIVORA,Viverridae,Prionodon,Linsanga,Lydekker,1896,NA
+14000368,CARNIVORA,Viverridae,Prionodon,Pardictis,Thomas,1925,NA
+14000368,CARNIVORA,Viverridae,Prionodon,Priodontes,Lesson,1842,NA
+14000377,CARNIVORA,Viverridae,Civettictis,NA,NA,NA,NA
+14000385,CARNIVORA,Viverridae,Genetta,Odmaelurus,Gloger,1841,NA
+14000385,CARNIVORA,Viverridae,Genetta,Paragenetta,Kuhn,1960,NA
+14000385,CARNIVORA,Viverridae,Genetta,Pseudogenetta,Dekeyser,1949,NA
+14000412,CARNIVORA,Viverridae,Poiana,NA,NA,NA,NA
+14000417,CARNIVORA,Viverridae,Viverra,Moschothera,Pocock,1933,NA
+14000417,CARNIVORA,Viverridae,Viverra,Vivera,Gray,1821,NA
+14000429,CARNIVORA,Viverridae,Viverricula,Viverrula,Hodgson,1842,NA
+14000445,CARNIVORA,Eupleridae,Cryptoprocta,NA,NA,NA,NA
+14000447,CARNIVORA,Eupleridae,Eupleres,NA,NA,NA,NA
+14000451,CARNIVORA,Eupleridae,Fossa,NA,NA,NA,NA
+14000454,CARNIVORA,Eupleridae,Galidia,NA,NA,NA,NA
+14000459,CARNIVORA,Eupleridae,Galidictis,Galictis,I. Geoffroy Saint-Hilaire,1837,[preoccupied]
+14000459,CARNIVORA,Eupleridae,Galidictis,Musanga,Coues,1891,NA
+14000464,CARNIVORA,Eupleridae,Mungotictis,NA,NA,NA,NA
+14000468,CARNIVORA,Eupleridae,Salanoia,Hemigalidia,Mivart,1882,NA
+14000471,CARNIVORA,Nandiniidae,Nandinia,NA,NA,NA,NA
+14000478,CARNIVORA,Herpestidae,Atilax,Athylax,de Blainville,1837,NA
+14000491,CARNIVORA,Herpestidae,Bdeogale,Beleogale,Marshall,1873,NA
+14000491,CARNIVORA,Herpestidae,Bdeogale,Galeriscus,Thomas,1894,NA
+14000500,CARNIVORA,Herpestidae,Crossarchus,NA,NA,NA,NA
+14000507,CARNIVORA,Herpestidae,Cynictis,NA,NA,NA,NA
+14000521,CARNIVORA,Herpestidae,Dologale,NA,NA,NA,NA
+14000523,CARNIVORA,Herpestidae,Galerella,NA,NA,NA,NA
+14000561,CARNIVORA,Herpestidae,Helogale,NA,NA,NA,NA
+14000576,CARNIVORA,Herpestidae,Herpestes,Calogale,Gray,1865,NA
+14000576,CARNIVORA,Herpestidae,Herpestes,Calictis,Gray,1865,NA
+14000576,CARNIVORA,Herpestidae,Herpestes,Herpertes,Illiger,1811,NA
+14000576,CARNIVORA,Herpestidae,Herpestes,Ichneumon,Frisch,1775,NA
+14000576,CARNIVORA,Herpestidae,Herpestes,Mangusta,Horsfield,1822,NA
+14000576,CARNIVORA,Herpestidae,Herpestes,Mesobema,Hodgson,1841,NA
+14000576,CARNIVORA,Herpestidae,Herpestes,Onychogale,Gray,1865,NA
+14000576,CARNIVORA,Herpestidae,Herpestes,Taeniogale,Gray,1865,NA
+14000576,CARNIVORA,Herpestidae,Herpestes,Urva,Hodgson,1837,NA
+14000576,CARNIVORA,Herpestidae,Herpestes,Xenogale,Allen,1919,NA
+14000637,CARNIVORA,Herpestidae,Ichneumia,Lasiopus,I. Geoffroy Saint-Hilaire,1835,NA
+14000646,CARNIVORA,Herpestidae,Liberiictis,NA,NA,NA,NA
+14000648,CARNIVORA,Herpestidae,Mungos,Ariela,Gray,1864,NA
+14000667,CARNIVORA,Herpestidae,Paracynictis,NA,NA,NA,NA
+14000673,CARNIVORA,Herpestidae,Rhynchogale,Rhinogale,Gray,1865,NA
+14000677,CARNIVORA,Herpestidae,Suricata,Rhyzaena,Wagner,1841,NA
+14000677,CARNIVORA,Herpestidae,Suricata,Rysaena,Lesson,1827,NA
+14000677,CARNIVORA,Herpestidae,Suricata,Ryzaena,Illiger,1811,NA
+14000677,CARNIVORA,Herpestidae,Suricata,Surricata,Gray,1821,NA
+14000683,CARNIVORA,Hyaenidae,Crocuta,Crocotta,Kaup,1829,NA
+14000685,CARNIVORA,Hyaenidae,Hyaena,Euhyaena,Falconer,1868,NA
+14000685,CARNIVORA,Hyaenidae,Hyaena,Hyena,Gray,1821,NA
+14000688,CARNIVORA,Hyaenidae,Proteles,Geocyon,Wagler,1830,NA
+14000692,CARNIVORA,Canidae,Atelocynus,Canis,Sclater,1883,"[preoccupied by Canis Linneaus, 1758]"
+14000692,CARNIVORA,Canidae,Atelocynus,Carcinocyon,J. A. Allen,1905,NA
+14000696,CARNIVORA,Canidae,Canis,Alopedon,Hilzheimer,1906,NA
+14000696,CARNIVORA,Canidae,Canis,Alopsis,Rafinesque,1815,NA
+14000696,CARNIVORA,Canidae,Canis,Chaon,C. E. H. Smith,1839,NA
+14000696,CARNIVORA,Canidae,Canis,Dasycyon,Krumbiegel,1953,NA
+14000696,CARNIVORA,Canidae,Canis,Dieba,Bray,1869,NA
+14000696,CARNIVORA,Canidae,Canis,Lupulella,Hilzheimer,1906,NA
+14000696,CARNIVORA,Canidae,Canis,Lupulus,Gervais,1855,NA
+14000696,CARNIVORA,Canidae,Canis,Lupus,Oken,1816,NA
+14000696,CARNIVORA,Canidae,Canis,Lyciscus,C. E. H. Smith,1839,NA
+14000696,CARNIVORA,Canidae,Canis,Mamcanisus,Herrera,1899,NA
+14000696,CARNIVORA,Canidae,Canis,Neocyon,Gray,1868,NA
+14000696,CARNIVORA,Canidae,Canis,Oreocyon,Krumbiegel,1949,NA
+14000696,CARNIVORA,Canidae,Canis,Oxygous,Hodgson,1841,NA
+14000696,CARNIVORA,Canidae,Canis,Sacalius,C. E. H. Smith,1839,NA
+14000696,CARNIVORA,Canidae,Canis,Schaeffia,Hilzheimer,1906,NA
+14000696,CARNIVORA,Canidae,Canis,Simenia,Gray,1868,NA
+14000696,CARNIVORA,Canidae,Canis,Thos,Oken,1816,NA
+14000696,CARNIVORA,Canidae,Canis,Vulpicanis,de Blainville,1837,NA
+14000782,CARNIVORA,Canidae,Cerdocyon,Carcinocyon,J. A. Allen,1905,NA
+14000782,CARNIVORA,Canidae,Cerdocyon,Thous,J. E. Gray,1868,NA
+14000790,CARNIVORA,Canidae,Chrysocyon,NA,NA,NA,NA
+14000792,CARNIVORA,Canidae,Cuon,Anurocyon,Heude,1888,NA
+14000792,CARNIVORA,Canidae,Cuon,Chrysaeus,C. E. H. Smith,1839,NA
+14000792,CARNIVORA,Canidae,Cuon,Cyon,Agassiz,1842,NA
+14000792,CARNIVORA,Canidae,Cuon,Primaevus,Gray,1843,NA
+14000792,CARNIVORA,Canidae,Cuon,Primoevus,Hodgson,1842,NA
+14000797,CARNIVORA,Canidae,Dusicyon,NA,NA,NA,NA
+14000799,CARNIVORA,Canidae,Lycalopex,Angusticeps,Hilzheimer,1906,NA
+14000799,CARNIVORA,Canidae,Lycalopex,Eunothocyon,J. A. Allen,1905,NA
+14000799,CARNIVORA,Canidae,Lycalopex,Lupulus,Trouessart,1897,NA
+14000799,CARNIVORA,Canidae,Lycalopex,Microcyon,Trouessart,1906,NA
+14000799,CARNIVORA,Canidae,Lycalopex,Nothocyon,Wortman and Matthew,1899,NA
+14000799,CARNIVORA,Canidae,Lycalopex,Procyon,Fischer,1814,"[not Storr, 1780]"
+14000799,CARNIVORA,Canidae,Lycalopex,Pseudalopex,Burmeister,1856,NA
+14000799,CARNIVORA,Canidae,Lycalopex,Pseudolopex,Philippi,1903,NA
+14000799,CARNIVORA,Canidae,Lycalopex,Pseudolycos,Philippi,1903,NA
+14000799,CARNIVORA,Canidae,Lycalopex,Thous,Gray,1869,NA
+14000799,CARNIVORA,Canidae,Lycalopex,Viverriceps,Hilzheimer,1906,NA
+14000799,CARNIVORA,Canidae,Lycalopex,Vulpes,Martin,1837,NA
+14000817,CARNIVORA,Canidae,Lycaon,Cynhyaena,F. G. Cuvier,1829,NA
+14000817,CARNIVORA,Canidae,Lycaon,Hyaenoides,Gervais,1855,NA
+14000817,CARNIVORA,Canidae,Lycaon,Hyenoides,Boitard,1842,NA
+14000817,CARNIVORA,Canidae,Lycaon,Kynos,Rüppell,1842,NA
+14000824,CARNIVORA,Canidae,Nyctereutes,NA,NA,NA,NA
+14000831,CARNIVORA,Canidae,Otocyon,Agrodius,C. E. H. Smith,1840,NA
+14000835,CARNIVORA,Canidae,Speothos,Abathmodon,Lund,1843,NA
+14000835,CARNIVORA,Canidae,Speothos,Cynalicus,Gray,1846,NA
+14000835,CARNIVORA,Canidae,Speothos,Cynalius,Gray,1847,NA
+14000835,CARNIVORA,Canidae,Speothos,Cynalycus,Gray,1869,NA
+14000835,CARNIVORA,Canidae,Speothos,Cynogale,Lund,1842,NA
+14000835,CARNIVORA,Canidae,Speothos,Icticyon,Lund,1843,NA
+14000835,CARNIVORA,Canidae,Speothos,Melictis,Schinz,1848,NA
+14000840,CARNIVORA,Canidae,Urocyon,NA,NA,NA,NA
+14000865,CARNIVORA,Canidae,Vulpes,Alopex,Kaup,1829,NA
+14000865,CARNIVORA,Canidae,Vulpes,Cynalopex,C. E. H. Smith,1839,NA
+14000865,CARNIVORA,Canidae,Vulpes,Fennecus,Desmarest,1804,NA
+14000865,CARNIVORA,Canidae,Vulpes,Leucocyon,Gray,1869,NA
+14000865,CARNIVORA,Canidae,Vulpes,Mamvulpesus,Herrera,1899,NA
+14000865,CARNIVORA,Canidae,Vulpes,Megalotis,Illiger,1811,NA
+14000865,CARNIVORA,Canidae,Vulpes,Vulpis,Gray,1821,NA
+14000940,CARNIVORA,Ursidae,Ailuropoda,Aeluropus,Lydekker,1891,NA
+14000940,CARNIVORA,Ursidae,Ailuropoda,Ailuropus,Milne-Edwards,1871,NA
+14000940,CARNIVORA,Ursidae,Ailuropoda,Pandarctos,Gervais,1870,NA
+14000942,CARNIVORA,Ursidae,Helarctos,Helarctus,Gloger,1841,NA
+14000946,CARNIVORA,Ursidae,Melursus,Arceus,Goldfuss,1809,NA
+14000946,CARNIVORA,Ursidae,Melursus,Chondrorhynchus,Fischer von Waldheim,1814,NA
+14000946,CARNIVORA,Ursidae,Melursus,Prochilus,Illiger,1811,NA
+14000946,CARNIVORA,Ursidae,Melursus,Prochylus,Gray,1821,NA
+14000950,CARNIVORA,Ursidae,Tremarctos,Nearctos,Gray,1873,NA
+14000952,CARNIVORA,Ursidae,Ursus,Arcticonus,Pocock,1917,NA
+14000952,CARNIVORA,Ursidae,Ursus,Danis,J. E. Gray,1825,NA
+14000952,CARNIVORA,Ursidae,Ursus,Euarctos,Gray,1864,NA
+14000952,CARNIVORA,Ursidae,Ursus,Mamursus,Herrera,1899,NA
+14000952,CARNIVORA,Ursidae,Ursus,Melanarctos,Heude,1898,NA
+14000952,CARNIVORA,Ursidae,Ursus,Mylarctos,Lönnberg,1923,NA
+14000952,CARNIVORA,Ursidae,Ursus,Myrmarctos,J. E. Gray,1864,NA
+14000952,CARNIVORA,Ursidae,Ursus,Selenarctos,Heude,1901,NA
+14000952,CARNIVORA,Ursidae,Ursus,Thalassarctos,J. E. Gray,1825,NA
+14000952,CARNIVORA,Ursidae,Ursus,Thalassarctus,Gloger,1841,NA
+14000952,CARNIVORA,Ursidae,Ursus,Thalassiarchus,Kobelt,1896,NA
+14000952,CARNIVORA,Ursidae,Ursus,Ursarctos,Heude,1898,NA
+14000952,CARNIVORA,Ursidae,Ursus,Ursulus,Kretzoi,1954,NA
+14000952,CARNIVORA,Ursidae,Ursus,Vetularctos,Merriam,1918,NA
+14000997,CARNIVORA,Otariidae,Arctocephalus,Arctophoca,Peters,1866,NA
+14000997,CARNIVORA,Otariidae,Arctocephalus,Euotaria,Gray,1866,NA
+14000997,CARNIVORA,Otariidae,Arctocephalus,Gypsophoca,Gray,1866,NA
+14000997,CARNIVORA,Otariidae,Arctocephalus,Halarctus,Gill,1866,NA
+14001008,CARNIVORA,Otariidae,Callorhinus,Callirhinus,J. E. Gray,1859,NA
+14001008,CARNIVORA,Otariidae,Callorhinus,Callorhynchus,Greve,1896,NA
+14001008,CARNIVORA,Otariidae,Callorhinus,Callotaria,Palmer,1892,NA
+14001008,CARNIVORA,Otariidae,Callorhinus,Otaria,Péron,1816,NA
+14001008,CARNIVORA,Otariidae,Callorhinus,Otoes,G. Fischer,1817,NA
+14001008,CARNIVORA,Otariidae,Callorhinus,Phoca,Linnaeus,1758,NA
+14001010,CARNIVORA,Otariidae,Eumetopias,NA,NA,NA,NA
+14001012,CARNIVORA,Otariidae,Neophoca,NA,NA,NA,NA
+14001014,CARNIVORA,Otariidae,Otaria,Otoes,Fischer von Waldheim,1817,NA
+14001014,CARNIVORA,Otariidae,Otaria,Platyrhynchus,F. G. Cuvier,1826,NA
+14001014,CARNIVORA,Otariidae,Otaria,Pontoleo,Gloger,1841,NA
+14001016,CARNIVORA,Otariidae,Phocarctos,NA,NA,NA,NA
+14001018,CARNIVORA,Otariidae,Zalophus,NA,NA,NA,NA
+14001023,CARNIVORA,Odobenidae,Odobenus,Hodobaenus,Sundevall,1860,NA
+14001023,CARNIVORA,Odobenidae,Odobenus,Odobaenus,Fee,1830,NA
+14001023,CARNIVORA,Odobenidae,Odobenus,Odontobaenus,Steenstrup,1860,NA
+14001023,CARNIVORA,Odobenidae,Odobenus,Rosmarus,Brünnich,1772,NA
+14001023,CARNIVORA,Odobenidae,Odobenus,Trichechus,Linnaeus,1766,NA
+14001023,CARNIVORA,Odobenidae,Odobenus,Trichecus,F. G. Cuvier,1829,NA
+14001029,CARNIVORA,Phocidae,Cystophora,Semmatopis,Gloger,1841,NA
+14001029,CARNIVORA,Phocidae,Cystophora,Stemmatops,Van der Hoeven,1855,NA
+14001029,CARNIVORA,Phocidae,Cystophora,Stemmatopus,F. G. Cuvier,1826,NA
+14001031,CARNIVORA,Phocidae,Erignathus,NA,NA,NA,NA
+14001035,CARNIVORA,Phocidae,Halichoerus,Halychoerus,Boitard,1842,NA
+14001039,CARNIVORA,Phocidae,Histriophoca,Callocephalus,Heuglin,1874,NA
+14001041,CARNIVORA,Phocidae,Hydrurga,Ogmorhinus,Peters,1875,NA
+14001041,CARNIVORA,Phocidae,Hydrurga,Stenorhynchotes,Turner,1888,NA
+14001043,CARNIVORA,Phocidae,Leptonychotes,Poecilophoca,Lydekker,1891,NA
+14001045,CARNIVORA,Phocidae,Lobodon,NA,NA,NA,NA
+14001047,CARNIVORA,Phocidae,Mirounga,Macrorhinus,F. G. Cuvier,1826,[preoccupied]
+14001047,CARNIVORA,Phocidae,Mirounga,Morunga,J. E. Gray,1943,NA
+14001047,CARNIVORA,Phocidae,Mirounga,Rhinophoca,Wagler,1830,NA
+14001050,CARNIVORA,Phocidae,Monachus,Heliophoca,Gray,1854,NA
+14001050,CARNIVORA,Phocidae,Monachus,Mammonachus,Herrera,1899,NA
+14001050,CARNIVORA,Phocidae,Monachus,Pelagias,J. E. Gray,1837,NA
+14001050,CARNIVORA,Phocidae,Monachus,Pelagios,F. G. Cuvier,1824,NA
+14001050,CARNIVORA,Phocidae,Monachus,Pelagius,F. G. Cuvier,1826,NA
+14001050,CARNIVORA,Phocidae,Monachus,Pelagocyon,Gloger,1841,NA
+14001050,CARNIVORA,Phocidae,Monachus,Pelagus,McMurtrie,1834,NA
+14001050,CARNIVORA,Phocidae,Monachus,Rigoon,Gistel,1854,NA
+14001054,CARNIVORA,Phocidae,Ommatophoca,NA,NA,NA,NA
+14001056,CARNIVORA,Phocidae,Pagophilus,Callocephalus,Heuglin,1874,NA
+14001056,CARNIVORA,Phocidae,Pagophilus,Haliphilus,J. E. Gray,1866,NA
+14001056,CARNIVORA,Phocidae,Pagophilus,Pagomys,Gray,1864,NA
+14001056,CARNIVORA,Phocidae,Pagophilus,Pagophoca,Trouessart,1904,NA
+14001058,CARNIVORA,Phocidae,Phoca,Ambysus,Rafinesque,1815,NA
+14001058,CARNIVORA,Phocidae,Phoca,Arctias,Rafinesque,1815,NA
+14001058,CARNIVORA,Phocidae,Phoca,Calocephalus,F. G. Cuvier,1826,NA
+14001058,CARNIVORA,Phocidae,Phoca,Caspiopusa,Dybowski,1929,NA
+14001066,CARNIVORA,Phocidae,Pusa,Caspiopusa,Dybowski,1929,NA
+14001077,CARNIVORA,Mustelidae,Aonyx,Amblonyx,Rafinesque,1832,NA
+14001077,CARNIVORA,Mustelidae,Aonyx,Anahyster,Murray,1861,NA
+14001077,CARNIVORA,Mustelidae,Aonyx,Leptonyx,Lesson,1842,NA
+14001077,CARNIVORA,Mustelidae,Aonyx,Micraonyx,J. A. Allen,1919,NA
+14001077,CARNIVORA,Mustelidae,Aonyx,Paraonyx,Hinton,1921,NA
+14001089,CARNIVORA,Mustelidae,Enhydra,Enhydria,Zittel,1893,NA
+14001089,CARNIVORA,Mustelidae,Enhydra,Enhydris,Temminck,1838,NA
+14001089,CARNIVORA,Mustelidae,Enhydra,Enhydrus,Dahl,1823,NA
+14001089,CARNIVORA,Mustelidae,Enhydra,Enhydrus,MacLeay,1925,NA
+14001089,CARNIVORA,Mustelidae,Enhydra,Enydris,J. B. Fischer,1829,NA
+14001089,CARNIVORA,Mustelidae,Enhydra,Enydris,Lichtenstein,1827,NA
+14001089,CARNIVORA,Mustelidae,Enhydra,Euhydris,Jordan,1888,NA
+14001089,CARNIVORA,Mustelidae,Enhydra,Latax,Gloger,1827,NA
+14001089,CARNIVORA,Mustelidae,Enhydra,Pusa,Oken,1816,NA
+14001089,CARNIVORA,Mustelidae,Enhydra,Sutra,Elliot,1874,NA
+14001094,CARNIVORA,Mustelidae,Hydrictis,Hydrogale,Gray,1865,NA
+14001096,CARNIVORA,Mustelidae,Lontra,NA,NA,NA,NA
+14001111,CARNIVORA,Mustelidae,Lutra,Lutris,Duméril,1806,NA
+14001111,CARNIVORA,Mustelidae,Lutra,Lutrix,Rafinesque,1815,NA
+14001111,CARNIVORA,Mustelidae,Lutra,Lutronectes,Gray,1867,NA
+14001111,CARNIVORA,Mustelidae,Lutra,Mamlutraus,Herrera,1899,NA
+14001126,CARNIVORA,Mustelidae,Lutrogale,NA,NA,NA,NA
+14001130,CARNIVORA,Mustelidae,Pteronura,Pterura,Wiegmann,1839,NA
+14001130,CARNIVORA,Mustelidae,Pteronura,Saricovia,Lesson,1842,NA
+14001135,CARNIVORA,Mustelidae,Arctonyx,Syarchus,Gloger,1841,NA
+14001135,CARNIVORA,Mustelidae,Arctonyx,Synarchus,Gray,1865,NA
+14001135,CARNIVORA,Mustelidae,Arctonyx,Trichomanis,Hubrecht,1891,NA
+14001143,CARNIVORA,Mustelidae,Eira,Eirara,Lund,1839,NA
+14001143,CARNIVORA,Mustelidae,Eira,Eraria,Gray,1843,NA
+14001143,CARNIVORA,Mustelidae,Eira,Galera,Gray,1843,NA
+14001143,CARNIVORA,Mustelidae,Eira,Tayra,Palmer,1904,NA
+14001154,CARNIVORA,Mustelidae,Galictis,Galictes,Bell,1837,NA
+14001154,CARNIVORA,Mustelidae,Galictis,Gallictis,Waterhouse,1839,NA
+14001154,CARNIVORA,Mustelidae,Galictis,Grison,Oken,1816,NA
+14001154,CARNIVORA,Mustelidae,Galictis,Grisonella,Thomas,1912,NA
+14001154,CARNIVORA,Mustelidae,Galictis,Grisonia,Gray,1865,NA
+14001154,CARNIVORA,Mustelidae,Galictis,Gulo,Desmarest,1820,NA
+14001154,CARNIVORA,Mustelidae,Galictis,Huro,I. Geoffroy Saint-Hilaire,1835,NA
+14001154,CARNIVORA,Mustelidae,Galictis,Mustela,Bechstein,1800,NA
+14001165,CARNIVORA,Mustelidae,Gulo,NA,NA,NA,NA
+14001173,CARNIVORA,Mustelidae,Ictonyx,Ictidonyx,Agassiz,1846,NA
+14001173,CARNIVORA,Mustelidae,Ictonyx,Ictomys,Roberts,1936,NA
+14001173,CARNIVORA,Mustelidae,Ictonyx,Ozolictis,Gloger,1841,NA
+14001173,CARNIVORA,Mustelidae,Ictonyx,Poecilictis,Thomas and Hinton,1920,NA
+14001173,CARNIVORA,Mustelidae,Ictonyx,Rhabdogale,Wiegmann,1838,NA
+14001173,CARNIVORA,Mustelidae,Ictonyx,Zorilla,I. Geoffroy Saint-Hilaire,1826,NA
+14001199,CARNIVORA,Mustelidae,Lyncodon,NA,NA,NA,NA
+14001203,CARNIVORA,Mustelidae,Martes,Charronia,Gray,1865,NA
+14001203,CARNIVORA,Mustelidae,Martes,Foiana,Gray,1865,NA
+14001203,CARNIVORA,Mustelidae,Martes,Lamprogale,Ognev,1928,NA
+14001203,CARNIVORA,Mustelidae,Martes,Mustela,Blasius,1857,NA
+14001203,CARNIVORA,Mustelidae,Martes,Pekania,Gray,1865,NA
+14001203,CARNIVORA,Mustelidae,Martes,Zibellina,Kaup,1829,NA
+14001275,CARNIVORA,Mustelidae,Meles,Eumeles,Gray,1865,NA
+14001275,CARNIVORA,Mustelidae,Meles,Meledes,Kastschenko,1925,NA
+14001275,CARNIVORA,Mustelidae,Meles,Melesium,Rafinesque,1815,NA
+14001275,CARNIVORA,Mustelidae,Meles,Taxus,E. Geoffroy Saint-Hilaire and G. Cuvier,1795,NA
+14001292,CARNIVORA,Mustelidae,Mellivora,Lipotus,Sundevall,1843,NA
+14001292,CARNIVORA,Mustelidae,Mellivora,Melitoryx,Gloger,1841,NA
+14001292,CARNIVORA,Mustelidae,Mellivora,Melivora,Gray,1847,NA
+14001292,CARNIVORA,Mustelidae,Mellivora,Ratellus,Gray,1827,NA
+14001292,CARNIVORA,Mustelidae,Mellivora,Rattelus,Swainson,1835,NA
+14001292,CARNIVORA,Mustelidae,Mellivora,Ratelus,Gray,1825,NA
+14001292,CARNIVORA,Mustelidae,Mellivora,Ursitaxus,Hodgson,1835,NA
+14001292,CARNIVORA,Mustelidae,Mellivora,Ursotaxus,Blyth,1840,NA
+14001306,CARNIVORA,Mustelidae,Melogale,Helictis,Gray,1831,NA
+14001306,CARNIVORA,Mustelidae,Melogale,Nesictis,Thomas,1922,NA
+14001306,CARNIVORA,Mustelidae,Melogale,Rhinogale,Gloger,1841,NA
+14001325,CARNIVORA,Mustelidae,Mustela,Arctogale,Kaup,1829,NA
+14001325,CARNIVORA,Mustelidae,Mustela,Cabreragale,Baryshnikov and Abramov,1997,NA
+14001325,CARNIVORA,Mustelidae,Mustela,Cryptomustela,Abramov,2000,NA
+14001325,CARNIVORA,Mustelidae,Mustela,Cynomyonax,Coues,1877,NA
+14001325,CARNIVORA,Mustelidae,Mustela,Eumustela,Acloque,1899,NA
+14001325,CARNIVORA,Mustelidae,Mustela,Foetorius,Keyserling and Blasius,1840,NA
+14001325,CARNIVORA,Mustelidae,Mustela,Gale,Wagner,1841,NA
+14001325,CARNIVORA,Mustelidae,Mustela,Grammogale,Cabrera,1940,NA
+14001325,CARNIVORA,Mustelidae,Mustela,Gymnopus,Gray,1865,NA
+14001325,CARNIVORA,Mustelidae,Mustela,Hydromustela,Bogdanov,1871,NA
+14001325,CARNIVORA,Mustelidae,Mustela,Ictis,Kaup,1829,NA
+14001325,CARNIVORA,Mustelidae,Mustela,Kolonocus,Satunin,1914,NA
+14001325,CARNIVORA,Mustelidae,Mustela,Kolonokus,Satunin,1911,NA
+14001325,CARNIVORA,Mustelidae,Mustela,Lutreola,Wagner,1841,NA
+14001325,CARNIVORA,Mustelidae,Mustela,Mustelina,Bogdanov,1871,NA
+14001325,CARNIVORA,Mustelidae,Mustela,Mustella,Scopoli,1777,NA
+14001325,CARNIVORA,Mustelidae,Mustela,Neogale,Gray,1865,NA
+14001325,CARNIVORA,Mustelidae,Mustela,Neovison,Baryshnikov and Abramov,1997,NA
+14001325,CARNIVORA,Mustelidae,Mustela,Plesiogale,Pocock,1921,NA
+14001325,CARNIVORA,Mustelidae,Mustela,Pocockictis,Kretzoi,1947,NA
+14001325,CARNIVORA,Mustelidae,Mustela,Putorius,Cuvier,1817,NA
+14001325,CARNIVORA,Mustelidae,Mustela,Vison,Gray,1843,NA
+14001482,CARNIVORA,Mustelidae,Neovison,NA,NA,NA,NA
+14001500,CARNIVORA,Mustelidae,Poecilogale,Zorilla,Gray,1864,NA
+14001507,CARNIVORA,Mustelidae,Taxidea,NA,NA,NA,NA
+14001514,CARNIVORA,Mustelidae,Vormela,NA,NA,NA,NA
+14001522,CARNIVORA,Mephitidae,Conepatus,Lycodon,d'Orbigny,NA,"[in Gray, 1865]"
+14001522,CARNIVORA,Mephitidae,Conepatus,Mamconepatus,Herrera,1899,NA
+14001522,CARNIVORA,Mephitidae,Conepatus,Marputius,Gray,1837,NA
+14001522,CARNIVORA,Mephitidae,Conepatus,Oryctogale,Merriam,1902,NA
+14001522,CARNIVORA,Mephitidae,Conepatus,Ozolictus,Gloger,1842,"[in Gray, 1865]"
+14001522,CARNIVORA,Mephitidae,Conepatus,Thiosmus,Lichtenstein,1838,NA
+14001546,CARNIVORA,Mephitidae,Mephitis,Chincha,Lesson,1842,NA
+14001546,CARNIVORA,Mephitidae,Mephitis,Leucomitra,Howell,1901,NA
+14001546,CARNIVORA,Mephitidae,Mephitis,Mammephitisus,Herrera,1899,NA
+14001546,CARNIVORA,Mephitidae,Mephitis,Mephites,Gray,1847,NA
+14001546,CARNIVORA,Mephitidae,Mephitis,Mephritis,Gray,1821,NA
+14001546,CARNIVORA,Mephitidae,Mephitis,Spilogale,Gray,1865,NA
+14001546,CARNIVORA,Mephitidae,Mephitis,Viverra,Schreber,1776,NA
+14001566,CARNIVORA,Mephitidae,Mydaus,Mephitis,Desmarest,1820,NA
+14001566,CARNIVORA,Mephitidae,Mydaus,Mydaon,Gloger,1865,NA
+14001566,CARNIVORA,Mephitidae,Mydaus,Suillotaxus,Lawrence,1939,NA
+14001572,CARNIVORA,Mephitidae,Spilogale,NA,NA,NA,NA
+14001596,CARNIVORA,Procyonidae,Bassaricyon,NA,NA,NA,NA
+14001602,CARNIVORA,Procyonidae,Bassariscus,Bassaris,Lichtenstein,1830,NA
+14001602,CARNIVORA,Procyonidae,Bassariscus,Jentinkia,Trouessart,1904,NA
+14001602,CARNIVORA,Procyonidae,Bassariscus,Mambassariscus,Herrera,1899,NA
+14001602,CARNIVORA,Procyonidae,Bassariscus,Wagneria,Jentink,1886,NA
+14001624,CARNIVORA,Procyonidae,Nasua,Coati,Lacépède,1799,NA
+14001624,CARNIVORA,Procyonidae,Nasua,Mamnasuaus,Herrera,1899,NA
+14001624,CARNIVORA,Procyonidae,Nasua,Nasica,South,1845,NA
+14001644,CARNIVORA,Procyonidae,Nasuella,NA,NA,NA,NA
+14001649,CARNIVORA,Procyonidae,Potos,Cercoleptes,Illiger,1811,NA
+14001649,CARNIVORA,Procyonidae,Potos,Kinkajou,Lacépède,1799,NA
+14001649,CARNIVORA,Procyonidae,Potos,Kinkaschu,G. Fischer von Waldheim,1813,NA
+14001649,CARNIVORA,Procyonidae,Potos,Mamcercolepteus,Herrera,1899,NA
+14001658,CARNIVORA,Procyonidae,Procyon,NA,NA,NA,NA
+14001689,CARNIVORA,Ailuridae,Ailurus,Aelurus,Agassiz,1846,NA
+14001689,CARNIVORA,Ailuridae,Ailurus,Aelurus,Flower,1870,NA
+14001689,CARNIVORA,Ailuridae,Ailurus,Arctaelurus,Gloger,1841,NA
+14100003,PERISSODACTYLA,Equidae,Equus,Asinohippus,Trumler,1961,NA
+14100003,PERISSODACTYLA,Equidae,Equus,Asinus,Brisson,1762,[unavailable]
+14100003,PERISSODACTYLA,Equidae,Equus,Asinus,Gray,1824,NA
+14100003,PERISSODACTYLA,Equidae,Equus,Caballus,Rafinesque,1815,NA
+14100003,PERISSODACTYLA,Equidae,Equus,Dolichohippus,Heller,1912,NA
+14100003,PERISSODACTYLA,Equidae,Equus,Grevya,Hilzheimer,1912,NA
+14100003,PERISSODACTYLA,Equidae,Equus,Hemionus,F. Cuvier,1823,[unavailable]
+14100003,PERISSODACTYLA,Equidae,Equus,Hemionus,Stehlin and Graziosi,1935,NA
+14100003,PERISSODACTYLA,Equidae,Equus,Hemippus,Dietrich,1959,NA
+14100003,PERISSODACTYLA,Equidae,Equus,Hippotigris,C. H. Smith,1841,NA
+14100003,PERISSODACTYLA,Equidae,Equus,Ludolphozecora,Griffin,1913,NA
+14100003,PERISSODACTYLA,Equidae,Equus,Megacephalon,Hilzheimer,1912,NA
+14100003,PERISSODACTYLA,Equidae,Equus,Megacephalonella,Strand,1943,NA
+14100003,PERISSODACTYLA,Equidae,Equus,Microhippus,Matschie,1924,NA
+14100003,PERISSODACTYLA,Equidae,Equus,Onager,Brisson,1762,[unavailable]
+14100003,PERISSODACTYLA,Equidae,Equus,Pseudoquagga,Hoffstetter,1951,NA
+14100003,PERISSODACTYLA,Equidae,Equus,Quagga,Shortridge,1934,NA
+14100003,PERISSODACTYLA,Equidae,Equus,Quaggoides,Willoughby,1974,NA
+14100003,PERISSODACTYLA,Equidae,Equus,Zebra,J. A. Allen,1909,NA
+14100037,PERISSODACTYLA,Tapiridae,Tapirus,Acrocodia,Goldman,1913,NA
+14100037,PERISSODACTYLA,Tapiridae,Tapirus,Chinchecus,Trouessart,1898,NA
+14100037,PERISSODACTYLA,Tapiridae,Tapirus,Cinchacus,Gray,1873,NA
+14100037,PERISSODACTYLA,Tapiridae,Tapirus,Elasmognathus,Gill,1865,NA
+14100037,PERISSODACTYLA,Tapiridae,Tapirus,Hydrochoerus,Gray,1821,[nomen nudum]
+14100037,PERISSODACTYLA,Tapiridae,Tapirus,Pinchacus,Hershkovitz,1954,NA
+14100037,PERISSODACTYLA,Tapiridae,Tapirus,Rhinochoerus,Wagler,1830,NA
+14100037,PERISSODACTYLA,Tapiridae,Tapirus,Syspotamus,Billburg,1827,NA
+14100037,PERISSODACTYLA,Tapiridae,Tapirus,Tapir,Blumenbach,1779,NA
+14100037,PERISSODACTYLA,Tapiridae,Tapirus,Tapyra,Liais,1872,NA
+14100037,PERISSODACTYLA,Tapiridae,Tapirus,Tapirella,Palmer,1903,NA
+14100037,PERISSODACTYLA,Tapiridae,Tapirus,Tapirussa,Frisch,1775,[unavailable]
+14100049,PERISSODACTYLA,Rhinocerotidae,Ceratotherium,NA,NA,NA,NA
+14100053,PERISSODACTYLA,Rhinocerotidae,Dicerorhinus,Ceratorhinus,Gray,1867,NA
+14100053,PERISSODACTYLA,Rhinocerotidae,Dicerorhinus,Didermocerus,Brookes,1828,[suppressed]
+14100058,PERISSODACTYLA,Rhinocerotidae,Diceros,Colobognathus,Brandt,1878,NA
+14100058,PERISSODACTYLA,Rhinocerotidae,Diceros,Keitloa,Gray,1868,NA
+14100058,PERISSODACTYLA,Rhinocerotidae,Diceros,Opsiceros,Gloger,1841,NA
+14100058,PERISSODACTYLA,Rhinocerotidae,Diceros,Rhinaster,Gray,1862,NA
+14100066,PERISSODACTYLA,Rhinocerotidae,Rhinoceros,Eurhinoceros,Gray,1867,NA
+14100066,PERISSODACTYLA,Rhinocerotidae,Rhinoceros,Monocerorhinus,Wüst,1922,NA
+14100066,PERISSODACTYLA,Rhinocerotidae,Rhinoceros,Monoceros,Rafinesque,1815,NA
+14100066,PERISSODACTYLA,Rhinocerotidae,Rhinoceros,Naricornis,Frisch,1775,[unavailable]
+14100066,PERISSODACTYLA,Rhinocerotidae,Rhinoceros,Unicornus,Rafinesque,1815,NA
+14200008,ARTIODACTYLA,Suidae,Babyrousa,Babiroussa,F. Cuvier,1825,NA
+14200008,ARTIODACTYLA,Suidae,Babyrousa,Babiroussous,Thomas,1895,NA
+14200008,ARTIODACTYLA,Suidae,Babyrousa,Babiroussus,Gray,1821,NA
+14200008,ARTIODACTYLA,Suidae,Babyrousa,Babirusa,Lesson,1842,NA
+14200008,ARTIODACTYLA,Suidae,Babyrousa,Babirussa,Frisch,1775,[unavailable]
+14200008,ARTIODACTYLA,Suidae,Babyrousa,Babirussa,Rafinesque,1815,NA
+14200008,ARTIODACTYLA,Suidae,Babyrousa,Babyrussa,Burnett,1830,NA
+14200008,ARTIODACTYLA,Suidae,Babyrousa,Choerelaphus,Gloger,1841,NA
+14200008,ARTIODACTYLA,Suidae,Babyrousa,Elaphochoerus,Gistel,1848,NA
+14200008,ARTIODACTYLA,Suidae,Babyrousa,Porcus,Wagler,1830,NA
+14200008,ARTIODACTYLA,Suidae,Babyrousa,Sukotyrus,Kerr,1792,[nomen oblitum]
+14200008,ARTIODACTYLA,Suidae,Babyrousa,Suckoteirus,Gray,1843,NA
+14200013,ARTIODACTYLA,Suidae,Hylochoerus,NA,NA,NA,NA
+14200018,ARTIODACTYLA,Suidae,Phacochoerus,Aper,Pallas,1766,[suppressed]
+14200018,ARTIODACTYLA,Suidae,Phacochoerus,Dinochoerus,Gloger,1841,[suppressed]
+14200018,ARTIODACTYLA,Suidae,Phacochoerus,Eureodon,G. Fischer von Waldheim,1817,[suppressed]
+14200018,ARTIODACTYLA,Suidae,Phacochoerus,Macrocephalus,Frisch,1775,[unavailable]
+14200018,ARTIODACTYLA,Suidae,Phacochoerus,Macrocephalus,Palmer,1904,[suppressed]
+14200018,ARTIODACTYLA,Suidae,Phacochoerus,Phacellochaerus,Hemprich and Ehrenberg,1832,NA
+14200018,ARTIODACTYLA,Suidae,Phacochoerus,Phacellochoerus,Hemprich and Ehrenberg,1832,NA
+14200018,ARTIODACTYLA,Suidae,Phacochoerus,Phacochaeres,Gray,1821,[suppressed]
+14200018,ARTIODACTYLA,Suidae,Phacochoerus,Phacocherus,Fleming,1822,[suppressed]
+14200018,ARTIODACTYLA,Suidae,Phacochoerus,Phacochoerus,G. Cuvier,1816,[unavailable]
+14200018,ARTIODACTYLA,Suidae,Phacochoerus,Phascochaeres,Cretzschmar,1828,[suppressed]
+14200018,ARTIODACTYLA,Suidae,Phacochoerus,Phascochaerus,Desmarest,1822,[suppressed]
+14200018,ARTIODACTYLA,Suidae,Phacochoerus,Phascochoeres,Ranzani,1821,[suppressed]
+14200018,ARTIODACTYLA,Suidae,Phacochoerus,Phascochoerus,Ranzani,1821,[suppressed]
+14200027,ARTIODACTYLA,Suidae,Potamochoerus,Choiropotamus,Gray,1843,[nomen oblitum]
+14200027,ARTIODACTYLA,Suidae,Potamochoerus,Koiropotamus,Gray,1843,[nomen nudum]
+14200027,ARTIODACTYLA,Suidae,Potamochoerus,Nyctochoerus,Heuglin,1863,NA
+14200036,ARTIODACTYLA,Suidae,Sus,Annamisus,Heude,1892,[nomen nudum]
+14200036,ARTIODACTYLA,Suidae,Sus,Aulacochoerus,Gray,1873,NA
+14200036,ARTIODACTYLA,Suidae,Sus,Capriscus,Gloger,1841,NA
+14200036,ARTIODACTYLA,Suidae,Sus,Caprisculus,Strand,1928,NA
+14200036,ARTIODACTYLA,Suidae,Sus,Centuriosus,Gray,1862,NA
+14200036,ARTIODACTYLA,Suidae,Sus,Dasychoerus,Gray,1873,NA
+14200036,ARTIODACTYLA,Suidae,Sus,Euhys,Gray,1869,NA
+14200036,ARTIODACTYLA,Suidae,Sus,Eusus,Gray,1868,NA
+14200036,ARTIODACTYLA,Suidae,Sus,Gyrosus,Gray,1862,NA
+14200036,ARTIODACTYLA,Suidae,Sus,Indisus,Heude,1899,NA
+14200036,ARTIODACTYLA,Suidae,Sus,Microsus,Heude,1899,NA
+14200036,ARTIODACTYLA,Suidae,Sus,Nesosus,Heude,1892,NA
+14200036,ARTIODACTYLA,Suidae,Sus,Porcula,Hodgson,1847,NA
+14200036,ARTIODACTYLA,Suidae,Sus,Porculia,Jerdon,1874,NA
+14200036,ARTIODACTYLA,Suidae,Sus,Porcus,S.D.W.,1836,NA
+14200036,ARTIODACTYLA,Suidae,Sus,Ptychochoerus,Fitzinger,1864,NA
+14200036,ARTIODACTYLA,Suidae,Sus,Rhinosus,Heude,1894,NA
+14200036,ARTIODACTYLA,Suidae,Sus,Scrofa,Gray,1868,NA
+14200036,ARTIODACTYLA,Suidae,Sus,Sinisus,Heude,1892,NA
+14200036,ARTIODACTYLA,Suidae,Sus,Taenisus,Heude,1899,NA
+14200036,ARTIODACTYLA,Suidae,Sus,Verrusus,Heude,1894,NA
+14200036,ARTIODACTYLA,Suidae,Sus,Vittatus,Heude,1899,[nomen nudum]
+14200075,ARTIODACTYLA,Tayassuidae,Catagonus,NA,NA,NA,NA
+14200077,ARTIODACTYLA,Tayassuidae,Pecari,Adenonotus,Brookes,1827,[nomen oblitum]
+14200077,ARTIODACTYLA,Tayassuidae,Pecari,Notophorus,G. Fischer von Waldheim,1817,[nomen oblitum]
+14200077,ARTIODACTYLA,Tayassuidae,Pecari,Notophorous,Wooodburne,1968,NA
+14200077,ARTIODACTYLA,Tayassuidae,Pecari,Tagassu,von Frisch,1775,[unavailable]
+14200093,ARTIODACTYLA,Tayassuidae,Tayassu,Dicotyles,G. Cuvier,1817,NA
+14200093,ARTIODACTYLA,Tayassuidae,Tayassu,Olidosus,Merriam,1901,NA
+14200101,ARTIODACTYLA,Hippopotamidae,Hexaprotodon,Choerodes,Leidy,1852,NA
+14200101,ARTIODACTYLA,Hippopotamidae,Hexaprotodon,Choeropsis,Leidy,1853,NA
+14200101,ARTIODACTYLA,Hippopotamidae,Hexaprotodon,Diprotodon,Duvernoy,1849,NA
+14200105,ARTIODACTYLA,Hippopotamidae,Hippopotamus,Hippopothamus,Boddaert,1785,NA
+14200105,ARTIODACTYLA,Hippopotamidae,Hippopotamus,Tetraprotodon,Falconer and Cautley,1836,NA
+14200111,ARTIODACTYLA,Camelidae,Camelus,Camellus,Molina,1782,NA
+14200111,ARTIODACTYLA,Camelidae,Camelus,Dromedarius,Gloger,1841,NA
+14200116,ARTIODACTYLA,Camelidae,Lama,Aucheria,F. Cuvier,1830,NA
+14200116,ARTIODACTYLA,Camelidae,Lama,Auchenia,Illiger,1811,NA
+14200116,ARTIODACTYLA,Camelidae,Lama,Auchenias,Wagner,1843,NA
+14200116,ARTIODACTYLA,Camelidae,Lama,Dromedarius,Wagler,1830,NA
+14200116,ARTIODACTYLA,Camelidae,Lama,Guanaco,Perry,1811,NA
+14200116,ARTIODACTYLA,Camelidae,Lama,Lacma,Tiedemann,1804,NA
+14200116,ARTIODACTYLA,Camelidae,Lama,Lama,Frisch,1775,[unavailable]
+14200116,ARTIODACTYLA,Camelidae,Lama,Llacma,Illiger,1815,NA
+14200116,ARTIODACTYLA,Camelidae,Lama,Llama,Gray,1852,NA
+14200116,ARTIODACTYLA,Camelidae,Lama,Neoauchenia,Ameghino,1891,NA
+14200116,ARTIODACTYLA,Camelidae,Lama,Pacos,Gray,1872,NA
+14200116,ARTIODACTYLA,Camelidae,Lama,Vicunia,Rafinesque,1815,NA
+14200121,ARTIODACTYLA,Camelidae,Vicugna,NA,NA,NA,NA
+14200124,ARTIODACTYLA,Tragulidae,Hyemoschus,Hyaemoschus,Zittel,1893,NA
+14200124,ARTIODACTYLA,Tragulidae,Hyemoschus,Hyeomoschus,Turner,1850,NA
+14200124,ARTIODACTYLA,Tragulidae,Hyemoschus,Hyomoschus,Blyth,1865,NA
+14200126,ARTIODACTYLA,Tragulidae,Moschiola,Meminna,Gray,1836,[nomen oblitum ?]
+14200126,ARTIODACTYLA,Tragulidae,Moschiola,Moschiola,Hodgson,1843,[nomen nudum]
+14200128,ARTIODACTYLA,Tragulidae,Tragulus,Lagonebrax,Gloger,1841,NA
+14200186,ARTIODACTYLA,Moschidae,Moschus,Odontodorcus,Gistel,1848,NA
+14200186,ARTIODACTYLA,Moschidae,Moschus,Tragulus,Boddaert,1785,[preoccupied]
+14200207,ARTIODACTYLA,Cervidae,Alces,Alce,Frisch,1775,[unavailable]
+14200207,ARTIODACTYLA,Cervidae,Alces,Alcelaphus,Gloger,1841,NA
+14200207,ARTIODACTYLA,Cervidae,Alces,Paralces,J. Allen,1902,NA
+14200214,ARTIODACTYLA,Cervidae,Blastocerus,Bezoarticus,Marelli,1932,NA
+14200214,ARTIODACTYLA,Cervidae,Blastocerus,Blastoceros,Fitzinger,1873,NA
+14200214,ARTIODACTYLA,Cervidae,Blastocerus,Blastoros,Knottnerus-Meyer,1907,NA
+14200214,ARTIODACTYLA,Cervidae,Blastocerus,Edoceros,Avila-Pires,1957,NA
+14200216,ARTIODACTYLA,Cervidae,Capreolus,Caprea,Ogilby,1837,NA
+14200216,ARTIODACTYLA,Cervidae,Capreolus,Capreolus,Frisch,1775,[unavailable]
+14200227,ARTIODACTYLA,Cervidae,Hippocamelus,Anomalocera,Gray,1869,NA
+14200227,ARTIODACTYLA,Cervidae,Hippocamelus,Cervequus,Lesson,1842,NA
+14200227,ARTIODACTYLA,Cervidae,Hippocamelus,Creagroceros,Fitzinger,1873,NA
+14200227,ARTIODACTYLA,Cervidae,Hippocamelus,Furcifer,Wagner,1844,NA
+14200227,ARTIODACTYLA,Cervidae,Hippocamelus,Huamela,Gray,1873,NA
+14200227,ARTIODACTYLA,Cervidae,Hippocamelus,Xenelaphus,Gray,1869,NA
+14200230,ARTIODACTYLA,Cervidae,Mazama,Azarina,Larrañaga,1923,NA
+14200230,ARTIODACTYLA,Cervidae,Mazama,Coassus,Gray,1843,NA
+14200230,ARTIODACTYLA,Cervidae,Mazama,Doryceros,Fitzinger,1873,NA
+14200230,ARTIODACTYLA,Cervidae,Mazama,Doratoceros,Lydekker,1915,NA
+14200230,ARTIODACTYLA,Cervidae,Mazama,Homelaphus,Gray,1872,NA
+14200230,ARTIODACTYLA,Cervidae,Mazama,Nanelaphus,Fitzinger,1873,NA
+14200230,ARTIODACTYLA,Cervidae,Mazama,Passalites,Gloger,1841,NA
+14200230,ARTIODACTYLA,Cervidae,Mazama,Subulo,C. H. Smith,1827,NA
+14200266,ARTIODACTYLA,Cervidae,Odocoileus,Aplacerus,Hall and Kelson,1959,NA
+14200266,ARTIODACTYLA,Cervidae,Odocoileus,"Cariacus,",Lesson,1842,NA
+14200266,ARTIODACTYLA,Cervidae,Odocoileus,Dama,Zimmermann,1780,[preoccupied]
+14200266,ARTIODACTYLA,Cervidae,Odocoileus,Dorcelaphus,Gloger,1841,NA
+14200266,ARTIODACTYLA,Cervidae,Odocoileus,Elaphalces,Brookes,1828,[nomen oblitum]
+14200266,ARTIODACTYLA,Cervidae,Odocoileus,Eucervus,Gray,1866,NA
+14200266,ARTIODACTYLA,Cervidae,Odocoileus,Gymnotis,Fitzinger,1879,NA
+14200266,ARTIODACTYLA,Cervidae,Odocoileus,Macrotis,Wagner,1855,NA
+14200266,ARTIODACTYLA,Cervidae,Odocoileus,Mazama,C. H. Smith,1827,[preoccupied]
+14200266,ARTIODACTYLA,Cervidae,Odocoileus,Odocoelus,G. M. Allen,1901,NA
+14200266,ARTIODACTYLA,Cervidae,Odocoileus,Odontocoelus,Sclater,1902,NA
+14200266,ARTIODACTYLA,Cervidae,Odocoileus,Oplacerus,Haldleman,1842,NA
+14200266,ARTIODACTYLA,Cervidae,Odocoileus,Otelaphus,Fitzinger,1874,NA
+14200266,ARTIODACTYLA,Cervidae,Odocoileus,Palaeodocoileus,Spillman,1931,NA
+14200266,ARTIODACTYLA,Cervidae,Odocoileus,Protomazama,Spillman,1931,NA
+14200266,ARTIODACTYLA,Cervidae,Odocoileus,Reduncina,Wagner,1844,NA
+14200266,ARTIODACTYLA,Cervidae,Odocoileus,Subulus,Brookes,1828,[nomen oblitum]
+14200317,ARTIODACTYLA,Cervidae,Ozotoceros,Ozelaphus,Knottnerus-Meyer,1907,NA
+14200317,ARTIODACTYLA,Cervidae,Ozotoceros,Ozotoceras,Palmer,1904,NA
+14200324,ARTIODACTYLA,Cervidae,Pudu,Pudella,Thomas,1913,NA
+14200324,ARTIODACTYLA,Cervidae,Pudu,Pudua,Garrod,1877,NA
+14200327,ARTIODACTYLA,Cervidae,Rangifer,Achlis,Reichenbach,1845,NA
+14200327,ARTIODACTYLA,Cervidae,Rangifer,Rangifer,Frisch,1775,[unavailable]
+14200327,ARTIODACTYLA,Cervidae,Rangifer,Tarandus,Billberg,1827,NA
+14200344,ARTIODACTYLA,Cervidae,Axis,Hyelaphus,Sundevall,1846,NA
+14200351,ARTIODACTYLA,Cervidae,Cervus,Elaphoceros,Fitzinger,1874,NA
+14200351,ARTIODACTYLA,Cervidae,Cervus,Elaphus,C. H. Smith,1827,NA
+14200351,ARTIODACTYLA,Cervidae,Cervus,Eucervus,Acloque,1899,NA
+14200351,ARTIODACTYLA,Cervidae,Cervus,Harana,Hodgson,1838,NA
+14200351,ARTIODACTYLA,Cervidae,Cervus,Pseudaxis,Gray,1872,NA
+14200351,ARTIODACTYLA,Cervidae,Cervus,Pseudocervus,Hodgson,1841,NA
+14200351,ARTIODACTYLA,Cervidae,Cervus,Sica,Trouessart,1898,NA
+14200351,ARTIODACTYLA,Cervidae,Cervus,Sika,Sclater,1870,NA
+14200351,ARTIODACTYLA,Cervidae,Cervus,Sikelaphus,Heude,1894,NA
+14200351,ARTIODACTYLA,Cervidae,Cervus,Sikaillus,Heude,1898,NA
+14200388,ARTIODACTYLA,Cervidae,Dama,Dactyloceros,Wagner,1844,NA
+14200388,ARTIODACTYLA,Cervidae,Dama,Machlis,Zittel,1894,NA
+14200388,ARTIODACTYLA,Cervidae,Dama,Palmatus,Lydekker,1896,NA
+14200388,ARTIODACTYLA,Cervidae,Dama,Platyceros,Zimmermann,1780,NA
+14200392,ARTIODACTYLA,Cervidae,Elaphodus,Lophotragus,Swinhoe,1874,NA
+14200398,ARTIODACTYLA,Cervidae,Elaphurus,NA,NA,NA,NA
+14200400,ARTIODACTYLA,Cervidae,Muntiacus,Caninmuntiacus,"Giao, Tuoc, Eric, Dung et al.",1997,NA
+14200400,ARTIODACTYLA,Cervidae,Muntiacus,Cervulus,de Blainville,1816,NA
+14200400,ARTIODACTYLA,Cervidae,Muntiacus,Diopplon,Brookes,1828,NA
+14200400,ARTIODACTYLA,Cervidae,Muntiacus,Megamuntiacus,"Tuoc, Dung, Dawson, Arctander and Mackinnon",1994,NA
+14200400,ARTIODACTYLA,Cervidae,Muntiacus,Muntjacus,Gray,1825,[nomen nudum]
+14200400,ARTIODACTYLA,Cervidae,Muntiacus,Procops,Pocock,1923,NA
+14200400,ARTIODACTYLA,Cervidae,Muntiacus,Prox,Ogilby,1836,NA
+14200400,ARTIODACTYLA,Cervidae,Muntiacus,Stylocerus,C. H. Smith,1827,NA
+14200426,ARTIODACTYLA,Cervidae,Przewalskium,NA,NA,NA,NA
+14200428,ARTIODACTYLA,Cervidae,Rucervus,Panolia,Gray,1843,NA
+14200428,ARTIODACTYLA,Cervidae,Rucervus,Procervus,Hodgson,1847,NA
+14200428,ARTIODACTYLA,Cervidae,Rucervus,Thaocervus,Pocock,1943,NA
+14200438,ARTIODACTYLA,Cervidae,Rusa,Hippelaphus,Sundevall,1846,NA
+14200438,ARTIODACTYLA,Cervidae,Rusa,Melanaxis,Heude,1888,NA
+14200438,ARTIODACTYLA,Cervidae,Rusa,Sambur,Heude,1888,NA
+14200438,ARTIODACTYLA,Cervidae,Rusa,Ussa,Heude,1888,NA
+14200462,ARTIODACTYLA,Cervidae,Hydropotes,Hydrelaphus,Lydekker,1898,NA
+14200467,ARTIODACTYLA,Antilocapridae,Antilocapra,Dicranocerus,C. H. Smith,1827,NA
+14200475,ARTIODACTYLA,Giraffidae,Giraffa,Camelopardalis,von Schreber,1784,NA
+14200475,ARTIODACTYLA,Giraffidae,Giraffa,Orasius,Oken,1816,NA
+14200475,ARTIODACTYLA,Giraffidae,Giraffa,Trachelotherium,Gistel,1848,NA
+14200483,ARTIODACTYLA,Giraffidae,Okapia,NA,NA,NA,NA
+14200487,ARTIODACTYLA,Bovidae,Aepyceros,NA,NA,NA,NA
+14200496,ARTIODACTYLA,Bovidae,Alcelaphus,Acronotus,C. H. Smith,1827,NA
+14200496,ARTIODACTYLA,Bovidae,Alcelaphus,Alcephalus,Brooke,1876,NA
+14200496,ARTIODACTYLA,Bovidae,Alcelaphus,Bubalis,Goldfuss,1820,NA
+14200496,ARTIODACTYLA,Bovidae,Alcelaphus,Bubalus,Ogilby,1837,NA
+14200496,ARTIODACTYLA,Bovidae,Alcelaphus,Damalis,C. H. Smith,1827,NA
+14200496,ARTIODACTYLA,Bovidae,Alcelaphus,Sigmoceros,Heller,1912,NA
+14200506,ARTIODACTYLA,Bovidae,Beatragus,NA,NA,NA,NA
+14200508,ARTIODACTYLA,Bovidae,Connochaetes,Butragus,Gray,1872,NA
+14200508,ARTIODACTYLA,Bovidae,Connochaetes,Catablepas,Gray,1821,NA
+14200508,ARTIODACTYLA,Bovidae,Connochaetes,Cemas,Oken,1816,[unavailble]
+14200508,ARTIODACTYLA,Bovidae,Connochaetes,Gorgon,Gray,1850,NA
+14200516,ARTIODACTYLA,Bovidae,Damaliscus,Damalis,Gray,1872,[preoccupied]
+14200527,ARTIODACTYLA,Bovidae,Ammodorcas,NA,NA,NA,NA
+14200529,ARTIODACTYLA,Bovidae,Antidorcas,NA,NA,NA,NA
+14200534,ARTIODACTYLA,Bovidae,Antilope,Antelopa,Perry,1811,NA
+14200534,ARTIODACTYLA,Bovidae,Antilope,Antelope,Forster,1790,NA
+14200534,ARTIODACTYLA,Bovidae,Antilope,Cervicapra,Sparrman,1780,NA
+14200538,ARTIODACTYLA,Bovidae,Dorcatragus,Dorcotragus,P. L. Sclater and Thomas,1898,NA
+14200540,ARTIODACTYLA,Bovidae,Eudorcas,Korin,Sclater and Thomas,1898,NA
+14200551,ARTIODACTYLA,Bovidae,Gazella,Dorcas,Gray,1821,NA
+14200551,ARTIODACTYLA,Bovidae,Gazella,Leptoceros,Wagner,1844,NA
+14200551,ARTIODACTYLA,Bovidae,Gazella,Trachelocele,Ellerman and Morrison-Scott,1951,NA
+14200551,ARTIODACTYLA,Bovidae,Gazella,Tragops,Hodgson,1847,NA
+14200551,ARTIODACTYLA,Bovidae,Gazella,Tragopsis,Fitzinger,1869,NA
+14200588,ARTIODACTYLA,Bovidae,Litocranius,Lithocranius,Thomas,1891,NA
+14200592,ARTIODACTYLA,Bovidae,Madoqua,Rhynchotragus,Neumann,1905,NA
+14200608,ARTIODACTYLA,Bovidae,Nanger,Matschiea,Knottnerus-Meyer,1907,NA
+14200623,ARTIODACTYLA,Bovidae,Neotragus,Hylarnus,Thomas,1916,NA
+14200623,ARTIODACTYLA,Bovidae,Neotragus,Memina,Gray,1821,[preoccupied]
+14200623,ARTIODACTYLA,Bovidae,Neotragus,Meminna,Agassiz,1842,NA
+14200623,ARTIODACTYLA,Bovidae,Neotragus,Minytragus,Gloger,1841,[nomen nudum]
+14200623,ARTIODACTYLA,Bovidae,Neotragus,Nanotragus,Sundevall,1846,NA
+14200623,ARTIODACTYLA,Bovidae,Neotragus,Nesotragus,Von Dueben,1846,NA
+14200623,ARTIODACTYLA,Bovidae,Neotragus,Spinigera,Lesson,1842,NA
+14200623,ARTIODACTYLA,Bovidae,Neotragus,Tragulus,Boddaert,1785,[preoccupied]
+14200623,ARTIODACTYLA,Bovidae,Neotragus,Tragulus,Ogilby,1837,NA
+14200631,ARTIODACTYLA,Bovidae,Oreotragus,Oritragus,Gloger,1841,NA
+14200638,ARTIODACTYLA,Bovidae,Ourebia,Oribia,Kirby,1899,NA
+14200638,ARTIODACTYLA,Bovidae,Ourebia,Quadriscopa,Fitzinger,1869,NA
+14200638,ARTIODACTYLA,Bovidae,Ourebia,Qurebia,Moore,1947,NA
+14200638,ARTIODACTYLA,Bovidae,Ourebia,Scopophorus,Gray,1846,NA
+14200648,ARTIODACTYLA,Bovidae,Procapra,Prodorcas,Pocock,1918,NA
+14200654,ARTIODACTYLA,Bovidae,Raphicerus,Calotragus,Sundevall,1846,NA
+14200654,ARTIODACTYLA,Bovidae,Raphicerus,Grysbock,Knottnerus-Meyer,1907,NA
+14200654,ARTIODACTYLA,Bovidae,Raphicerus,Nototragus,Thomas and Schwann,1906,NA
+14200654,ARTIODACTYLA,Bovidae,Raphicerus,Pediotragus,Fitzinger,1861,NA
+14200654,ARTIODACTYLA,Bovidae,Raphicerus,Raphiceros,Thomas,1897,NA
+14200654,ARTIODACTYLA,Bovidae,Raphicerus,Rhaphiceros,Lydekker,1897,NA
+14200654,ARTIODACTYLA,Bovidae,Raphicerus,Rhaphicerus,Lönnberg,1908,NA
+14200654,ARTIODACTYLA,Bovidae,Raphicerus,Rhaphocerus,Agassiz,1846,NA
+14200662,ARTIODACTYLA,Bovidae,Saiga,Colus,Wagner,1844,NA
+14200668,ARTIODACTYLA,Bovidae,Bison,Bonasus,Fitzinger,1860,NA
+14200668,ARTIODACTYLA,Bovidae,Bison,Urus,Bojanus,1827,NA
+14200674,ARTIODACTYLA,Bovidae,Bos,Bibos,Hodgson,1837,NA
+14200674,ARTIODACTYLA,Bovidae,Bos,Bubalibos,Heude,1901,NA
+14200674,ARTIODACTYLA,Bovidae,Bos,Gauribos,Heude,1901,NA
+14200674,ARTIODACTYLA,Bovidae,Bos,Gaveus,Hodgson,1847,NA
+14200674,ARTIODACTYLA,Bovidae,Bos,Microbos,Heude,1901,NA
+14200674,ARTIODACTYLA,Bovidae,Bos,Novibos,Coolidge,1940,NA
+14200674,ARTIODACTYLA,Bovidae,Bos,Poephagus,Gray,1843,NA
+14200674,ARTIODACTYLA,Bovidae,Bos,Pseudonovibos,Peter and Feiler,1994,[nomen dubium]
+14200674,ARTIODACTYLA,Bovidae,Bos,Taurus,Rafinesque,1814,NA
+14200674,ARTIODACTYLA,Bovidae,Bos,Uribos,Heude,1901,NA
+14200674,ARTIODACTYLA,Bovidae,Bos,Urus,C. H. Smith,1827,NA
+14200691,ARTIODACTYLA,Bovidae,Boselaphus,Bosephalus,Horsfield,1851,NA
+14200691,ARTIODACTYLA,Bovidae,Boselaphus,Oreades,Schinz,1845,NA
+14200691,ARTIODACTYLA,Bovidae,Boselaphus,Portax,C. H. Smith,1827,NA
+14200693,ARTIODACTYLA,Bovidae,Bubalus,Anoa,C. H. Smith,1827,NA
+14200693,ARTIODACTYLA,Bovidae,Bubalus,Bubalus,Frisch,1775,[unavailable]
+14200693,ARTIODACTYLA,Bovidae,Bubalus,Buffelus,Rütimeyer,1865,NA
+14200693,ARTIODACTYLA,Bovidae,Bubalus,Probubalus,Rütimeyer,1865,NA
+14200704,ARTIODACTYLA,Bovidae,Pseudoryx,NA,NA,NA,NA
+14200706,ARTIODACTYLA,Bovidae,Syncerus,Planiceros,Gray,1872,NA
+14200713,ARTIODACTYLA,Bovidae,Taurotragus,Doratoceros,Lydekker,1891,NA
+14200713,ARTIODACTYLA,Bovidae,Taurotragus,Oreas,Desmarest,1822,[preoccupied]
+14200721,ARTIODACTYLA,Bovidae,Tetracerus,Tetraceros,Brookes,1827,NA
+14200726,ARTIODACTYLA,Bovidae,Tragelaphus,Ammelaphus,Heller,1912,NA
+14200726,ARTIODACTYLA,Bovidae,Tragelaphus,Boocercus,Thomas,1902,NA
+14200726,ARTIODACTYLA,Bovidae,Tragelaphus,Calliope,Ogilby,1837,NA
+14200726,ARTIODACTYLA,Bovidae,Tragelaphus,Euryceros,Gray,1850,NA
+14200726,ARTIODACTYLA,Bovidae,Tragelaphus,Hydrotragus,Gray,1872,NA
+14200726,ARTIODACTYLA,Bovidae,Tragelaphus,Limnotragus,Pocock,1900,NA
+14200726,ARTIODACTYLA,Bovidae,Tragelaphus,Nyala,Heller,1912,NA
+14200726,ARTIODACTYLA,Bovidae,Tragelaphus,Strepsicerastes,Knottnerus-Meyer,1903,NA
+14200726,ARTIODACTYLA,Bovidae,Tragelaphus,Strepsicerella,Zukowsky,1910,NA
+14200726,ARTIODACTYLA,Bovidae,Tragelaphus,Strepsiceros,C. H. Smith,1827,NA
+14200726,ARTIODACTYLA,Bovidae,Tragelaphus,Strepticeros,Blyth,1869,NA
+14200753,ARTIODACTYLA,Bovidae,Ammotragus,Traguelaphus,Pomel,1898,NA
+14200761,ARTIODACTYLA,Bovidae,Budorcas,NA,NA,NA,NA
+14200767,ARTIODACTYLA,Bovidae,Capra,Aegoceros,Pallas,1811,[suppressed]
+14200767,ARTIODACTYLA,Bovidae,Capra,Aegocerus,Agassiz,1846,NA
+14200767,ARTIODACTYLA,Bovidae,Capra,Aries,Link,1795,NA
+14200767,ARTIODACTYLA,Bovidae,Capra,Eucapra,Camerano,1916,NA
+14200767,ARTIODACTYLA,Bovidae,Capra,Euibex,Camerano,1916,NA
+14200767,ARTIODACTYLA,Bovidae,Capra,Hilzheimeria,Kretzoi,2000,NA
+14200767,ARTIODACTYLA,Bovidae,Capra,Hircus,Boddaert,1785,NA
+14200767,ARTIODACTYLA,Bovidae,Capra,Ibex,Pallas,1776,NA
+14200767,ARTIODACTYLA,Bovidae,Capra,Orthaegoceros,Trouessart,1905,NA
+14200767,ARTIODACTYLA,Bovidae,Capra,Tragus,Schrank,1798,NA
+14200767,ARTIODACTYLA,Bovidae,Capra,Turocapra,de Beaux,1949,NA
+14200767,ARTIODACTYLA,Bovidae,Capra,Turus,Hilzheimer,1916,NA
+14200788,ARTIODACTYLA,Bovidae,Capricornis,Austritragus,Heude,1898,NA
+14200788,ARTIODACTYLA,Bovidae,Capricornis,Capricornus,Gray,1862,NA
+14200788,ARTIODACTYLA,Bovidae,Capricornis,Capricornulus,Heude,1898,NA
+14200788,ARTIODACTYLA,Bovidae,Capricornis,Lithotragus,Heude,1898,NA
+14200788,ARTIODACTYLA,Bovidae,Capricornis,Nemotragus,Heude,1898,NA
+14200797,ARTIODACTYLA,Bovidae,Hemitragus,NA,NA,NA,NA
+14200801,ARTIODACTYLA,Bovidae,Naemorhedus,Caprina,Wagner,1844,NA
+14200801,ARTIODACTYLA,Bovidae,Naemorhedus,Kemas,Ogilby,1837,NA
+14200801,ARTIODACTYLA,Bovidae,Naemorhedus,Naemorhaedus,Jardine,1836,NA
+14200801,ARTIODACTYLA,Bovidae,Naemorhedus,Nemorhaedus,Hodgson,1841,NA
+14200801,ARTIODACTYLA,Bovidae,Naemorhedus,Nemorhedus,Agassiz,1842,NA
+14200801,ARTIODACTYLA,Bovidae,Naemorhedus,Nemorrhaedus,Trouessart,1898,NA
+14200801,ARTIODACTYLA,Bovidae,Naemorhedus,Nemorrhedus,Gray,1843,NA
+14200801,ARTIODACTYLA,Bovidae,Naemorhedus,Urotragus,Gray,1871,NA
+14200810,ARTIODACTYLA,Bovidae,Oreamnos,Aplocerus,C. H. Smith,1827,NA
+14200810,ARTIODACTYLA,Bovidae,Oreamnos,Haploceros,Flower and Garson,1884,NA
+14200810,ARTIODACTYLA,Bovidae,Oreamnos,Haplocerus,Wagner,1844,NA
+14200810,ARTIODACTYLA,Bovidae,Oreamnos,Oreamnus,Elliot,1901,NA
+14200812,ARTIODACTYLA,Bovidae,Ovibos,Bosovis,Kowarzik,1911,NA
+14200812,ARTIODACTYLA,Bovidae,Ovibos,Criotaurus,Gloger,1841,NA
+14200814,ARTIODACTYLA,Bovidae,Ovis,Ammon,de Blainville,1816,NA
+14200814,ARTIODACTYLA,Bovidae,Ovis,Argali,Gray,1852,NA
+14200814,ARTIODACTYLA,Bovidae,Ovis,Aries,Link,1795,NA
+14200814,ARTIODACTYLA,Bovidae,Ovis,Caprovis,Hodgson,1847,NA
+14200814,ARTIODACTYLA,Bovidae,Ovis,Musimon,Pallas,1776,NA
+14200814,ARTIODACTYLA,Bovidae,Ovis,Musmon,Schrank,1798,NA
+14200814,ARTIODACTYLA,Bovidae,Ovis,Pachyceros,Gromova,1936,NA
+14200850,ARTIODACTYLA,Bovidae,Pantholops,NA,NA,NA,NA
+14200852,ARTIODACTYLA,Bovidae,Pseudois,Pseudovis,Gill,1872,NA
+14200855,ARTIODACTYLA,Bovidae,Rupicapra,Rupicapra,Frisch,1775,[unavailable]
+14200855,ARTIODACTYLA,Bovidae,Rupicapra,Capella,Keyserling and Blasius,1840,NA
+14200866,ARTIODACTYLA,Bovidae,Cephalophus,Cephalolophus,Wagner,1843,NA
+14200866,ARTIODACTYLA,Bovidae,Cephalophus,Cephalophella,Knottnerus-Meyer,1907,NA
+14200866,ARTIODACTYLA,Bovidae,Cephalophus,Cephalophia,Knottnerus-Meyer,1907,NA
+14200866,ARTIODACTYLA,Bovidae,Cephalophus,Cephalophidium,Knottnerus-Meyer,1907,NA
+14200866,ARTIODACTYLA,Bovidae,Cephalophus,Cephalophops,Knottnerus-Meyer,1907,NA
+14200866,ARTIODACTYLA,Bovidae,Cephalophus,Cephalophorus,Gray,1842,NA
+14200866,ARTIODACTYLA,Bovidae,Cephalophus,Cephalophula,Knottnerus-Meyer,1907,NA
+14200866,ARTIODACTYLA,Bovidae,Cephalophus,Potamotragus,Gray,1871,NA
+14200866,ARTIODACTYLA,Bovidae,Cephalophus,Terpone,Gray,1871,NA
+14200903,ARTIODACTYLA,Bovidae,Philantomba,Guevei,Gray,1852,NA
+14200920,ARTIODACTYLA,Bovidae,Sylvicapra,Cephalophora,Gray,1842,NA
+14200920,ARTIODACTYLA,Bovidae,Sylvicapra,Grimmia,Laurillard,1842,NA
+14200936,ARTIODACTYLA,Bovidae,Addax,Addax,Rafinesque,1815,[nomen nudum]
+14200938,ARTIODACTYLA,Bovidae,Hippotragus,Aegocera,Berthold,1827,[suppressed]
+14200938,ARTIODACTYLA,Bovidae,Hippotragus,Aegocoerus,Gervais,1859,NA
+14200938,ARTIODACTYLA,Bovidae,Hippotragus,Aigererus,Harris,1838,[nomen oblitum]
+14200938,ARTIODACTYLA,Bovidae,Hippotragus,Aigocerus,C. H. Smith,1827,[suppressed]
+14200938,ARTIODACTYLA,Bovidae,Hippotragus,Egocerus,Desmarest,1822,[suppressed]
+14200938,ARTIODACTYLA,Bovidae,Hippotragus,Oegocerus,Lesson,1842,[suppressed]
+14200938,ARTIODACTYLA,Bovidae,Hippotragus,Ozanna,Reichenbach,1845,[suppressed]
+14200952,ARTIODACTYLA,Bovidae,Oryx,Aegoryx,Pocock,1918,NA
+14200952,ARTIODACTYLA,Bovidae,Oryx,Onyx,Gray,1821,NA
+14200960,ARTIODACTYLA,Bovidae,Kobus,Adenota,Gray,1847,NA
+14200960,ARTIODACTYLA,Bovidae,Kobus,Cobus,Buckley,1876,NA
+14200960,ARTIODACTYLA,Bovidae,Kobus,Hydrotragus,Fitzinger,1866,NA
+14200960,ARTIODACTYLA,Bovidae,Kobus,Kolus,Gray,1843,NA
+14200960,ARTIODACTYLA,Bovidae,Kobus,Onotragus,Gray,1872,NA
+14200960,ARTIODACTYLA,Bovidae,Kobus,Onototragus,Heller,1913,NA
+14200960,ARTIODACTYLA,Bovidae,Kobus,Pseudokobus,Fitzinger,1869,NA
+14200960,ARTIODACTYLA,Bovidae,Kobus,Robus,Zittel,1893,NA
+14200993,ARTIODACTYLA,Bovidae,Pelea,Antilopa,Forster,1790,[nomen oblitum]
+14200995,ARTIODACTYLA,Bovidae,Redunca,Cervicapra,de Blainville,1816,NA
+14200995,ARTIODACTYLA,Bovidae,Redunca,Eleotragus,Gray,1843,NA
+14200995,ARTIODACTYLA,Bovidae,Redunca,Heleotragus,Kirk,1865,NA
+14200995,ARTIODACTYLA,Bovidae,Redunca,Nagor,Laurillard,1842,NA
+14200995,ARTIODACTYLA,Bovidae,Redunca,Oreodorcas,Heller,1912,NA
+14300004,CETACEA,Balaenidae,Balaena,Leiobalaena,Eschricht,1849,NA
+14300006,CETACEA,Balaenidae,Eubalaena,Halibalaena,Gray,1873,NA
+14300006,CETACEA,Balaenidae,Eubalaena,Hunterius,Gray,1866,NA
+14300011,CETACEA,Balaenopteridae,Balaenoptera,Catoptera,Rafinesque,1815,NA
+14300011,CETACEA,Balaenopteridae,Balaenoptera,Cuvierius,Gray,1866,NA
+14300011,CETACEA,Balaenopteridae,Balaenoptera,Physalus,Gray,1821,NA
+14300011,CETACEA,Balaenopteridae,Balaenoptera,Pterobalaena,Eschricht,1849,NA
+14300011,CETACEA,Balaenopteridae,Balaenoptera,Rorqualus,Cuvier,1836,NA
+14300011,CETACEA,Balaenopteridae,Balaenoptera,Sibbaldius,Gray,1864,NA
+14300026,CETACEA,Balaenopteridae,Megaptera,Cyphobalaena,Marschall,1873,NA
+14300026,CETACEA,Balaenopteridae,Megaptera,Kyphobalaena,Eschricht,1849,NA
+14300026,CETACEA,Balaenopteridae,Megaptera,Perqualus,Gray,1846,NA
+14300026,CETACEA,Balaenopteridae,Megaptera,Poescopia,Gray,1864,NA
+14300029,CETACEA,Eschrichtiidae,Eschrichtius,Cyphonotus,Rafinesque,1815,[nomen nudum]
+14300029,CETACEA,Eschrichtiidae,Eschrichtius,Cyphonotus,Gray,1850,"[preoccupied by Cyphonotus Fischer, 1823 (genus of beetles)]"
+14300029,CETACEA,Eschrichtiidae,Eschrichtius,Rhachianectes,Cope,1869,NA
+14300032,CETACEA,Neobalaenidae,Caperea,Neobalaena,Gray,1870,NA
+14300036,CETACEA,Delphinidae,Cephalorhynchus,Eutropia,Gray,1862,NA
+14300043,CETACEA,Delphinidae,Delphinus,Eudelphinus,Van Beneden and Gervais,1880,NA
+14300043,CETACEA,Delphinidae,Delphinus,Rhinodelphis,Wagner,1846,NA
+14300048,CETACEA,Delphinidae,Feresa,NA,NA,NA,NA
+14300050,CETACEA,Delphinidae,Globicephala,Cetus,Wagler,1830,NA
+14300050,CETACEA,Delphinidae,Globicephala,Globiceps,Flower,1884,NA
+14300050,CETACEA,Delphinidae,Globicephala,Sphaerocephalus,Gray,1864,NA
+14300055,CETACEA,Delphinidae,Grampus,Grampidelphis,Iredale and Troughton,1933,NA
+14300055,CETACEA,Delphinidae,Grampus,Grayius,Scott,1873,NA
+14300057,CETACEA,Delphinidae,Lagenodelphis,NA,NA,NA,NA
+14300059,CETACEA,Delphinidae,Lagenorhynchus,Electra,Gray,1866,NA
+14300059,CETACEA,Delphinidae,Lagenorhynchus,Leucopleurus,Gray,1866,NA
+14300059,CETACEA,Delphinidae,Lagenorhynchus,Sagmatius,Cope,1866,NA
+14300068,CETACEA,Delphinidae,Lissodelphis,Delphinapterus,Gray,1846,[part]
+14300068,CETACEA,Delphinidae,Lissodelphis,Leucorhamphus,Lilljeborg,1861,NA
+14300068,CETACEA,Delphinidae,Lissodelphis,Tursio,Wagler,1830,NA
+14300071,CETACEA,Delphinidae,Orcaella,NA,NA,NA,NA
+14300073,CETACEA,Delphinidae,Orcinus,Gladiator,Gray,1870,NA
+14300073,CETACEA,Delphinidae,Orcinus,Grampus,Iredale and Troughton,1933,NA
+14300073,CETACEA,Delphinidae,Orcinus,Ophysia,Gray,1868,NA
+14300073,CETACEA,Delphinidae,Orcinus,Orca,Gray,1846,[preoccupied]
+14300075,CETACEA,Delphinidae,Peponocephala,Electra,Gray,1868,NA
+14300077,CETACEA,Delphinidae,Pseudorca,Neoorca,Gray,1871,NA
+14300079,CETACEA,Delphinidae,Sotalia,Tucuxa,Gray,1866,NA
+14300081,CETACEA,Delphinidae,Sousa,Stenopontistes,Miranda Ribiero,1936,NA
+14300084,CETACEA,Delphinidae,Stenella,Clymene,Gray,1864,NA
+14300084,CETACEA,Delphinidae,Stenella,Euphrosyne,Gray,1866,NA
+14300084,CETACEA,Delphinidae,Stenella,Fretidelphis,Iredale and Troughton,1934,NA
+14300084,CETACEA,Delphinidae,Stenella,Micropia,Gray,1868,NA
+14300084,CETACEA,Delphinidae,Stenella,Prodelphinus,Gervais,1880,"[in Van Beneden and Gervais, 1880]"
+14300095,CETACEA,Delphinidae,Steno,Glyphidelphis,Gervais,1859,NA
+14300097,CETACEA,Delphinidae,Tursiops,Gadamu,Gray,1868,NA
+14300097,CETACEA,Delphinidae,Tursiops,Tursio,Gray,1843,NA
+14300104,CETACEA,Monodontidae,Delphinapterus,Argocetus,Gloger,1842,NA
+14300104,CETACEA,Monodontidae,Delphinapterus,Beluga,Rafinesque,1815,NA
+14300106,CETACEA,Monodontidae,Monodon,Ceratodon,Brünnich,1772,NA
+14300106,CETACEA,Monodontidae,Monodon,Diodon,Storr,1780,NA
+14300106,CETACEA,Monodontidae,Monodon,Narwalus,Lacépède,1804,NA
+14300106,CETACEA,Monodontidae,Monodon,Tachynices,Brookes,1828,NA
+14300109,CETACEA,Phocoenidae,Neophocaena,Meomeris,Gray,1847,NA
+14300109,CETACEA,Phocoenidae,Neophocaena,Neomeris,Gray,1846,NA
+14300114,CETACEA,Phocoenidae,Phocoena,Acanthodelphis,Gray,1866,NA
+14300114,CETACEA,Phocoenidae,Phocoena,Australophocoena,Barnes,1985,NA
+14300122,CETACEA,Phocoenidae,Phocoenoides,NA,NA,NA,NA
+14300127,CETACEA,Physeteridae,Kogia,Callignathus,Gill,1871,NA
+14300127,CETACEA,Physeteridae,Kogia,Cogia,Wallace,1876,NA
+14300127,CETACEA,Physeteridae,Kogia,Euphysetes,Wall,1851,NA
+14300130,CETACEA,Physeteridae,Physeter,Catodon,Linnaeus,1761,NA
+14300130,CETACEA,Physeteridae,Physeter,Cetus,Billberg,1828,NA
+14300130,CETACEA,Physeteridae,Physeter,Meganeuron,Gray,1865,NA
+14300130,CETACEA,Physeteridae,Physeter,Megistosaurus,Anonymous,1828,"[in Harlan, 1828]"
+14300130,CETACEA,Physeteridae,Physeter,Physalus,Lacépède,1804,NA
+14300133,CETACEA,Platanistidae,Platanista,Susu,Lesson,1828,NA
+14300137,CETACEA,Iniidae,Inia,NA,NA,NA,NA
+14300142,CETACEA,Iniidae,Lipotes,NA,NA,NA,NA
+14300144,CETACEA,Iniidae,Pontoporia,Stenodelphis,d'Orbigny and Gervais,1847,NA
+14300147,CETACEA,Ziphiidae,Berardius,NA,NA,NA,NA
+14300150,CETACEA,Ziphiidae,Hyperoodon,Anodon,Wagler,1830,NA
+14300150,CETACEA,Ziphiidae,Hyperoodon,Chaenodelphinus,Eschricht,1843,NA
+14300150,CETACEA,Ziphiidae,Hyperoodon,Frasercetus,Moore,1968,NA
+14300150,CETACEA,Ziphiidae,Hyperoodon,Heterodon,Blainville,1817,"[in Desmarest, 1817]"
+14300150,CETACEA,Ziphiidae,Hyperoodon,Lagenocetus,Gray,1863,NA
+14300150,CETACEA,Ziphiidae,Hyperoodon,Uranodon,Illiger,1811,NA
+14300155,CETACEA,Ziphiidae,Indopacetus,NA,NA,NA,NA
+14300157,CETACEA,Ziphiidae,Mesoplodon,Aodon,Lesson,1828,NA
+14300157,CETACEA,Ziphiidae,Mesoplodon,Dioplodon,Gervais,1850,NA
+14300157,CETACEA,Ziphiidae,Mesoplodon,Dolichodon,Gray,1866,NA
+14300157,CETACEA,Ziphiidae,Mesoplodon,Micropterus,Wagner,1846,NA
+14300157,CETACEA,Ziphiidae,Mesoplodon,Oulodon,von Haast,1876,NA
+14300157,CETACEA,Ziphiidae,Mesoplodon,Nodus,Wagler,1830,NA
+14300157,CETACEA,Ziphiidae,Mesoplodon,Paikea,Oliver,1922,NA
+14300172,CETACEA,Ziphiidae,Tasmacetus,NA,NA,NA,NA
+14300174,CETACEA,Ziphiidae,Ziphius,Diodon,Lesson,1828,NA
+14300174,CETACEA,Ziphiidae,Ziphius,Hypodon,Haldeman,1841,NA
+14300174,CETACEA,Ziphiidae,Ziphius,Petrorhynchus,Gray,1875,NA
+14300174,CETACEA,Ziphiidae,Ziphius,Ziphiorhynchus,Burmeister,1865,NA
