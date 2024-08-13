@@ -1,0 +1,11 @@
+- [ ] Add metadata for all tables
+  - [ ] EML
+  - [ ] .txt
+- [ ] Add some plots
+- [ ] Combine genus synonymy with MDD
+- [ ] Update README
+  - [ ] "How is it organized?"
+    - [ ] Folder structure
+    - [ ] File and scripts brief description
+    - [ ] File and scripts links
+  - [ ] "How can I use it?"

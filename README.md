@@ -59,7 +59,9 @@ already provides better access to original citations, type localities
 and updated [IUCN’s Red
 List](https://www.iucnredlist.org/ "Link to the Red List website, by IUCN")
 threat assessments, this work focuses on cleaning the taxonomic synonyms
-from the MSW3.
+from the MSW3. It’s also important to note that the clean data also
+reflects the original misspellings and missing information from the
+source.
 
 ### About the code
 
