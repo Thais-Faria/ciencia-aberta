@@ -210,7 +210,7 @@ dtf_msw3_genus_synonyms <- dtf_msw3_full_clean %>%
                                          pattern = " \\]",
                                          replacement = "\\]"),
          msw3_synonymy = str_replace_all(msw3_synonymy,
-                                         pattern = "\\[sic\\]",
+                                         pattern = " \\[sic\\]",
                                          replacement = ""),
          msw3_synonymy = str_replace_all(msw3_synonymy,
                                          pattern = "; see",
@@ -325,25 +325,32 @@ dtf_msw3_genus_synonyms <- dtf_msw3_full_clean %>%
                                          pattern = "Anonymous in Harlan, 1828",
                                          replacement = "Anonymous, 1828 [in Harlan, 1828]"),
          msw3_synonymy = str_replace_all(msw3_synonymy,
+                                         pattern = "Anon\\. \\[?de Blainville\\], 1846",
+                                         replacement = "Anonymous, 1846 [? de Blainville]"),
+         msw3_synonymy = str_replace_all(msw3_synonymy,
                                          pattern = "Prodelphinus Gervais",
                                          replacement = "Prodelphinus Gervais, 1880"), #Info available on notes column
          msw3_synonymy = str_replace_all(msw3_synonymy,
                                          pattern = "Sminthus",
                                          replacement = "Sminthus Nordmann, 1840"), #Info available on source website
-         
          msw3_synonymy = str_replace_all(msw3_synonymy,
-                                         pattern = "Fischer \\[von Waldheim\\]",
+                                         pattern = "Fischer \\[von Waldheim\\]|Fischer de Waldheim|Fischer \\(von Waldheim\\)",
                                          replacement = "Fischer von Waldheim"),
          msw3_synonymy = str_replace_all(msw3_synonymy,
-                                         pattern = "\\[von Waldheim\\], ",
-                                         replacement = "\\[von Waldheim\\]; "),
+                                         pattern = "Anon,|Anon\\.,",
+                                         replacement = "Anonymous"),
          msw3_synonymy = str_replace_all(msw3_synonymy,
-                                         pattern = "\\. \\(3\\) Subgenus Cebuella Gray",
-                                         replacement = " [(3) Subgenus Cebuella Gray"),
+                                         pattern = "Listed for the four subgenera separately, because they are ranked as full genera by some: \\(1\\) Subgenus Callithrix Erxleben, 1777: ",
+                                         replacement = ""),
          msw3_synonymy = str_replace_all(msw3_synonymy,
-                                         pattern = "\\. \\(2\\) Subgenus Mico",
-                                         replacement = " [(2) Subgenus Mico"),
-
+                                         pattern = "\\. \\(2\\) Subgenus Mico Lesson, 1840: Liocephalus Wagner, 1840",
+                                         replacement = "; Liocephalus Wagner, 1840"),
+         msw3_synonymy = str_replace_all(msw3_synonymy,
+                                         pattern = "\\. \\(3\\) Subgenus Cebuella Gray, 1866: no synonyms. \\(4\\) Subgenus Calibella van Roosmalen and van Roosmalen, 2003: no synonyms",
+                                         replacement = ""),
+         msw3_synonymy = str_replace_all(msw3_synonymy,
+                                         pattern = "1834-36",
+                                         replacement = "1834-1836"),
          msw3_synonymy = str_replace_all(msw3_synonymy,
                                          pattern = " \\[",
                                          replacement = "~\\[")) %>%
@@ -352,10 +359,33 @@ dtf_msw3_genus_synonyms <- dtf_msw3_full_clean %>%
                        delim = "~",
                        names = c("msw3_synonym", 
                                  "msw3_synonym_note"),
-                       too_few = "align_start")
-
-
-
+                       too_few = "align_start") %>%
+  mutate(msw3_synonym = str_replace(msw3_synonym,
+                                    pattern = "[:space:]",
+                                    replacement = "_")) %>%
+  separate_wider_delim(msw3_synonym,
+                       delim = "_",
+                       names = c("msw3_synonym_name",
+                                 "msw3_synonym_authority"),
+                       too_few = "align_start") %>%
+  mutate(msw3_synonym_authority = str_replace_all(msw3_synonym_authority,
+                                                  pattern = "^\\(|\\)$",
+                                                  replacement = ""),
+         msw3_synonym_authority = str_replace(msw3_synonym_authority,
+                                              pattern = " 1",
+                                              replacement = "_1"),
+         msw3_synonym_authority = str_replace(msw3_synonym_authority,
+                                              pattern = " 2",
+                                              replacement = "_2")) %>%
+  separate_wider_delim(msw3_synonym_authority,
+                       delim = "_",
+                       names = c("msw3_synonym_author_name",
+                                 "msw3_synonym_author_year"),
+                       too_few = "align_start") %>%
+  mutate(msw3_synonym_author_name = str_squish(msw3_synonym_author_name),
+         msw3_synonym_author_name = str_replace(msw3_synonym_author_name,
+                                                pattern = "\\.$|,$",
+                                                replacement = ""))
 
 #### Notes to self ####
 
@@ -375,12 +405,6 @@ dtf_msw3_genus_specificProblems <- dtf_msw3_genus_synonyms %>%
   filter(str_detect(msw3_synonymy, pattern = "^[:upper:]", negate = TRUE))
 
 ## Snippets of problematic strings on "synonyms columns"
-# (preoccupied by Canis Linnea
-#Fischer (von Waldheim), 1817
-#Iredale (ex MacGillivray), 1937
-#Fischer de Waldheim
-#unavailble
-
 
 #Listed for the four subgenera separately, because they are ranked as full genera by some: (1) Subgenus Callithrix Erxleben, 1777: Anthopithecus F. Cuvier, 1829
 
