@@ -82,12 +82,22 @@ dtf_msw3_gensyn_2 <- dtf_msw3_gensyn_0 %>%
 
 
 
-mdd <- dtf_mdd_genera_0 %>%
+
+
+
+
+
+
+
+
+
+
+mdd <- dtf_mdd_genera %>%
   select(#mdd_accepted_sist_order,
          mdd_accepted_sist_genus) %>%
   distinct()
 
-msw3 <- dtf_msw3_gensyn_1 %>%
+msw3 <- dtf_msw3_gensyn_2 %>%
   select(#msw3_accepted_sist_order,
          msw3_accepted_sist_genus,
          msw3_synonym_name) %>%
