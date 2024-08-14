@@ -28,6 +28,8 @@ dtf_msw3_genus_synonyms <- dtf_msw3_full_clean %>%
          msw3_accepted_sist_order,
          msw3_accepted_sist_family,
          msw3_accepted_sist_genus,
+         msw3_accepted_author_name,
+         msw3_accepted_author_year,
          msw3_synonymy) %>%
   # The following are steps to clean several specific string formatting problems.             # 
   # they basically consist of replacing messy punctuation with standardized punctuation in    #
